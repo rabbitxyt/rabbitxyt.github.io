@@ -1,4 +1,4 @@
-title: Yiting's Website
+title: 简单的快乐
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Yiting Xiao # add your name
 author-img: photo.jpg # add your photo
-about-author: 我叫肖怡婷，来自中国上海。本科毕业于上海财经大学物流管理专业，研究生毕业于佐治亚理工大学计算数据分析专业。现居美国亚特兰大。希望和大家交朋友！ # add description
+about-author: 我叫肖怡婷，90后，白羊座，来自上海。本科毕业后来到美国读研，也在这里遇见了自己的另一半。希望用这个小小的博客分享自己的学习和生活。 # add description
 twitter: yiting_xiao # add your Twitter handle
 facebook: yxiao82 # add your Facebook handle
 github: rabbitxyt # add your Github handle
