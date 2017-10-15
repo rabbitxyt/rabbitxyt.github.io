@@ -1,0 +1,83 @@
+---
+---
+
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/* force scrollbar, prevents initial gap */
+html {
+  overflow-y: scroll;
+}
+
+.image-wrapper,
+.gallery-sizer {
+  width: 33%;
+}
+
+.image-gallery {
+
+  display: block;
+
+  .image-wrapper {
+    float: left;
+    padding: 3px;
+
+    // hack required if no padding
+    .image {
+      width: 100.1%;
+      width: calc( 100% + 1px );
+      height: 100%;
+    }
+  }
+
+  &:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+}
+
+.caption {
+  position: static;
+  color: #AAA;
+}
+
+
+.row {
+    width:100%;
+    display: block;
+
+    // base definition
+    .column{
+        float:left;
+        display: block;
+        box-sizing: border-box;
+    }
+
+    .half-width {
+        @extend .column;
+        @media screen and (min-width: 600px) {
+            width: 48%;
+        }
+    }
+
+    @media screen and (min-width: 600px) {
+        .left {
+            margin-left: 0;
+            margin-right: 2%;
+        }
+        .right {
+            margin-left: 2%;
+            margin-right: 0;
+        }
+    }
+    &::after{
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
