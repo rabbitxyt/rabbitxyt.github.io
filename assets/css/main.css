@@ -1100,6 +1100,11 @@ footer .copyright {
   color: #263959;
 }
 
+.gallery-title a {
+  text-decoration: none;
+  color: #263959;  
+}
+
 .post .post-content p {
   margin-top: 0;
 }

@@ -5,12 +5,15 @@ no_menu_item: true # required only for this example website because of menu cons
 support: [jquery, gallery]
 ---
 
-摄于2016年3月
 
-迪士尼乐园：
+<h3>迪士尼乐园</h3>
+
 {% include gallery-layout.html gallery=site.data.galleries.orlando-disney-parks id_number=1 %}
 
-环球影城:
-
+<h3>环球影城</h3>
 
 {% include gallery-layout.html gallery=site.data.galleries.orlando-universal-studio id_number=2 %}
+
+摄于2016年3月
+
+<br>
