@@ -1,0 +1,63 @@
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* force scrollbar, prevents initial gap */
+html {
+  overflow-y: scroll;
+}
+.image-wrapper, .gallery-sizer {
+  width: 33%;
+}
+.image-gallery {
+  display: block;
+}
+.image-gallery .image-wrapper {
+  float: left;
+  padding: 3px;
+}
+.image-gallery .image-wrapper .image {
+  width: 100.1%;
+  width: calc(100% + 1px);
+  height: 100%;
+}
+.image-gallery:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.caption {
+  position: static;
+  color: #aaa;
+}
+.row {
+  width: 100%;
+  display: block;
+}
+.row .column, .row .half-width {
+  float: left;
+  display: block;
+  box-sizing: border-box;
+}
+@media screen and (min-width: 600px) {
+  .row .half-width {
+    width: 48%;
+  }
+}
+@media screen and (min-width: 600px) {
+  .row .left {
+    margin-left: 0;
+    margin-right: 2%;
+  }
+  .row .right {
+    margin-left: 2%;
+    margin-right: 0;
+  }
+}
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
