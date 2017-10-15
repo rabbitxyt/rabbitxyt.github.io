@@ -16,7 +16,6 @@ facebook: yxiao82 # add your Facebook handle
 github: rabbitxyt # add your Github handle
 linkedin: yitingxiao # add your Linkedin handle
 email: rabbitxyt@gmail.com # add your Email address
-weibo: rabbitxyt
 
 # Disqus
 discus-identifier: rabbitxyt # add your discus identifier
@@ -33,13 +32,5 @@ plugins:
 
 paginate: 8
 paginate_path: "/page/:num"
-
-defaults:
-  -
-    scope:
-      path: "photography"
-    values:
-      permalink: /:path/:basename:output_ext
-
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

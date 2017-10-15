@@ -1,10 +1,6 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
-
-@charset "utf-8";
-
-
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in
@@ -819,7 +815,7 @@ pre code {
   position: relative;
 }
 
-.post, .article-page, .gallery-page {
+.post, .article-page {
   background-color: #fff;
 }
 
@@ -934,12 +930,10 @@ pre code {
 .content-box {
   padding: 20px;
   padding-left: 260px;
-  /*
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  */
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -1222,26 +1216,6 @@ a.newer-posts:hover {
   text-decoration: underline;
 }
 
-/* - - - - - - - - - - Photo Styles - - - - - - - - - - */
-.blog-photos {
-  width: 100%;
-  background-color: #ffffff;
-  padding: 0 20px 20px;
-}
-
-.blog-photos h1 {
-  font-size: 30px;
-  text-align: center;
-  line-height: 1.3;
-  color: #263959;
-}
-
-.blog-photos h2 {
-  color: #263959;
-  margin: 10px 0;
-}
-
-
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 .blog-tags {
   width: 100%;
@@ -1365,12 +1339,10 @@ a.newer-posts:hover {
   }
   .content-box {
     padding: 20px 10px;
-    /*
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    */
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -webkit-flex-direction: row;
