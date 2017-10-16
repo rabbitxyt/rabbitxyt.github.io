@@ -22,8 +22,9 @@
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
- 	
-    
+ 	<!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.baseurl }}" /> 
+
   {% if page.support contains 'jquery' %}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
   {% endif %}
