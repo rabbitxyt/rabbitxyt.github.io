@@ -4,7 +4,7 @@ title: 准备生日礼物
 date: 2017-10-05 00:00:00 +0300
 description: first post
 img: birthday-cake-candles.jpg
-tags: [随笔]
+tags: [生活]
 ---
 
 ## （一）

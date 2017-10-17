@@ -4,7 +4,7 @@ title: 忙碌的一周
 date: 2017-10-16 00:00:00 +0300
 description: weekly summary
 img: never-say-die.jpg
-tags: [随笔]
+tags: [生活]
 ---
 
 ## 开心的事：
