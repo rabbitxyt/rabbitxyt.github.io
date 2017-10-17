@@ -2,7 +2,7 @@ title: 简单的快乐
 description: An individual blog to share life experience
 permalink: '/blog/:year/:month/:day/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rabbitxyt.github.io/" 
+url: "" 
 
 # Author Settings
 author: Yiting Xiao # add your name
