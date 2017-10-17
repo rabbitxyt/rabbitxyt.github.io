@@ -2,9 +2,6 @@
 /* Document
    ========================================================================== */
 
-@charset "utf-8";
-
-
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in
@@ -813,7 +810,7 @@ pre code {
   padding-right: 0;
   padding-left: 0;
 }
-
+        
 .wrapper {
   max-width: 1250px;
   position: relative;
@@ -934,12 +931,10 @@ pre code {
 .content-box {
   padding: 20px;
   padding-left: 260px;
-  /*
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  */
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -1370,12 +1365,10 @@ a.newer-posts:hover {
   }
   .content-box {
     padding: 20px 10px;
-    /*
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    */
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -webkit-flex-direction: row;
