@@ -3,7 +3,7 @@ layout: post
 title: 一周记事
 date: 2017-10-16 00:00:00 +0300
 description: weekly summary
-img: never-say-die.jpg
+img: image-gallery.png
 tags: [生活]
 ---
 
