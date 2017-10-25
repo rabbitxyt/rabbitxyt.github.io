@@ -1,0 +1,26 @@
+---
+layout: main
+---
+<article class="article-page">
+  <div class="page-content">
+    <div class="page-cover-image">
+      <a href={{ "/assets/music/" | prepend: site.baseurl | append : page.link}} target="_blank"><img class="page-image" src={{ "/assets/music/" | prepend: site.baseurl | append : page.symbol}} alt="简谱"></a>
+    </div> 
+    <div class="wrap-content">
+      <header class="header-page">
+        <h1 class="page-title">{{page.title}}</h1>
+        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+      </header>
+      {{page.content | markdownify}}
+      <div class="page-footer">
+
+        <div class="page-tag">
+          {% for tag in page.tags %}
+            <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
+          {% endfor %}
+        </div>
+      </div>
+<!--      {% include disqus.html %}
+    </div> <!-- End Wrap Content -->
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->
