@@ -1,15 +1,26 @@
 ---
 layout: music
-title: 老男孩-歌词
+title: 老男孩
 date: 2017-10-25 00:00:00 +0300
 description: 
 img: oldboy2.jpg
 symbol: symbol-cut.jpg
+song: old-boy.mp3
 link: old-boy.jpg
 tags: [喜欢的歌]
 ---
 
+我的青春，是迷茫的。一如孩提时代，沉浸在自己的世界中。喜欢看偶像剧，喜欢看言情小说，喜欢听动感 101，喜欢感动。想要变得成熟，却始终没有成熟。和一些男孩女孩相处过，一点点明白什么样的朋友和恋人适合自己。
 
+或许像歌词唱的：生活像一把无情割刀，改变了我们的模样，但有些东西是不会被改变的。
+
+<br>
+<audio controls="controls" autoplay="autoplay">
+  <source type="audio/ogg" src="/assets/music/old-boy.ogg"></source>
+  <source type="audio/mp3" src="/assets/music/old-boy.mp3"></source>
+</audio>
+
+<br>
 那是我日夜思念 深深爱着的人啊
 
 到底我该如何表达 她会接受我吗
@@ -42,10 +53,12 @@ tags: [喜欢的歌]
 
 未来在哪里平凡 啊 谁给我答案
 
+<br>
 那时陪伴我的人哪 你们如今在何方
 
 我曾经爱过的人啊 现在是什么模样
 
+<br>
 当初的愿望实现了吗 事到如今只好祭奠吗
 
 任岁月风干理想再也 找不回真的我
@@ -80,3 +93,5 @@ tags: [喜欢的歌]
 
 <br>
 如果有明天 祝福你亲爱的
+
+

@@ -1,4 +1,4 @@
-title: 简单的快乐
+title: 不忘初心，方得始终
 description: An individual blog to share life experience
 permalink: '/blog/:year/:month/:day/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
