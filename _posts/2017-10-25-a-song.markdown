@@ -10,11 +10,7 @@ link: old-boy.jpg
 tags: [喜欢的歌]
 ---
 
-我的青春，是迷茫的。一如孩提时代，沉浸在自己的世界中。喜欢看偶像剧，喜欢看言情小说，喜欢听动感 101，喜欢感动。想要变得成熟，却始终没有成熟。和一些男孩女孩相处过，一点点明白什么样的朋友和恋人适合自己。
 
-或许像歌词唱的：生活像一把无情割刀，改变了我们的模样，但有些东西是不会被改变的。
-
-<br>
 <audio controls="controls" autoplay="autoplay">
   <source type="audio/ogg" src="/assets/music/old-boy.ogg"></source>
   <source type="audio/mp3" src="/assets/music/old-boy.mp3"></source>
