@@ -11,6 +11,11 @@ tags: [喜欢的歌]
 ---
 
 
+作词：筷子兄弟；作曲：大桥卓弥；原曲：《ありがとう》
+
+(简谱点击上方图片链接)
+
+<br>
 <audio controls="controls" autoplay="autoplay">
   <source type="audio/ogg" src="/assets/music/old-boy.ogg"></source>
   <source type="audio/mp3" src="/assets/music/old-boy.mp3"></source>
