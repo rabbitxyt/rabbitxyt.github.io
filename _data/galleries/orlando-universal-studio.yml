@@ -1,0 +1,47 @@
+picture_path: orlando/universal-studio
+pictures:
+- filename: orlando-24
+  original: orlando-24-899x1200.jpg
+  sizes:
+  - orlando-24-450x600.jpg
+  thumbnail: orlando-24-450x600.jpg
+- filename: orlando-25
+  original: orlando-25-1200x900.jpg
+  sizes:
+  - orlando-25-600x450.jpg
+  thumbnail: orlando-25-600x450.jpg
+- filename: orlando-27
+  original: orlando-27-901x1200.jpg
+  sizes:
+  - orlando-27-451x600.jpg
+  thumbnail: orlando-27-451x600.jpg
+- filename: orlando-28
+  original: orlando-28-902x1200.jpg
+  sizes:
+  - orlando-28-451x600.jpg
+  thumbnail: orlando-28-451x600.jpg
+- filename: orlando-29
+  original: orlando-29-1200x900.jpg
+  sizes:
+  - orlando-29-600x450.jpg
+  thumbnail: orlando-29-600x450.jpg
+- filename: orlando-30
+  original: orlando-30-1200x900.jpg
+  sizes:
+  - orlando-30-600x450.jpg
+  thumbnail: orlando-30-600x450.jpg
+- filename: orlando-31
+  original: orlando-31-1200x900.jpg
+  sizes:
+  - orlando-31-600x450.jpg
+  thumbnail: orlando-31-600x450.jpg
+- filename: orlando-33
+  original: orlando-33-1200x900.jpg
+  sizes:
+  - orlando-33-600x450.jpg
+  thumbnail: orlando-33-600x450.jpg
+- filename: orlando-35
+  original: orlando-35-1200x900.jpg
+  sizes:
+  - orlando-35-600x450.jpg
+  thumbnail: orlando-35-600x450.jpg

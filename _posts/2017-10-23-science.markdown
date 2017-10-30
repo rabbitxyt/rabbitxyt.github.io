@@ -3,7 +3,7 @@ layout: post
 title: ✧ 为什么菠萝要用盐水泡？
 date: 2017-10-23 00:00:00 +0300
 description: 
-img: 171023-science.jpg
+img: pineapple3.jpg
 tags: [科普]
 ---
 

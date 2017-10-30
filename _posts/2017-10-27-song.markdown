@@ -2,9 +2,11 @@
 layout: music
 title: ♫ 达尔文
 date: 2017-10-27 00:00:00 +0300
-img: 171027-song.jpg
-song: 达尔文.mp3
-notation: 达尔文.jpg
+description: 
+img: tanya.jpg
+symbol: symbol-cut.jpg
+song: darwin.mp3
+link: darwin.jpg
 tags: [听歌]
 ---
 
@@ -15,8 +17,8 @@ tags: [听歌]
 
 <br>
 <audio controls="controls" autoplay="autoplay" loop="loop" preload="auto">
-  <source type="audio/ogg" src="/assets/music/达尔文.ogg"></source>
-  <source type="audio/mp3" src="/assets/music/达尔文.mp3"></source>
+  <source type="audio/ogg" src="/assets/music/darwin.ogg"></source>
+  <source type="audio/mp3" src="/assets/music/darwin.mp3"></source>
 </audio>
 
 <br>
