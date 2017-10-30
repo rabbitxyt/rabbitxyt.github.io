@@ -3,41 +3,43 @@ layout: post
 title: 解锁新公园
 date: 2017-10-29 00:00:00 +0300
 description: Indian Springs State Park
-img: state-park.jpg
+img: 171029-life.jpg
 tags: [生活]
 ---
 
 
 今天去了离家 1 小时车程的 Indian Springs State Park，第一次去，印象还是很不错的。
 
-![地图]({{site.baseurl}}/assets/img/State-Park/Indian-Springs/IMG_4354.PNG)
+![佐治亚州立公园地图]({{site.baseurl}}/assets/img/content/State-Park/Indian-Springs/IMG_4354.PNG)
 
 
 亚特兰大突然大降温，最高温度 8°C，最低温度只有 2°C。
 
-我们选择了一个 3/4 mile 的短 Trail，途中还看到一块介绍**地衣**的牌子：
+公园一共有两条 Trail，我们走了 3/4-Mile Nature Trail。另一条是比较长的 Multi-Use Trail (3.25) Miles，是沿着湖边走的，下次去挑战一下。
+
+
+走 Trail 的途中看到一块介绍**地衣**这种生物的的牌子，上面写着：
 
 > 这些了不起的真菌可以在其他生物很难存活的地方茁壮成长。地衣是真正的“双重生物” ：一种真菌和一种藻为了共同的利益生活在一起。真菌提供水和矿物质，而藻的叶绿素则利用太阳的能量来生产食物。
 >
 
-这是我在公园里看到的地衣，我觉得红色的还挺漂亮的。好像都没在别的公园见到过地衣，可能没有留意吧。
+我觉得红色的地衣还挺漂亮的。好像也不是每个公园都有，也可能是我不懂所以没留意吧。
 
 
-![地衣]({{site.baseurl}}/assets/img/State-Park/Indian-Springs/IMG_4341.JPG)
+![地衣]({{site.baseurl}}/assets/img/content/State-Park/Indian-Springs/IMG_4341.JPG)
 
 <br>
 走完 Trail 回来，发现我们竟然不能原路返回了，一阵妖风把一颗大树给吹倒了！只好绕道而行，路上还看到别人在举办婚礼。
 
 
-![横在路中央的树]({{site.baseurl}}/assets/img/State-Park/Indian-Springs/IMG_4345.jpg)
+![横在路中央的树]({{site.baseurl}}/assets/img/content/State-Park/Indian-Springs/IMG_4345.jpg)
 
 <br>
 最后顺路去了附近的 High Falls State Park，只在门口拍了拍瀑布，老公表示人造痕迹太明显。
 
-![瀑布]({{site.baseurl}}/assets/img/State-Park/Indian-Springs/IMG_4347.jpg)
+![瀑布]({{site.baseurl}}/assets/img/content/State-Park/Indian-Springs/IMG_4347.jpg)
 
 
 
 <br>
 
-写博客时看了看手机，发现也才走了 1 万多步。。慢慢来吧！
