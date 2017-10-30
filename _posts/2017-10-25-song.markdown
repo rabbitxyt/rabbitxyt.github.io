@@ -2,12 +2,11 @@
 layout: music
 title: ♫ 老男孩
 date: 2017-10-25 00:00:00 +0300
-description: 
-img: oldboy2.jpg
-symbol: symbol-cut.jpg
-song: old-boy.mp3
-link: old-boy.jpg
+description: a song reflecting past
+img: 2017-10-25-song.jpg
 tags: [听歌]
+
+link: 老男孩-简谱.jpg
 ---
 
 
@@ -17,8 +16,8 @@ tags: [听歌]
 
 <br>
 <audio controls="controls" autoplay="autoplay" loop="loop" preload="auto">
-  <source type="audio/ogg" src="/assets/music/old-boy.ogg"></source>
-  <source type="audio/mp3" src="/assets/music/old-boy.mp3"></source>
+  <source type="audio/ogg" src="/assets/music/老男孩.ogg"></source>
+  <source type="audio/mp3" src="/assets/music/老男孩.mp3"></source>
 </audio>
 
 <br>
