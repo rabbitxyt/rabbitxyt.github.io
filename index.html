@@ -12,7 +12,7 @@ layout: main
       {% else %}
       {% endif %}
       <div class="post-content">
-          <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> 
+          <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}"><span>🔝 </span>{{post.title}}</a> 
     <!--          | -->
           </h2>
         <p>{{ post.content | strip_html | truncate: 30 }}</p>

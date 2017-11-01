@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🔝 习惯养成计划
+title: 习惯养成计划
 date: 2017-11-01 00:00:00 -0500
 description: pin
 img: 2017-11-01-life.jpg
