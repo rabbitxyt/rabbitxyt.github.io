@@ -1,0 +1,89 @@
+---
+layout: post
+title: 🔝 习惯养成计划
+date: 2017-11-01 00:00:00 -0500
+description: pin
+img: 2017-11-01-life.jpg
+tags: [生活]
+---
+
+> The first and greatest victory is to conquer yourself -- Plato
+
+<br>
+### 生活作息
+
+◆ 睡前泡脚
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
+
+
+◆ 11 点前睡觉
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+
+
+◆ 8 点前起床
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
+
+
+◆ 去公园锻炼
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+
+
+◆ 做早饭
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+
+◆ 铲屎 & 喂食
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png)
+
+<br>
+### 学习（以小时计）
+
+◇ 做 Leetcode 编程题
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+◇ 编辑 Podcast 文字版
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+◇ 更新个人网站
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+
+
+
+◇ 读 An Unquiet Mind
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+
+◇ 看公开课
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+
+<br>
+### 其他
+
+◆ 手机总使用时间少于 3 小时
+
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+◆ 吃饭时不看手机
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+
+◆ 喝 1000 毫升水
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+◆ 吃水果
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 

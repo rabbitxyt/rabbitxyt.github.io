@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一周记事（1）
+title: 一周记事 ㊀
 date: 2017-10-16 00:00:00 -0500
 description: summary
 img: 2017-10-16-summary.png
