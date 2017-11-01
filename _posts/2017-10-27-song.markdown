@@ -1,10 +1,10 @@
 ---
 layout: music
 title: ♫ 达尔文
-date: 2017-10-27 00:00:00 +0300
+date: 2017-10-27 00:00:00 -0500
+description: song
 img: 2017-10-27-song.jpg
 tags: [听歌]
-
 link: 达尔文-简谱.jpg
 ---
 

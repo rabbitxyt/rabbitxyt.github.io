@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ✧ 我与躁郁症共处的 30 年
-date: 2017-10-28 00:00:00 +0300
-description: 
+date: 2017-10-28 00:00:00 -0500
+description: book
 img: 2017-10-28-book.jpg
 tags: [读书]
 ---
