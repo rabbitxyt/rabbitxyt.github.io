@@ -44,14 +44,6 @@ tags: [生活]
 ![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
 
 
-◆ 铲屎 & 喂食
-
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
-
-◆ 打乒乓 / 游泳
-
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
-
 <br>
 ## <span style="color:DodgerBlue">学习（以小时计）</span>
 
@@ -65,7 +57,7 @@ tags: [生活]
 
 ◇ 更新个人网站
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
 
 
 
@@ -82,7 +74,7 @@ tags: [生活]
 <br>
 ## <span style="color:MediumOrchid">其他</span>
 
-◆ 每天刷微博 / 微信时间少于 1 小时
+◆ 刷微博 & 知乎 < 1 小时 / 天
 
 
 ![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
@@ -95,7 +87,27 @@ tags: [生活]
 
 ![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
 
+◆ 铲屎 & 喂食
 
-◆ 每个周末给家里打一个电话
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
+
+◆ 打乒乓 / 游泳
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
+
+
+<br>
+## <span style="color:Green">周末</span>
+
+
+◆ 给家里打电话
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+◆ 去远处的公园玩
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+
+◆ 整理房间 & 打扫卫生
 
 ![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
