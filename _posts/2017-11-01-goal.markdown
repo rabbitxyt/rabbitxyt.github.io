@@ -7,49 +7,61 @@ img: 2017-11-01-life.jpg
 tags: [生活]
 ---
 
+
 > The first and greatest victory is to conquer yourself -- Plato
 
+
 <br>
-### 生活作息
+*更新于 11/02/2017 6:16am*
+
+
+<br>
+
+## <span style="color:Orangered">生活作息</span>
 
 ◆ 睡前泡脚
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
+![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png)
 
 
 ◆ 11 点前睡觉
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
 
 
 ◆ 8 点前起床
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
-
-
-◆ 去公园锻炼
-
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png)
 
 
 ◆ 做早饭
 
+![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+
+
+◆ 天亮后去公园锻炼
+
 ![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+
 
 ◆ 铲屎 & 喂食
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png)
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
+
+◆ 打乒乓 / 游泳
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
 
 <br>
-### 学习（以小时计）
+## <span style="color:DodgerBlue">学习（以小时计）</span>
 
 ◇ 做 Leetcode 编程题
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
 
 ◇ 编辑 Podcast 文字版
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
 
 ◇ 更新个人网站
 
@@ -59,31 +71,31 @@ tags: [生活]
 
 ◇ 读 An Unquiet Mind
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
 
 
-◇ 看公开课
+◇ 看感兴趣的公开课
 
 ![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
 
 
 <br>
-### 其他
+## <span style="color:MediumOrchid">其他</span>
 
-◆ 手机总使用时间少于 3 小时
+◆ 每天刷微博 / 微信时间少于 1 小时
 
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
 
 ◆ 吃饭时不看手机
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
 
-
-◆ 喝 1000 毫升水
-
-![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
-
-◆ 吃水果
+◆ 喝 1000 ml 水 & 吃水果
 
 ![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+
+
+◆ 每个周末给家里打一个电话
+
+![正字]({{site.baseurl}}/assets/img/tally-marks/0s.png) 
