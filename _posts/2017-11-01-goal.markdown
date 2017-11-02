@@ -41,7 +41,7 @@ tags: [生活]
 
 ◆ 天亮后去公园锻炼
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
 
 
 <br>
@@ -63,7 +63,7 @@ tags: [生活]
 
 ◇ 读 An Unquiet Mind
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 
 ◇ 看感兴趣的公开课
@@ -74,7 +74,7 @@ tags: [生活]
 <br>
 ## <span style="color:MediumOrchid">其他</span>
 
-◆ 刷微博 & 知乎 < 1 小时 / 天
+◆ 刷微博 & 知乎的时间少于 1 小时
 
 
 ![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png) 
