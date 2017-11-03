@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 习惯养成计划
+title: 习惯养成计划 (1)
 date: 2017-11-02 20:53:00 -0400
 description: goal
 img: bunny.jpg
 tags: [生活]
 ---
 
-这篇文章用来记录并督促自己保持良好的作息和生活习惯，以及打卡学习任务。
+这是我给自己的一个 checklist，用来记录并督促自己保持良好的作息和生活习惯，以及打卡学习任务。
 
 
-*更新于 11/02/2017 晚上*
+*更新于 11/03/2017 早上*
 
 
 <br>
@@ -34,7 +34,7 @@ tags: [生活]
 
 ◆ 做早饭
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 
 ◆ 天亮后去公园锻炼
