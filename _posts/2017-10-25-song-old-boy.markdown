@@ -12,7 +12,7 @@ tags: [音乐]
 
 
 <br>
-<audio controls="controls" loop="loop" preload="auto">
+<audio controls="controls" preload="auto">
   <source type="audio/ogg" src="/assets/music/老男孩.ogg"></source>
   <source type="audio/mp3" src="/assets/music/老男孩.mp3"></source>
 </audio>

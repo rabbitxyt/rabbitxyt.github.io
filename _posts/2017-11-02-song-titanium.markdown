@@ -13,7 +13,7 @@ tags: [音乐]
 下面是原曲，希望每个人都能如歌词所唱的，练就钢铁般的强大的心。
 
 <br>
-<audio controls="controls" loop="loop" preload="auto">
+<audio controls="controls" preload="auto">
   <source type="audio/ogg" src="/assets/music/Titanium.ogg"></source>
   <source type="audio/mp3" src="/assets/music/Titanium.mp3"></source>
 </audio>
