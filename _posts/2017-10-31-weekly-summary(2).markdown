@@ -66,6 +66,8 @@ tags: [周记]
 
 周日 Oct.29
 
+- 去了离家 1 小时车程的 Indian Springs State Park，第一次去，我们我们走了较短的 Trail，目睹一棵被风刮倒后横在路中央的大树。
+
 - <span style="color:Teal">**我：为什么别人说你萌？像我这样吗？**</span>
 
   <span style="color:Teal">**老公：不，我是聪明的萌，你是傻萌。**</span>

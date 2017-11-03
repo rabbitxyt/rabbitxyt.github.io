@@ -4,7 +4,7 @@ title: An Unquiet Mind (1)
 date: 2017-10-26 17:00:00 -0400
 description: book
 img: book.jpg
-tags: [读书]
+tags: [阅读]
 ---
 
 这是一位患躁郁症的精神科医生 Kay Redfield Jamison 的回忆录，中文译本名为《躁郁之心：我与躁郁症共处的 30 年》。
