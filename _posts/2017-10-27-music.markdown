@@ -1,20 +1,17 @@
 ---
-layout: music
-title: ♫ 达尔文
-date: 2017-10-27 00:00:00 -0500
-description: song
-img: 2017-10-27-song.jpg
+layout: post
+title: 达尔文 - 蔡健雅
+date: 2017-10-27 16:00:00 -0400
+description: music
+img: music.jpg
 tags: [喜欢的歌]
-link: 达尔文-简谱.jpg
 ---
 
+蔡健雅的歌听得很少，只知道《红色高跟鞋》和这首，歌名还是我哼了一句 “懂得永恒” 之后老公告诉我的。最喜欢的歌词大概是最后一句：“进化成更好的人”。
 
-作词：小寒 ；作曲：蔡健雅；原唱：蔡健雅
-
-(简谱点击上方图片链接)
 
 <br>
-<audio controls="controls" autoplay="autoplay" loop="loop" preload="auto">
+<audio controls="controls" loop="loop" preload="auto">
   <source type="audio/ogg" src="/assets/music/达尔文.ogg"></source>
   <source type="audio/mp3" src="/assets/music/达尔文.mp3"></source>
 </audio>

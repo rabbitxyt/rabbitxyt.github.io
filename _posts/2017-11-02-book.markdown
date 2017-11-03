@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 我与躁郁症共处的 30 年
-date: 2017-10-28 00:00:00 -0500
-description: pin
-img: 2017-10-28-book.jpg
+title: An Unquiet Mind
+date: 2017-11-02 17:00:00 -0400
+description: book
+img: book.jpg
 tags: [读书]
 ---
 
-这是一位患躁郁症的精神科医生 Kay Redfield Jamison 的回忆录。原书名为《An Unquiet Mind》，中文译本名为《我与躁郁症共处的 30 年》。
+这是一位患躁郁症的精神科医生 Kay Redfield Jamison 的回忆录，中文译本名为《躁郁之心：我与躁郁症共处的 30 年》。
 
 ## <span style="color:OrangeRed">第一部分 飞像无垠的苍穹</span>
 

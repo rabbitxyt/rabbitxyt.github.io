@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 解锁新公园
-date: 2017-10-29 00:00:00 -0500
+date: 2017-10-29 18:00:00 -0400
 description: trip
-img: 2017-10-29-trip.jpg
+img: autumn.jpg
 tags: [游玩]
 ---
 

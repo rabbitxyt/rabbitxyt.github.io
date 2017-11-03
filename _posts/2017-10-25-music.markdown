@@ -1,20 +1,18 @@
 ---
-layout: music
-title: ♫ 老男孩
-date: 2017-10-25 00:00:00 -0500
-description: song
-img: 2017-10-25-song.jpg
-tags: [喜欢的歌]
-link: 老男孩-简谱.jpg
+layout: post
+title: 老男孩 - 筷子兄弟
+date: 2017-10-25 16:00:00 -0400
+description: music
+img: music.jpg
+tags: [喜欢的歌] 
 ---
 
 
-作词：筷子兄弟；作曲：大桥卓弥；原曲：《ありがとう》
+这是一首非常容易引起人共鸣的歌，歌词内容有关爱情，有关理想。大概每个人的青春都或多或少有些许遗憾吧！听得我想把电影再去看一遍了。
 
-(简谱点击上方图片链接)
 
 <br>
-<audio controls="controls" autoplay="autoplay" loop="loop" preload="auto">
+<audio controls="controls" loop="loop" preload="auto">
   <source type="audio/ogg" src="/assets/music/老男孩.ogg"></source>
   <source type="audio/mp3" src="/assets/music/老男孩.mp3"></source>
 </audio>
