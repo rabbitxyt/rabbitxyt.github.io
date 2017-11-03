@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 习惯养成计划 (1)
-date: 2017-11-02 20:53:00 -0400
+date: 2017-11-03 08:53:00 -0400
 description: goal
 img: bunny.jpg
 tags: [生活]
 ---
 
-这是我给自己的一个 checklist，用来记录并督促自己保持良好的作息和生活习惯，以及打卡学习任务。
+这是我给自己定的一个任务计划表，用来记录并督促自己保持良好的作息和生活习惯，以及打卡学习任务。
 
 
 *更新于 11/03/2017 早上*
@@ -17,9 +17,9 @@ tags: [生活]
 
 ## <span style="color:Orangered">生活作息</span>
 
-◆ 睡前泡脚
+◆ 睡前泡脚 / 洗澡
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png)
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png)
 
 
 ◆ 11 点前睡觉
@@ -39,7 +39,7 @@ tags: [生活]
 
 ◆ 天亮后去公园锻炼
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 
 <br>
