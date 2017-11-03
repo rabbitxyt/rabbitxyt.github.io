@@ -4,13 +4,13 @@ title: 习惯养成计划 (1)
 date: 2017-11-03 08:53:00 -0400
 description: goal
 img: bunny.jpg
-tags: [生活]
+tags: [养成]
 ---
 
 这是我给自己定的一个任务计划表，用来记录并督促自己保持良好的作息和生活习惯，以及打卡学习任务。
 
 
-*更新于 11/03/2017 早上*
+*更新于 11/03/2017 下午*
 
 
 <br>
@@ -49,14 +49,10 @@ tags: [生活]
 
 ![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
 
-◇ 编辑 Podcast 文字版
-
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
-
 
 ◇ 读 An Unquiet Mind
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 
 

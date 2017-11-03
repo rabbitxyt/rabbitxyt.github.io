@@ -1100,6 +1100,7 @@ footer .copyright {
   color: #263959;  
 }
 
+
 .post .post-content p {
   margin-top: 0;
 }
@@ -1427,12 +1428,7 @@ a.newer-posts:hover {
     display: inline-block;
 }
 
-/*
-.pagination a.active {
-    background-color: #4CAF50;
-    color: white;
-}
-*/
+
 
 .pagination a:hover {
     background-color: #ddd;
@@ -1440,4 +1436,6 @@ a.newer-posts:hover {
 
 
 
-
+.related a {
+    text-decoration: none;
+}

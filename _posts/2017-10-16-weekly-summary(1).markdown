@@ -2,9 +2,9 @@
 layout: post
 title: 一周记事 ㊀
 date: 2017-10-16 16:00:00 -0400
-description: summary
+description: weekly summary
 img: summary.jpg
-tags: [生活]
+tags: [周记]
 ---
 
 **关键词：调试 Image Gallery**

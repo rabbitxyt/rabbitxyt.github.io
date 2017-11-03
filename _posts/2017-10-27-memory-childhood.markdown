@@ -4,7 +4,7 @@ title: 小时候
 date: 2017-10-27 16:00:00 -0400
 description: memory
 img: memory.jpg
-tags: [回忆杀]
+tags: [回忆]
 ---
 
 

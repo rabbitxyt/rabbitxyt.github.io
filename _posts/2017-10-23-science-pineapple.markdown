@@ -44,5 +44,5 @@ tags: [科普]
 **经验告诉我，菠萝泡盐水去涩绝对是有用的。虽然感觉这篇文章并没说清楚原因，但是通过阅读我还是学到了很多新知识。所以放在这里，大家辩证看待文中观点。**
 
 <br>
-下面是原答案链接：[为什么部分菠萝要用盐水泡过才能吃？](https://www.zhihu.com/question/19655660/answer/247333147){:target="_blank"}
+下面是原答案链接：<a href="https://www.zhihu.com/question/19655660/answer/247333147" style="text-decoration: none" target="_blank">为什么部分菠萝要用盐水泡过才能吃？</a>
 
