@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 习惯养成计划 (1)
+title: 养成计划 - 11月
 date: 2017-11-03 08:53:00 -0400
 description: goal
 img: bunny.jpg
 tags: [养成]
 ---
 
-这是我给自己定的一个任务计划表，用来记录并督促自己保持良好的作息和生活习惯，以及打卡学习任务。
+这是我给自己定的一个计划表，主要用来记录并督促自己保持良好的作息和生活习惯。
 
 
-*更新于 11/03/2017 下午*
+*（更新于 11/03/2017 晚上）*
 
 
 <br>
@@ -45,9 +45,9 @@ tags: [养成]
 <br>
 ## <span style="color:DodgerBlue">每天 1 小时</span>
 
-◇ 做 Leetcode 编程题
+◇ 做 Hackerrank 编程题
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 
 ◇ 读 An Unquiet Mind
@@ -62,23 +62,19 @@ tags: [养成]
 ◆ 刷微博 & 知乎的时间少于 1 小时
 
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 ◆ 吃饭时不看手机
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 ◆ 喝 1000 ml 水 & 吃水果
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png) 
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png) 
 
 ◆ 铲屎 & 喂食
 
-![正字]({{site.baseurl}}/assets/img/tally-marks/2s.png)
-
-◆ 打乒乓 / 游泳
-
-![正字]({{site.baseurl}}/assets/img/tally-marks/1s.png)
+![正字]({{site.baseurl}}/assets/img/tally-marks/3s.png)
 
 
 <br>
