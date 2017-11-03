@@ -3,16 +3,14 @@ layout: post
 title: 习惯养成计划
 date: 2017-11-02 20:53:00 -0400
 description: goal
-img: goal.jpg
+img: bunny.jpg
 tags: [生活]
 ---
 
+这篇文章用来督促自己（1）保持良好的作息（2）学习 ...
 
-> The first and greatest victory is to conquer yourself -- Plato
 
-
-<br>
-*更新于 11/02/2017 8:16pm*
+*更新于 11/02/2017 晚上*
 
 
 <br>
