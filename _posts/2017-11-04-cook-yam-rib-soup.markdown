@@ -29,11 +29,11 @@ tags: [菜谱]
 
 6. 小火煮 1 个小时
 
-    ![]({{site.baseurl}}/assets/img/content/recipe/yam-rib-soup/IMG_4426.JPG)
+    ![]({{site.baseurl}}/assets/img/content/recipe/yam-rib-soup/IMG_4426.jpg)
 
 7. 放入山药，大火烧开
 
-    ![]({{site.baseurl}}/assets/img/content/recipe/yam-rib-soup/IMG_4427.JPG)
+    ![]({{site.baseurl}}/assets/img/content/recipe/yam-rib-soup/IMG_4427.jpg)
 
 8. 加盐，小火再炖半小时
 
