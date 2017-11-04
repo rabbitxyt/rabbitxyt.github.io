@@ -2,13 +2,13 @@
 layout: post
 title: Titanium - David Guetta
 date: 2017-11-02 16:00:00 -0400
-description: energetic music
-img: music.jpg
+description: invigorate
+img: music2.jpg
 tags: [音乐]
 ---
 
 
-非常有节奏感的一首歌。第一次听好像还是在玩 XBox 上的 Dance Central 的时候，今天又在 Youtube 上听到了钢琴/大提琴版的，比原曲更加柔和，超喜欢~
+非常有节奏感的一首歌。今天在 Youtube 上听到了钢琴/大提琴版的，比原曲更加柔和~ 链接：<span class='nd'>[Titanium / Pavane](https://www.youtube.com/watch?v=fz4MzJTeL0c)</span>
 
 下面是原曲，希望每个人都能如歌词所唱的，练就钢铁般的强大的心。
 
@@ -29,9 +29,7 @@ I'm criticized but all your bullets ricochet
 You shoot me down, but I get up
 
 
-
 <br>
-
 I'm bulletproof nothing to lose
 
 Fire away, fire away
@@ -51,7 +49,6 @@ I am titanium
 
 
 <br>
-
 Cut me down
 
 
@@ -68,7 +65,6 @@ I'm talking loud not saying much
 
 
 <br>
-
 I'm bulletproof nothing to lose
 
 Fire away, fire away
@@ -92,7 +88,6 @@ I am titanium...
 
 
 <br>
-
 Stone-hard, machine gun
 
 Firing at the ones who run
@@ -120,5 +115,4 @@ You shoot me down but I won't fall
 
 
 <br>
-
 I am titanium

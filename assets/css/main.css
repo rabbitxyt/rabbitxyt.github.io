@@ -1436,12 +1436,12 @@ a.newer-posts:hover {
 
 
 
-.related a {
+.nd a {
   text-decoration: none;
   color: #263959;
 }
 
-.related a:hover {
+.nd a:hover {
   text-decoration: underline;
   opacity: .8;
 }
