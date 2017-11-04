@@ -3,7 +3,7 @@ layout: post
 title: 老男孩 - 筷子兄弟
 date: 2017-10-25 16:00:00 -0400
 description: cure, lift your spirits
-img: music3.jpg
+img: old-boy.jpg
 tags: [音乐] 
 ---
 
