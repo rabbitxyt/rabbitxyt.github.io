@@ -2,13 +2,13 @@
 layout: post
 title: Titanium - David Guetta
 date: 2017-11-02 16:00:00 -0400
-description: music
+description: energetic music
 img: music.jpg
 tags: [音乐]
 ---
 
 
-这首歌第一次听好像是在玩 XBox 的跳舞游戏的时候，今天又在 Youtube 上听到了钢琴/大提琴版的，比原曲更加柔和，超喜欢~
+非常有节奏感的一首歌。第一次听好像还是在玩 XBox 上的 Dance Central 的时候，今天又在 Youtube 上听到了钢琴/大提琴版的，比原曲更加柔和，超喜欢~
 
 下面是原曲，希望每个人都能如歌词所唱的，练就钢铁般的强大的心。
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: An Unquiet Mind (3)
+title: An Unquiet Mind (2)
 date: 2017-11-02 17:00:00 -0400
-description: book
+description: an unquiet mind
 img: book.jpg
 tags: [阅读]
 ---
 
-这是一位患躁郁症的精神科医生 Kay Redfield Jamison 的回忆录，中文译本名为《躁郁之心：我与躁郁症共处的 30 年》。
+这是一位患躁郁症的精神科医生的回忆录，中文译本名为《躁郁之心：我与躁郁症共处的 30 年》。
 
 <br>
 **这本书是我的精神科医生推荐给我读的。因为我自己是 I 型躁郁症患者，所以书里有很多地方会让我产生共鸣。没有躁郁症的人也可以读着消遣，了解一下什么是躁郁症；身边有患躁郁症的朋友 / 家人更加应该去读一下，会对这个疾病有更深入的了解。**
