@@ -3,7 +3,7 @@ layout: post
 title: 十月记事
 date: 2017-10-31 18:00:00 -0400
 description: monthly summary
-img: summary.jpg
+img: 2017-10.jpg
 tags: [记事]
 ---
 
@@ -18,12 +18,18 @@ tags: [记事]
 
 
 <br>
+周日 Oct.1
+
+- 去 Stone Mountain 爬山
+
+
 周六 Oct.7
 - 去甜水公园玩。我在 Park Office 买年票，一转身老公不知道从哪里找到了冰棍，笑嘻嘻问我吃不吃
 
 周日 Oct.8
 
 - 建了一个微信群，和高中小伙伴聊天
+
 
 周一 Oct.9
 - 去 Egg Harbor Cafe 吃饭，遇到超级热情服务员！就龙妈那种笑容~~
@@ -111,8 +117,6 @@ tags: [记事]
 周日 Oct.29
 
 - 去了离家 1 小时车程的 Indian Springs State Park，第一次去，目睹一棵被风刮倒后横在路中央的大树。
-
-
 
 
 <br>

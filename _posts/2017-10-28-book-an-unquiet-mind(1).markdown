@@ -3,7 +3,7 @@ layout: post
 title: 躁郁之心 ㈠
 date: 2017-10-28 17:00:00 -0400
 description: an unquiet mind
-img: book.jpg
+img: an-unquiet-mind.jpg
 tags: [阅读]
 ---
 
@@ -15,8 +15,10 @@ tags: [阅读]
 <br>
 ## <span style="color:OrangeRed">第一部分 飞像无垠的苍穹</span>
 
+童年、家庭以及初次邂逅躁郁症
 
 ### <span style="color:DodgerBlue">第 1 章	与日共游</span>
+
 
 - **飞像无垠的苍穹**
 

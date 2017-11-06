@@ -3,7 +3,7 @@ layout: post
 title: 躁郁之心 ㈡
 date: 2017-11-04 15:00:00 -0400
 description: an unquiet mind
-img: book.jpg
+img: an-unquiet-mind.jpg
 tags: [阅读]
 ---
 
@@ -15,6 +15,8 @@ tags: [阅读]
 
 <br>
 ## <span style="color:OrangeRed">第二部分 恼人的疯狂</span>
+
+挣扎在情绪的两极之间
 
 ### <span style="color:DodgerBlue">第 3 章 心灵之翼</span>
 
