@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 山药排骨汤 菜谱
+title: 山药排骨汤
 date: 2017-11-04 16:00:00 -0400
 description: recipe
 img: yam-rib-soup.jpg

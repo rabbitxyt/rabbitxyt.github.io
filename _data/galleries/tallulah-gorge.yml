@@ -1,0 +1,37 @@
+picture_path: rabun-county/tallulah-gorge
+pictures:
+- filename: IMG_4466
+  original: IMG_4466-1024x768.jpg
+  sizes:
+  - IMG_4466-640x480.jpg
+  thumbnail: IMG_4466-640x480.jpg
+- filename: IMG_4461
+  original: IMG_4461-768x1024.jpg
+  sizes:
+  - IMG_4461-360x480.jpg
+  thumbnail: IMG_4461-360x480.jpg
+- filename: IMG_4481
+  original: IMG_4481-1280x960.jpg
+  sizes:
+  - IMG_4481-640x480.jpg
+  thumbnail: IMG_4481-640x480.jpg
+- filename: IMG_4469
+  original: IMG_4469-768x1024.jpg
+  sizes:
+  - IMG_4469-360x480.jpg
+  thumbnail: IMG_4469-360x480.jpg
+- filename: IMG_4491
+  original: IMG_4491-768x1024.jpg
+  sizes:
+  - IMG_4491-360x480.jpg
+  thumbnail: IMG_4491-360x480.jpg
+
+- filename: IMG_4489
+  original: IMG_4489-1280x960.jpg
+  sizes:
+  - IMG_4489-640x480.jpg
+  thumbnail: IMG_4489-640x480.jpg
+
+
+
+

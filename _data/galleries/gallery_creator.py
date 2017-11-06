@@ -10,9 +10,9 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "orlando-universal-studio.yml"
+output_file = "tallulah-gorge.yml"
 input_file = output_file
-image_path = "orlando/universal-studio"
+image_path = "rabun-county/tallulah-gorge"
 extensions= ['jpg', 'JPG', 'png', 'PNG']
 
 # set correct path

@@ -18,3 +18,14 @@
   sizes:
   - orlando-35-600x450.jpg
   thumbnail: orlando-35-600x450.jpg
+-
+ title: Rabun County
+ directory: rabun-county
+ picture_path: rabun-county/tallulah-gorge
+ preview:
+  filename: IMG_4466
+  original: IMG_4466-1024x768.jpg
+  sizes:
+  - IMG_4466-640x480.jpg
+  thumbnail: IMG_4466-640x480.jpg
+  
