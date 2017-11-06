@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 恋爱循环 - 花泽香菜
+title: 恋爱循环
 date: 2017-11-04 06:00:00 -0400
-description: lift your mood
+description: music, lift your mood
 img: hanazawa.jpg
 tags: [音乐]
 ---

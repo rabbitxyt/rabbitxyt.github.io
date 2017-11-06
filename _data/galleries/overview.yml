@@ -28,4 +28,13 @@
   sizes:
   - IMG_4466-640x480.jpg
   thumbnail: IMG_4466-640x480.jpg
-  
+-
+ title: Piedmont Park
+ directory: piedmont-park
+ picture_path: piedmont-park
+ preview:
+  filename: IMG_4409
+  original: IMG_4409-1024x768.jpg
+  sizes:
+  - IMG_4409-640x480.jpg
+  thumbnail: IMG_4409-640x480.jpg

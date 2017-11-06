@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 躁郁之心 第二部分
+title: 躁郁之心 ㈡
 date: 2017-11-04 15:00:00 -0400
 description: an unquiet mind
 img: book.jpg
