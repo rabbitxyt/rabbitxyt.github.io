@@ -7,10 +7,11 @@ img: titanium.jpg
 tags: [音乐]
 ---
 
+**I'm bulletproof nothing to lose**
 
-非常有节奏感的一首歌。今天在 Youtube 上听到了钢琴/大提琴版的，比原曲更加柔和~ 链接：<span class='nd'>[Titanium / Pavane](https://www.youtube.com/watch?v=fz4MzJTeL0c)</span>
+**Fire away, fire away**
 
-下面是原曲，希望每个人都能如歌词所唱的，练就钢铁般的强大的心。
+
 
 <br>
 <audio controls="controls" preload="auto">
