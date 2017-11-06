@@ -7,15 +7,15 @@ img: summary.jpg
 tags: [记事]
 ---
 
-> 生活，生活，明天我们好好的过 —— 《儿歌》张悬
+> 生活，生活，明天我们好好的过 — 《儿歌》
 
 <br>
 周三 Nov.1
 
-- <span style="color:MediumVioletRed">**Day 1 ✓**</span> &nbsp; 今天去了 [Piedmont Park]({{site.baseurl}}/photography/piedmont-park)，不过时间比较紧，在公园呆了五分钟就往回赶了
+- <span style="color:MediumVioletRed">**Day 1 ✓**</span> &nbsp; 今天去了 **Piedmont Park**，不过时间比较紧，在公园呆了五分钟就往回赶了
 
 
-- 申请了 Atlanta Humane Society 的志愿者
+- 申请了 **Atlanta Humane Society** 的志愿者
 
 
 周四 Nov.2
@@ -43,11 +43,11 @@ tags: [记事]
 
 - 下午 1 点去了 **Hillside Orchard Farms**。摘苹果的季节到 10 月中旬，现在已经没有 Upick 活动了。怀念之前在另一个农场摘桃子，特别好吃！我们在店里买了各种苹果、苹果汁和果酱，价格也是非常实惠
 
-- 接着去了 **[Tallulah Gorge State Park]({{site.baseurl}}/photography/rabun-county)**，旅客中心很大，人也很多。出门稍走几步就看到了很棒的瀑布，走了好多台阶，台阶上有镂空，让我有些害怕。在索桥上看到翻腾的江水拍打着石壁，泛起白茫茫的雾气，还是非常壮观的
+- 接着去了 **Tallulah Gorge State Park**，旅客中心很大，人也很多。出门稍走几步就看到了很棒的瀑布，走了好多台阶，台阶上有镂空，让我有些害怕。在索桥上看到翻腾的江水拍打着石壁，泛起白茫茫的雾气，还是非常壮观的
 
-- 在百佳超市附近发现了一家新的 Kung Fu Tea，买了盐酥鸡和奶茶 ｡◕‿◕｡
+- 在百佳超市附近发现了一家新的 **Kung Fu Tea**，买了盐酥鸡和奶茶，开心
 
-- 晚上老公烧了鲫鱼汤，好喝
+- 晚上老公烧了鲫鱼汤，很好喝~
 
 - 给自己的友情提醒，出游时：
   - 如果要吃水果，记得带刀叉和密封保鲜袋
