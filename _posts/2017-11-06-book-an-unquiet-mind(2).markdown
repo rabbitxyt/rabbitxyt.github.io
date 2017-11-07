@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 躁郁之心 (二)
+title: 躁郁之心（二）
 date: 2017-11-06 13:00:00 -0400
 description: an unquiet mind
 img: an-unquiet-mind-2.jpg
