@@ -1418,6 +1418,7 @@ a.newer-posts:hover {
 }
 
 
+
 /* Pagination*/
 
 .pagination a, .pagination span {
@@ -1435,7 +1436,6 @@ a.newer-posts:hover {
 }
 
 
-
 .nd a {
   text-decoration: none;
   color: #263959;
@@ -1445,3 +1445,16 @@ a.newer-posts:hover {
   text-decoration: underline;
   opacity: .8;
 }
+
+
+
+/* Page Pagination*/
+
+.Previous-next a {
+  text-decoration: none;
+  color: #263959;
+}
+
+.next {
+        float: right;
+    }
