@@ -3,7 +3,7 @@ layout: post
 title: 十月记事
 date: 2017-10-31 18:00:00 -0400
 description: monthly summary
-img: 2017-10.jpg
+img: note.jpg
 tags: [记事]
 ---
 

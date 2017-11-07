@@ -1,22 +1,18 @@
 ---
 layout: post
-title: 躁郁之心 ㈡
-date: 2017-11-04 15:00:00 -0400
+title: 躁郁之心 (二)
+date: 2017-11-06 13:00:00 -0400
 description: an unquiet mind
-img: an-unquiet-mind.jpg
+img: an-unquiet-mind-2.jpg
 tags: [阅读]
 ---
 
-这是一位患躁郁症的精神科医生的回忆录，中文译本名为《躁郁之心：我与躁郁症共处的 30 年》。
 
-<br>
-**这本书是我的精神科医生推荐给我读的。因为我自己是 I 型躁郁症患者，所以书里有很多地方会让我产生共鸣。没有躁郁症的人也可以读着消遣，了解一下什么是躁郁症；身边有患躁郁症的朋友 / 家人更加应该去读一下，会对这个疾病有更深入的了解。**
-
-
-<br>
 ## <span style="color:OrangeRed">第二部分 恼人的疯狂</span>
 
-挣扎在情绪的两极之间
+*<span style="color:LightSalmon">挣扎在情绪的两极之间</span>*
+
+<br>
 
 ### <span style="color:DodgerBlue">第 3 章 心灵之翼</span>
 

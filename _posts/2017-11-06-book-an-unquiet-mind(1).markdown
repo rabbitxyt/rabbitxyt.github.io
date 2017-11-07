@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 躁郁之心 ㈠
-date: 2017-10-28 17:00:00 -0400
+title: 躁郁之心（一）
+date: 2017-11-06 11:00:00 -0400
 description: an unquiet mind
-img: an-unquiet-mind.jpg
+img: an-unquiet-mind-1.jpg
 tags: [阅读]
 ---
 

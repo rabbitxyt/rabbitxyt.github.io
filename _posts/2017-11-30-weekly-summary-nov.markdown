@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 十一月记事	
-date: 2017-11-06 8:00:00 -0400
+date: 2017-11-06 19:00:00 -0400
 description: monthly summary
-img: 2017-11.jpg
+img: note-2.jpg
 tags: [记事]
 ---
 
