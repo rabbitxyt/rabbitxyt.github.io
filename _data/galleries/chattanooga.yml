@@ -1,0 +1,65 @@
+picture_path: chattanooga
+pictures:
+
+- filename: DSC_1147
+  original: DSC_1147-1280x853.jpg
+  sizes:
+  - DSC_1147-640x427.jpg
+  thumbnail: DSC_1147-640x427.jpg
+
+- filename: DSC_1103
+  original: DSC_1103-1280x853.jpg
+  title: Lookout Mountain
+  sizes:
+  - DSC_1103-640x427.jpg
+  thumbnail: DSC_1103-640x427.jpg
+
+- filename: IMG_1306
+  original: IMG_1306-1280x1707.jpg
+  title: Lookout Mountain
+  sizes:
+  - IMG_1306-640x853.jpg
+  thumbnail: IMG_1306-640x853.jpg
+
+- filename: DSC_0977
+  original: DSC_0977-1280x853.jpg
+  sizes:
+  - DSC_0977-640x427.jpg
+  thumbnail: DSC_0977-640x427.jpg
+
+- filename: IMG_3334
+  original: IMG_3334-1280x853.jpg
+  title: Lookout Mountain
+  sizes:
+  - IMG_3334-640x427.jpg
+  thumbnail: IMG_3334-640x427.jpg
+
+- filename: IMG_3341
+  original: IMG_3341-1280x854.jpg  
+  title: Tennessee Aquarium
+  sizes:
+  - IMG_3341-640x427.jpg
+  thumbnail: IMG_3341-640x427.jpg
+  
+- filename: IMG_3338
+  original: IMG_3338-1280x1707.jpg
+  title: Ruby Falls
+  sizes:
+  - IMG_3338-640x853.jpg
+  thumbnail: IMG_3338-640x853.jpg
+
+- filename: IMG_1303
+  original: IMG_1303-1280x1707.jpg
+  title: Lookout Mountain
+  sizes:
+  - IMG_1303-640x853.jpg
+  thumbnail: IMG_1303-640x853.jpg
+
+- filename: IMG_3342
+  original: IMG_3342-1280x855.jpg
+  title: Tennessee Aquarium
+  sizes:
+  - IMG_3342-640x427.jpg
+  thumbnail: IMG_3342-640x427.jpg
+
+

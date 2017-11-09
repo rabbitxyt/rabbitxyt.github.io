@@ -11,7 +11,7 @@ support: [jquery, gallery]
 说到西雅图，就会忍不住想到 **下雨** 这个词。好在我们这次并没有遇到下雨天，晴空万里，大概是西雅图最好的季节了。
 
 <br>
-西雅图的**水族馆**有些特别，坐落于海边。和亚特兰大的水族馆比起来那是小太多了，但是体验还是非常棒的，兼有室内和户外的场馆。
+**西雅图水族馆**有些特别，坐落于海边。和亚特兰大的水族馆比起来那是小太多了，但是体验还是非常棒的，兼有室内和户外的场馆。
 
 {% include gallery-layout.html gallery=site.data.galleries.seattle-aquirium id_number=1 %}
 
@@ -22,9 +22,10 @@ support: [jquery, gallery]
 
 <br>
 
-**玻璃博物馆**是来这里一定要去的景点。各种巧夺天工的设计，让人叹为观止。
+**奇胡利玻璃艺术园**是来这里一定要去的景点。各种巧夺天工的设计，让人叹为观止。
 
 {% include gallery-layout.html gallery=site.data.galleries.seattle-chihuly-garden id_number=3 %}
 
-
+<br>
+其他还去了动物园，太空针塔和派克市场，在第一家星巴克买了两个杯子。
 

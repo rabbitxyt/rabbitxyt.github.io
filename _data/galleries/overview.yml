@@ -39,4 +39,13 @@
   sizes:
   - yellowstone-640x480.jpg
   thumbnail: yellowstone-640x480.jpg
-
+-
+ title: 查塔努加 2015-07
+ directory: chattanooga
+ picture_path: cover/
+ preview:
+  filename: chattanooga
+  original: chattanooga-1280x853.jpg
+  sizes:
+  - chattanooga-640x427.jpg
+  thumbnail: chattanooga-640x427.jpg

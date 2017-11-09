@@ -2,6 +2,7 @@ picture_path: yellowstone
 pictures:
 - filename: yellowstone-2
   original: yellowstone-2-1200x800.jpg
+  title: 美洲野牛
   sizes:
   - yellowstone-2-720x480.jpg
   thumbnail: yellowstone-2-720x480.jpg
@@ -17,6 +18,7 @@ pictures:
   thumbnail: yellowstone-12-720x480.jpg
 - filename: yellowstone-6
   original: yellowstone-6-900x1200.jpg
+  title: 生火
   sizes:
   - yellowstone-6-540x720.jpg
   thumbnail: yellowstone-6-540x720.jpg
@@ -32,11 +34,13 @@ pictures:
   thumbnail: yellowstone-4-720x540.jpg
 - filename: yellowstone-5
   original: yellowstone-5-1200x900.jpg
+  title: 黄石大峡谷
   sizes:
   - yellowstone-5-720x540.jpg
   thumbnail: yellowstone-5-720x540.jpg
 - filename: yellowstone-22
   original: yellowstone-22-901x1200.jpg
+  title: 老忠实喷泉
   sizes:
   - yellowstone-22-541x720.jpg
   thumbnail: yellowstone-22-541x720.jpg
@@ -67,6 +71,7 @@ pictures:
   thumbnail: yellowstone-17-540x720.jpg
 - filename: yellowstone-19
   original: yellowstone-19-1200x900.jpg
+  title: 大棱镜温泉
   sizes:
   - yellowstone-19-720x540.jpg
   thumbnail: yellowstone-19-720x540.jpg
