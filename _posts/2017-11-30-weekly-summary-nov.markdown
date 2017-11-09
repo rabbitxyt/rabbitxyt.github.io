@@ -74,3 +74,6 @@ tags: [记事]
 
 - 看精神科医生，给自己的心情打分为 9 / 10 分。和医生说了服用 Olanzapine 后便秘的问题，医生给了三个建议：**Metamucil**, **Prune** **Juice** and **Colace** （前两个的作用是补充纤维素，后一个是用来软化便便的）
 
+周四 Nov.9
+
+- 给 Gallery 加了 Loading Bar
