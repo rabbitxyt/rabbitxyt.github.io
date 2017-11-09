@@ -48,19 +48,5 @@ pictures:
   sizes:
   - orlando-18-600x450.jpg
   thumbnail: orlando-18-600x450.jpg
-- filename: orlando-20
-  original: orlando-20-1200x900.jpg
-  sizes:
-  - orlando-20-600x450.jpg
-  thumbnail: orlando-20-600x450.jpg
-- filename: orlando-21
-  original: orlando-21-1200x900.jpg
-  sizes:
-  - orlando-21-600x450.jpg
-  thumbnail: orlando-21-600x450.jpg
-- filename: orlando-22
-  original: orlando-22-960x1200.jpg
-  sizes:
-  - orlando-22-480x600.jpg
-  thumbnail: orlando-22-480x600.jpg
+
 

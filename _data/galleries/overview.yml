@@ -1,13 +1,34 @@
 -
- title: 黄石国家公园
- directory: yellowstone
- picture_path: yellowstone
+ title: 西雅图
+ directory: seattle
+ picture_path: cover/
  preview:
-  filename: yellowstone-14
-  original: yellowstone-14-1200x900.jpg
+  filename: seattle
+  original: seattle-1280x960.jpg
   sizes:
-  - yellowstone-14-720x540.jpg
-  thumbnail: yellowstone-14-720x540.jpg
+  - seattle-640x480.jpg
+  thumbnail: seattle-640x480.jpg
+
+-
+ title: 纳帕
+ directory: napa
+ picture_path: cover/
+ preview:
+  filename: napa
+  original: napa-1280x960.jpg
+  sizes:
+  - napa-640x480.jpg
+  thumbnail: napa-640x480.jpg
+-
+ title:  圣地亚哥
+ directory: san-diego
+ picture_path: cover/
+ preview:
+  filename: san-diego
+  original: san-diego-1280x960.jpg
+  sizes:
+  - san-diego-640x480.jpg
+  thumbnail: san-diego-640x480.jpg
 -
  title: 奥兰多
  directory: orlando
@@ -19,22 +40,13 @@
   - orlando-35-600x450.jpg
   thumbnail: orlando-35-600x450.jpg
 -
- title: Rabun County
- directory: rabun-county
- picture_path: rabun-county/tallulah-gorge
+ title: 黄石国家公园
+ directory: yellowstone
+ picture_path: cover/
  preview:
-  filename: IMG_4466
-  original: IMG_4466-1024x768.jpg
+  filename: yellowstone
+  original: yellowstone-1280x960.jpg
   sizes:
-  - IMG_4466-640x480.jpg
-  thumbnail: IMG_4466-640x480.jpg
--
- title: Piedmont Park
- directory: piedmont-park
- picture_path: piedmont-park
- preview:
-  filename: IMG_4409
-  original: IMG_4409-1024x768.jpg
-  sizes:
-  - IMG_4409-640x480.jpg
-  thumbnail: IMG_4409-640x480.jpg
+  - yellowstone-640x480.jpg
+  thumbnail: yellowstone-640x480.jpg
+

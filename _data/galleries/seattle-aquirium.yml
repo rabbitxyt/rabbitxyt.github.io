@@ -1,0 +1,35 @@
+picture_path: seattle/aquirium
+pictures:
+- filename: IMG_3577
+  original: IMG_3577-1280x960.jpg
+  sizes:
+  - IMG_3577-640x480.jpg
+  thumbnail: IMG_3577-640x480.jpg
+- filename: IMG_3513
+  original: IMG_3513-1280x1708.jpg
+  sizes:
+  - IMG_3513-640x854.jpg
+  thumbnail: IMG_3513-640x854.jpg
+- filename: IMG_3553
+  original: IMG_3553-1280x960.jpg
+  sizes:
+  - IMG_3553-640x480.jpg
+  thumbnail: IMG_3553-640x480.jpg
+- filename: IMG_3524
+  original: IMG_3524-1280x1707.jpg
+  sizes:
+  - IMG_3524-640x853.jpg
+  thumbnail: IMG_3524-640x853.jpg
+- filename: IMG_3526
+  original: IMG_3526-1280x1707.jpg
+  sizes:
+  - IMG_3526-640x853.jpg
+  thumbnail: IMG_3526-640x853.jpg
+- filename: IMG_3564
+  original: IMG_3564-1280x960.jpg
+  sizes:
+  - IMG_3564-640x480.jpg
+  thumbnail: IMG_3564-640x480.jpg
+
+
+

@@ -1,0 +1,38 @@
+picture_path: napa
+pictures:
+- filename: IMG_3025
+  original: IMG_3025-1280x1707.jpg
+  title: 葡萄藤
+  sizes:
+  - IMG_3025-640x853.jpg
+  thumbnail: IMG_3025-640x853.jpg
+- filename: IMG_3027
+  original: IMG_3027-1280x1707.jpg
+  title: 进入酒庄
+  sizes:
+  - IMG_3027-640x853.jpg
+  thumbnail: IMG_3027-640x853.jpg
+- filename: IMG_3037
+  original: IMG_3037-1280x1707.jpg
+  title: 品酒室
+  sizes:
+  - IMG_3037-640x853.jpg
+  thumbnail: IMG_3037-640x853.jpg
+- filename: IMG_3052
+  original: IMG_3052-1280x1707.jpg
+  title: 合照
+  sizes:
+  - IMG_3052-640x853.jpg
+  thumbnail: IMG_3052-640x853.jpg
+- filename: IMG_3055
+  original: IMG_3055-1280x1707.jpg
+  title: 发起进攻的羊
+  sizes:
+  - IMG_3055-640x853.jpg
+  thumbnail: IMG_3055-640x853.jpg
+- filename: IMG_3059
+  original: IMG_3059-1280x1707.jpg
+  title: 逃跑中的鸡
+  sizes:
+  - IMG_3059-640x853.jpg
+  thumbnail: IMG_3059-640x853.jpg
