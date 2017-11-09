@@ -3,19 +3,16 @@ pictures:
 - filename: IMG_3634
   original: IMG_3634-1280x960.jpg
   sizes:
-  - IMG_3634-1024x768.jpg
   - IMG_3634-640x480.jpg
   thumbnail: IMG_3634-640x480.jpg
 - filename: IMG_3646
   original: IMG_3646-1280x960.jpg
   sizes:
-  - IMG_3646-1024x768.jpg
   - IMG_3646-640x480.jpg
   thumbnail: IMG_3646-640x480.jpg
 - filename: IMG_3644
   original: IMG_3644-1280x960.jpg
   sizes:
-  - IMG_3644-1024x768.jpg
   - IMG_3644-640x480.jpg
   thumbnail: IMG_3644-640x480.jpg
 
