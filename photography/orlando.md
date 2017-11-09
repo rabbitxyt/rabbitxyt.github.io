@@ -14,6 +14,6 @@ support: [jquery, gallery]
 
 {% include gallery-layout.html gallery=site.data.galleries.orlando-universal-studio id_number=2 %}
 
-摄于2016年3月
+（摄于 2016 年 3 月 22 日）
 
 <br>

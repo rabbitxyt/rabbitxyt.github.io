@@ -1,0 +1,19 @@
+picture_path: seattle/lunch
+pictures:
+- filename: IMG_3599
+  original: IMG_3599-1280x960.jpg
+  sizes:
+  - IMG_3599-640x480.jpg
+  thumbnail: IMG_3599-640x480.jpg
+  
+- filename: IMG_3603
+  original: IMG_3603-1280x960.jpg
+  sizes:
+  - IMG_3603-640x480.jpg
+  thumbnail: IMG_3603-640x480.jpg
+
+- filename: IMG_3605
+  original: IMG_3605-1280x960.jpg
+  sizes:
+  - IMG_3605-640x480.jpg
+  thumbnail: IMG_3605-640x480.jpg
