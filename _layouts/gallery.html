@@ -29,10 +29,10 @@ support: [jquery, gallery]
 <br>
 
 <div class="Previous-next">
-  {% if {{page.previous}} %}
-    <a class="previous" href="{{base_url}}/photography/{{page.previous}}">&laquo; {{page.previous}}</a>
+  {% if page.previous %}
+    <a class="previous" href="{{base_url}}/photography/page.previous}}">&laquo; {{page.previous}}</a>
   {% endif %}
-  {% if {{page.next}} %}
+  {% if page.next %}
     <a class="next" href="{{base_url}}/photography/{{page.next}}">{{page.next}} &raquo;</a>
   {% endif %}
 </div>
