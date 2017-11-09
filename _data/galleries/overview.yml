@@ -1,5 +1,5 @@
 -
- title: 西雅图 2017.07
+ title: 西雅图 2017-07
  directory: seattle
  picture_path: cover/
  preview:
@@ -10,7 +10,7 @@
   thumbnail: seattle-640x480.jpg
 
 -
- title: 纳帕 2017.06
+ title: 纳帕 2017-06
  directory: napa
  picture_path: cover/
  preview:
@@ -20,7 +20,7 @@
   - napa-640x480.jpg
   thumbnail: napa-640x480.jpg
 -
- title: 奥兰多 2016.03
+ title: 奥兰多 2016-03
  directory: orlando
  picture_path: orlando/universal-studio
  preview:
@@ -30,7 +30,7 @@
   - orlando-35-600x450.jpg
   thumbnail: orlando-35-600x450.jpg
 -
- title: 黄石 2015.08
+ title: 黄石 2015-08
  directory: yellowstone
  picture_path: cover/
  preview:

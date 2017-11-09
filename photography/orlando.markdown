@@ -1,7 +1,10 @@
 ---
 layout: gallery
 title: 奥兰多
+date: 2016-03-22
 no_menu_item: true # required only for this example website because of menu construction
+previous: yellowstone
+next: napa
 support: [jquery, gallery]
 ---
 
@@ -13,7 +16,3 @@ support: [jquery, gallery]
 <h3>环球影城</h3>
 
 {% include gallery-layout.html gallery=site.data.galleries.orlando-universal-studio id_number=2 %}
-
-（摄于 2016 年 3 月 22 日）
-
-<br>

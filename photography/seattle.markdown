@@ -1,7 +1,10 @@
 ---
 layout: gallery
 title:  西雅图
+date: 2017-07-28
 no_menu_item: true # required only for this example website because of menu construction
+previous: napa
+next:
 support: [jquery, gallery]
 ---
 
@@ -24,6 +27,4 @@ support: [jquery, gallery]
 {% include gallery-layout.html gallery=site.data.galleries.seattle-chihuly-garden id_number=3 %}
 
 
-
-（照片拍摄于 2017 年 7 月 28 日）
 

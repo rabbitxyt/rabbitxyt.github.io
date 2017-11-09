@@ -12,15 +12,33 @@ support: [jquery, gallery]
 <section class="blog-photos">
 
 <div class="gallery-page">
-
-    <h1 class="gallery-title"><a href="{{ site.url }}{{ site.baseurl }}/photography/">{{ page.title }}</a></h1>
-
+  <header class="header-page">
+    <h1 class="gallery-title">{{ page.title }} </h1>  
+    <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>           </div>
+  </header>
+    
     {{ content }}
     
 </div>
+
+    
+<br>
+    
+<hr>
+
+<br>
+
+<div class="Previous-next">
+  {% if {{page.previous}} %}
+    <a class="previous" href="{{base_url}}/photography/{{page.previous}}">&laquo; {{page.previous}}</a>
+  {% endif %}
+  {% if {{page.next}} %}
+    <a class="next" href="{{base_url}}/photography/{{page.next}}">{{page.next}} &raquo;</a>
+  {% endif %}
+</div>
+
     
 </section>
-    
-    
 
+    
 {% include loading-bar.html %}
