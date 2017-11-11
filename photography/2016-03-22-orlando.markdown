@@ -3,8 +3,10 @@ layout: gallery
 title: 奥兰多
 date: 2016-03-22
 no_menu_item: true # required only for this example website because of menu construction
-previous: yellowstone
-next: napa
+previous: 黄石
+previous_url: 2015-08-07-yellowstone
+next: 纳帕
+next_url: 2017-06-24-napa
 support: [jquery, gallery]
 ---
 

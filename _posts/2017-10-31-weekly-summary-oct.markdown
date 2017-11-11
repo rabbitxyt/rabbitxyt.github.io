@@ -18,10 +18,6 @@ tags: [记事]
 
 
 <br>
-周日 Oct.1
-
-- 去 Stone Mountain 爬山
-
 
 周六 Oct.7
 - 去甜水公园玩。我在 Park Office 买年票，一转身老公不知道从哪里找到了冰棍，笑嘻嘻问我吃不吃
@@ -30,6 +26,7 @@ tags: [记事]
 
 - 建了一个微信群，和高中小伙伴聊天
 
+<br>
 
 周一 Oct.9
 - 去 Egg Harbor Cafe 吃饭，遇到超级热情服务员！就龙妈那种笑容~~
@@ -58,9 +55,6 @@ tags: [记事]
 - 去 Tofu House 吃饭，老公还是一如既往地帮我把小黄鱼的鱼肉挑出来。吃完饭，我问他吃饱了吗？他说吃饱了，我说我怎么感觉我还没吃很饱呢？他说：<span style="color:MediumVioletRed">**“你吃好吃的东西的时候胃口就变得超大！”**</span> 
 
 
-
-
-
 <br>
 
 <span style="color:Teal">**老公：你看我这里一块青的。**</span>
@@ -68,8 +62,6 @@ tags: [记事]
 <span style="color:Teal">**我（迅速回忆了一遍）：我打你了吗？？？**</span>
 
 <span style="color:Teal">**老公：抽血抽的。**</span>
-
-
 
 
 <br>
@@ -92,6 +84,7 @@ tags: [记事]
 周日 Oct.22
 - 吃了羊肉泡馍，开心
 
+<br>
 周二 Oct.24
 
 - 看了心理医生，教了我平静心情的呼吸法

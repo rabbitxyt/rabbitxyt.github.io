@@ -4,7 +4,8 @@ title: 查塔努加
 date: 2015-07-04
 no_menu_item: true # required only for this example website because of menu construction
 previous:
-next: yellowstone
+next: 黄石
+next_url: 2015-08-07-yellowstone
 support: [jquery, gallery]
 ---
 

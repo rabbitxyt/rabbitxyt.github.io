@@ -1,6 +1,6 @@
 -
  title: 西雅图 2017-07
- directory: seattle
+ directory: 2017-07-28-seattle
  picture_path: cover/
  preview:
   filename: seattle
@@ -11,7 +11,7 @@
 
 -
  title: 纳帕 2017-06
- directory: napa
+ directory: 2017-06-24-napa
  picture_path: cover/
  preview:
   filename: napa
@@ -21,7 +21,7 @@
   thumbnail: napa-640x480.jpg
 -
  title: 奥兰多 2016-03
- directory: orlando
+ directory: 2016-03-22-orlando
  picture_path: orlando/universal-studio
  preview:
   filename: orlando-35
@@ -31,7 +31,7 @@
   thumbnail: orlando-35-600x450.jpg
 -
  title: 黄石 2015-08
- directory: yellowstone
+ directory: 2015-08-07-yellowstone
  picture_path: cover/
  preview:
   filename: yellowstone
@@ -41,7 +41,7 @@
   thumbnail: yellowstone-640x480.jpg
 -
  title: 查塔努加 2015-07
- directory: chattanooga
+ directory: 2015-07-04-chattanooga
  picture_path: cover/
  preview:
   filename: chattanooga

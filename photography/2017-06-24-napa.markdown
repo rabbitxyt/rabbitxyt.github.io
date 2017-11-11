@@ -3,8 +3,10 @@ layout: gallery
 title: 纳帕酒庄
 date: 2017-06-24
 no_menu_item: true # required only for this example website because of menu construction
-previous: orlando
-next: seattle
+previous: 奥兰多
+previous_url: 2016-03-22-orlando
+next: 西雅图
+next_url: 2017-07-28-seattle
 support: [jquery, gallery]
 ---
 

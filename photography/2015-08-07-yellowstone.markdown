@@ -3,8 +3,10 @@ layout: gallery
 title: 黄石国家公园
 date: 2015-08-07
 no_menu_item: true # required only for this example website because of menu construction
-previous: chattanooga
-next: orlando
+previous: 查塔努加
+previous_url: 2015-07-04-chattanooga
+next: 奥兰多
+next_url: 2016-03-22-orlando
 support: [jquery, gallery]
 ---
 
