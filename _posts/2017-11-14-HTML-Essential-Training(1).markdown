@@ -2,14 +2,14 @@
 layout: post
 title: HTML 基础训练（上）
 date: 2017-11-14 18:00:00 -0400
-description: HTML course
+description: HTML course note part one
 img: web.jpg
 tags: [公开课]
 ---
 
 
 
-## Introducing HTML
+## 1. Introducing HTML
 
 HTML 文档是通过 HTML 标签进行标记的。HTML 标签可以拥有属性，属性提供了有关 HTML 元素的更多的信息。
 
@@ -19,7 +19,9 @@ HTML 文档是通过 HTML 标签进行标记的。HTML 标签可以拥有属性�
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 
-## Basic Page Structure
+
+<br>
+## 2. Basic Page Structure
 
 ```html
 <!doctype html>
@@ -31,7 +33,8 @@ HTML 文档是通过 HTML 标签进行标记的。HTML 标签可以拥有属性�
 </html>
 ```
 
-## Formatting Page Content
+<br>
+## 3. Formatting Page Content
 
 - `<h1>` ... `<h6>` 定义 HTML 标题
 
@@ -49,7 +52,9 @@ HTML 文档是通过 HTML 标签进行标记的。HTML 标签可以拥有属性�
 
 - `<img>` 定义图像，有两个必需的属性：`src` 和 `alt`
 
-## Structuring Content
+
+<br>
+## 4. Structuring Content
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/sectioning.png" alt="sectioning" width="305">
