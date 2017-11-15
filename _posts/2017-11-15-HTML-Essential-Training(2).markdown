@@ -68,7 +68,7 @@ CSS 规则由选择器以及一条或多条声明构成。每条声明由一个�
 
 ### 排版
 
-1. 使用 `font-family` 属性定义文本的字体
+1. 使用 `font-family` 定义文本的字体
 
     通用字体： 
     <span style="font-family: Serif">Serif</span>, 
@@ -77,7 +77,7 @@ CSS 规则由选择器以及一条或多条声明构成。每条声明由一个�
     <span style="font-family: Cursive">Cursive</span>, 
     <span style="font-family: Fantasy">Fantasy</span>
 
-2. 使用 `font-size` 属性设置文本的大小
+2. 使用 `font-size` 设置文本的大小
 
     可以使用 px, em 或结合使用百分比和 em（为 body 以百分比设置默认值）
   
