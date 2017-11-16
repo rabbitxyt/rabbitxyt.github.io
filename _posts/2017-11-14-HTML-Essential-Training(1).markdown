@@ -4,7 +4,7 @@ title: HTML 基础训练（上）
 date: 2017-11-14 18:00:00 -0400
 description: HTML course note part one
 img: web.jpg
-tags: [公开课]
+tags: [笔记]
 ---
 
 
