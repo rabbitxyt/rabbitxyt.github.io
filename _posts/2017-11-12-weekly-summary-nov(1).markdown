@@ -2,7 +2,7 @@
 layout: post
 title: 十一月记事（上）
 date: 2017-11-12 18:00:00 -0400
-description: monthly summary
+description: journal for november
 img: note-nov.jpg
 tags: [记事]
 ---

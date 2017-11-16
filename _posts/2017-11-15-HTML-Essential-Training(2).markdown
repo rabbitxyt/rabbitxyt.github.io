@@ -4,7 +4,7 @@ title: HTML 基础训练（下）
 date: 2017-11-15 16:00:00 -0400
 description: HTML course note part two
 img: web.jpg
-tags: [公开课]
+tags: [笔记]
 ---
 
 
@@ -68,7 +68,7 @@ CSS 规则由选择器以及一条或多条声明构成。每条声明由一个�
 
 ### 排版
 
-1. 使用 `font-family` 定义文本的字体
+- 使用 `font-family` 定义文本的字体
 
     通用字体： 
     <span style="font-family: Serif">Serif</span>, 
@@ -77,8 +77,37 @@ CSS 规则由选择器以及一条或多条声明构成。每条声明由一个�
     <span style="font-family: Cursive">Cursive</span>, 
     <span style="font-family: Fantasy">Fantasy</span>
 
-2. 使用 `font-size` 设置文本的大小
+- 使用 `font-size` 设置文本的大小
 
     可以使用 px, em 或结合使用百分比和 em（为 body 以百分比设置默认值）
   
 
+<br>
+## 8. Basic Scripting
+
+JavaScript 是属于网络的脚本语言。HTML 中的脚本必须位于 `<script></script>` 之间。
+
+变量是用于存储信息的“容器”，我们使用 `var` 来声明变量
+
+函数就是包裹在花括号中的代码块，前面使用了关键词 `function`
+
+
+HTML DOM 对象
+
+1. Document 对象
+
+
+   `getElementById()` 方法可返回对拥有指定 ID 的第一个对象的引用
+
+   DOM 定义了多种查找元素的方法，还有 `getElementsByName()` 和 `getElementsByTagName()`
+
+2. 元素对象
+
+   `classList` 属性返回元素的类名，该属性用于在元素中添加，移除及切换 CSS 类
+
+3. 事件对象
+
+   `onclick` 事件会在元素被点击时发生
+
+   `onload` 事件会在页面或图像加载完成后立即发生
+   

@@ -2,7 +2,7 @@
 layout: post
 title: 躁郁之心（下）
 date: 2017-11-06 13:00:00 -0400
-description: an unquiet mind
+description: introduction to a book named an unquiet mind part two
 img: an-unquiet-mind.jpg
 tags: [阅读]
 ---
