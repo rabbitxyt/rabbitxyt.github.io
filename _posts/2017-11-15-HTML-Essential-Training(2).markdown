@@ -2,11 +2,13 @@
 layout: post
 title: HTML 基础训练（下）
 date: 2017-11-15 16:00:00 -0400
-description: HTML course note part two
+description: HTML Essential Training course note part two
 img: web.jpg
 tags: [笔记]
 ---
 
+
+课程视频链接: [HTML Essential Training @ LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training)
 
 
 ## 5. Creating Links
@@ -66,21 +68,6 @@ CSS 规则由选择器以及一条或多条声明构成。每条声明由一个�
 3. External: 每个页面使用 `<link>` 链接到样式表
 
 
-### 排版
-
-- 使用 `font-family` 定义文本的字体
-
-    通用字体： 
-    <span style="font-family: Serif">Serif</span>, 
-    <span style="font-family: Sans-serif">Sans-serif</span>, 
-    <span style="font-family: Monospace">Monospace</span>, 
-    <span style="font-family: Cursive">Cursive</span>, 
-    <span style="font-family: Fantasy">Fantasy</span>
-
-- 使用 `font-size` 设置文本的大小
-
-    可以使用 px, em 或结合使用百分比和 em（为 body 以百分比设置默认值）
-  
 
 <br>
 ## 8. Basic Scripting

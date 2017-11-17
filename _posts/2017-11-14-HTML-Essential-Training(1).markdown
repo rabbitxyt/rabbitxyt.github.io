@@ -2,22 +2,17 @@
 layout: post
 title: HTML 基础训练（上）
 date: 2017-11-14 18:00:00 -0400
-description: HTML course note part one
+description: HTML Essential Training course note part one
 img: web.jpg
 tags: [笔记]
 ---
 
+课程视频链接: [HTML Essential Training @ LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training)
 
 
 ## 1. Introducing HTML
 
 HTML 文档是通过 HTML 标签进行标记的。HTML 标签可以拥有属性，属性提供了有关 HTML 元素的更多的信息。
-
-资源：
-
-- [Webplatform](https://webplatform.github.io)
-
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 
 
 <br>
@@ -26,10 +21,8 @@ HTML 文档是通过 HTML 标签进行标记的。HTML 标签可以拥有属性�
 ```html
 <!doctype html>
 <html>
-  <head>
-  </head>
-  <body>
-  </body>
+  <head></head>
+  <body></body>
 </html>
 ```
 

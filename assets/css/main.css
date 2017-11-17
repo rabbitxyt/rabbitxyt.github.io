@@ -1459,14 +1459,21 @@ a.newer-posts:hover {
 .Previous-next a {
   text-decoration: none;
   color: #263959;
+  vertical-align: top;
 }
 
 .next {
         float: right;
     }
 
-
-
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+    
+    .Previous-next a {
+      font-size: 0.8em;
+    }
+    
+    
 /* loading bar */
 
 #overlay{
