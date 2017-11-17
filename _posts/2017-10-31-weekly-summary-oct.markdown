@@ -9,16 +9,15 @@ tags: [记事]
 
 
 
-<span style="color:teal">**老公：你立的 Flag 还记得吗？**</span>
+<span class="dialogue">**老公：你立的 Flag 还记得吗？**</span>
 
-<span style="color:teal">**我（一脸迷茫）：什么 Flag 啊？**</span>
+<span class="dialogue">**我（一脸迷茫）：什么 Flag 啊？**</span>
 
-<span style="color:teal">**老公：做题啊... 我只是想说，要是到时候完不成的话，你也不要太难过。**</span>
+<span class="dialogue">**老公：做题啊... 我只是想说，要是到时候完不成的话，你也不要太难过。**</span>
 
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/expression/hamster/speechless.jpg" alt="...">
 
 <br>
-
 周六 Oct.7
 - 去甜水公园玩。我在 Park Office 买年票，一转身老公不知道从哪里找到了冰棍，笑嘻嘻问我吃不吃
 
@@ -26,20 +25,19 @@ tags: [记事]
 
 - 建了一个微信群，和高中小伙伴聊天
 
-<br>
 
 周一 Oct.9
-- 去 Egg Harbor Cafe 吃饭，遇到超级热情服务员！就龙妈那种笑容~~
+- 去 Egg Harbor Cafe 吃饭，遇到超级热情的服务员
 
-- 做了 MBTI 人格测试，这次的测试结果是 ISFJ （4 年前是 ISFP）
+- 做了 MBTI 人格测试，这次的测试结果是 ISFJ
 
 
 周二 Oct.10
 
-- 老公在 HMart 发现了一个非常精致漂亮的茶壶，而且很便宜，现在天天用它泡茶。
+- 老公在 HMart 发现了一个非常精致漂亮的茶壶，而且很便宜
 
 周三 Oct.11
-- 最近看了好几个医生，心理医生和精神科医生都说觉得我比上次好点了，于是我开心地告诉了老公，老公淡淡地答道：<span style="color:MediumVioletRed">**“医生不是都这样说？你的皮肤科医生还说你的脸比上次好多了呢！”**</span> 
+- 最近看了好几个医生，心理医生和精神科医生都说觉得我比上次好点了，于是我开心地告诉了老公，老公淡淡地答道：<span class="emphasis">**“医生不是都这样说？你的皮肤科医生还说你的脸比上次好多了呢！”**</span> 
 
 周五 Oct.13
 - 食堂大叔给了我双倍的薯条。正得瑟着呢，老公严肃地说道：“你以后不可以再吃薯条了”。
@@ -52,48 +50,41 @@ tags: [记事]
 - 下午看了《羞羞的铁拳》，虽然剧情俗套，但拍得真诚，演员很棒！
 
 周日 Oct.15
-- 去 Tofu House 吃饭，老公还是一如既往地帮我把小黄鱼的鱼肉挑出来。吃完饭，我问他吃饱了吗？他说吃饱了，我说我怎么感觉我还没吃很饱呢？他说：<span style="color:MediumVioletRed">**“你吃好吃的东西的时候胃口就变得超大！”**</span> 
+- 去 Tofu House 吃饭，老公还是一如既往地帮我把小黄鱼的鱼肉挑出来。吃完饭，我问他吃饱了吗？他说吃饱了，我说我怎么感觉我还没吃很饱呢？他说：<span class="emphasis">**“你吃好吃的东西的时候胃口就变得超大！”**</span> 
 
 
 <br>
 
-<span style="color:Teal">**老公：你看我这里一块青的。**</span>
+<span class="dialogue">**老公：你看我这里一块青的。**</span>
 
-<span style="color:Teal">**我（迅速回忆了一遍）：我打你了吗？？？**</span>
+<span class="dialogue">**我（迅速回忆了一遍）：我打你了吗？？？**</span>
 
-<span style="color:Teal">**老公：抽血抽的。**</span>
+<span class="dialogue">**老公：抽血抽的。**</span>
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/expression/hamster/yeah.jpg" alt="...">
 
 <br>
 周三 Oct.18
 
-- 早上系鞋带时听到响声，问老公什么情况，他如实回答道：<span style="color:MediumVioletRed">**猫在抠门**</span>
+- 早上系鞋带时听到响声，问老公什么情况，他如实答道：猫在抠门
 
 周四 Oct.19
 
 - 下午经过学校大草坪，听到有人在放 Viva La Vida，就坐了下来听。太阳很好，过来一个人牵着一条狗，扔球玩。看着狗子在阳光下欢脱地奔跑，觉得很幸福
 
-周五 Oct.20
-
-- 发了奇怪的微博：“至此，我会很庆幸这场病让我丢掉工作，重新出发，还是一样，希望让自己变得更优秀…...”
-
-
-周六 Oct.21
-- 精力旺盛地做编程题
-
 周日 Oct.22
 - 吃了羊肉泡馍，开心
 
-<br>
+
 周二 Oct.24
 
 - 看了心理医生，教了我平静心情的呼吸法
 
-  <span style="color:RoyalBlue"> **1）短促吸气，长舒气**</span>
+  **1）短促吸气，长舒气**
 
-  <span style="color:RoyalBlue">**2）长吸气，短促呼气**</span>
+  **2）长吸气，短促呼气**
 
-  <span style="color:RoyalBlue">**3）短促吸气，短促呼气**</span>
+  **3）短促吸气，短促呼气**
 
 周三 Oct.25
 
@@ -114,17 +105,16 @@ tags: [记事]
 
 <br>
 
-<span style="color:Teal">**我：为什么别人说你萌？像我这样吗？**</span>
+<span class="dialogue">**我：为什么别人说你萌？像我这样吗？**</span>
 
-<span style="color:Teal">**老公：不，我是聪明的萌，你是傻萌。**</span>
+<span class="dialogue">**老公：不，我是聪明的萌，你是傻萌。**</span>
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/expression/hamster/lovely.jpg" alt="...">
 
-
-<br>
 
 周一 Oct.30
 
-- 老公生日，画了个爱心送给他 
+- 老公生日，画了个爱心送给他，还送了一个魔方
 
 周二 Oct.31
 

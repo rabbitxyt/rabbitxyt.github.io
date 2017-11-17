@@ -8,9 +8,9 @@ tags: [阅读]
 ---
 
 
-### <span style="color:OrangeRed">第三部分 以爱为药</span>
+### <span class="book-title">第三部分 以爱为药</span>
 
-### <span style="color:DodgerBlue">第 7 章 军官与绅士</span>
+### <span class="book-subtitle">第 7 章 军官与绅士</span>
 
 29 岁那年，凯遇到了大卫。他是一名来自于英国皇家陆军医疗队的精神科医生。虽然凯当时处于长期自杀性抑郁的恢复阶段，但她仍然相信与大卫在一起会让情况变好。事实确实如此，而且好到无法想象：
 
@@ -20,7 +20,7 @@ tags: [阅读]
 
 <br>
 
-### <span style="color:DodgerBlue">第 8 章 他们告诉我下雨了</span>
+### <span class="book-subtitle">第 8 章 他们告诉我下雨了</span>
 
 
 
@@ -31,15 +31,15 @@ tags: [阅读]
 
 <br>
 
-### <span style="color:OrangeRed">第四部分 躁郁之心</span>
+### <span class="book-title">第四部分 躁郁之心</span>
 
-### <span style="color:DodgerBlue">第 9 章 在爱情注视下的疯狂</span>
+### <span class="book-subtitle">第 9 章 在爱情注视下的疯狂</span>
 
 
 **只有当我逐渐进入一个情绪更稳定，生活也可预期的世界之后，我才开始意识到，我对这个世界所知甚少，也完全不清楚在里面生活究竟会是什么样子。在许多方面，我都只是这个正常世界中的一个陌生人而已。**
 
 <br>
-### <span style="color:DodgerBlue">第 13 章 情绪人生</span>
+### <span class="book-subtitle">第 13 章 情绪人生</span>
 
 **就像拜伦所说的那样，我们每个人都是以不同的方式构成的。我们都只能在自身性格的局限中、游移生活，实现其可能性的一小部分。**
 

@@ -7,15 +7,15 @@ img: an-unquiet-mind.jpg
 tags: [阅读]
 ---
 
-这是一位患躁郁症的精神科医生 Kay Redfield Jamison 的回忆录，1995 年首次出版。原书名为《An Unquiet Mind》，中文译本名为《躁郁之心：我与躁郁症共处的 30 年》。
+这是一位患躁郁症的精神科医生 Kay Redfield Jamison 的回忆录，1995 年首次出版。原书名为**《An Unquiet Mind》**，中文译本名为**《躁郁之心：我与躁郁症共处的 30 年》**。
 
 这本书是我的精神科医生强烈推荐给我的。因为我自己也是 I 型躁郁症患者，所以书里有很多地方会让我产生共鸣。
 
 <br>
 
-### <span style="color:OrangeRed">第一部分 飞向无垠的苍穹</span>
+### <span class="book-title">第一部分 飞向无垠的苍穹</span>
 
-### <span style="color:DodgerBlue">第 1 章 与日共游</span>
+### <span class="book-subtitle">第 1 章 与日共游</span>
 
 凯出生于一个军人家庭，有着幸福的童年和家庭生活。凯的父亲是一名空军军官，他精力充沛、风趣幽默；母亲则和蔼、公正、慷慨大方。
 
@@ -23,7 +23,7 @@ tags: [阅读]
 
 高三那年，凯第一次遭到躁郁症侵袭。在最初的兴奋期，她迫不及待想要把这种奇妙感觉分享给每一个朋友。随之而来的是抑郁低潮，只剩下迟钝的身体和僵死的心。凯靠着自己的力量度过了这段灰暗时光。
 
-### <br><span style="color:DodgerBlue">第 2 章	生命的一课</span>
+### <br><span class="book-subtitle">第 2 章	生命的一课</span>
 
 凯在 UCLA 开始了自己的大学学业。大部分时间，她都在对抗躁郁症。大三，凯休学一年，前往苏格兰境内的圣安德鲁斯大学。这一次依旧跟不上课程，但是凯感到非常的快乐，收获良多。一年后，凯重回洛杉矶。她遇到了另一位教授，也是她后来的博士生导师。凯形容他为自己的一处避风港：
 
@@ -31,11 +31,11 @@ tags: [阅读]
 
 
 <br>
-### <span style="color:OrangeRed">第二部分 恼人的疯狂</span>
+### <span class="book-title">第二部分 恼人的疯狂</span>
 
 
 
-### <span style="color:DodgerBlue">第 3 章 心灵之翼</span>
+### <span class="book-subtitle">第 3 章 心灵之翼</span>
 
 凯已经一整年没有受严重的情绪起伏困扰了，她乐观地认为这个问题已经离她而去。她全身心投入繁重的工作，几乎很少睡觉。然而她没有意识到：睡眠的大幅减少即是躁狂症的症状之一，也是诱发的原因。
 
@@ -45,13 +45,13 @@ tags: [阅读]
 
 <br>
 
-### <span style="color:DodgerBlue">第 4 章 怀念土星</span>
+### <span class="book-subtitle">第 4 章 怀念土星</span>
 
 在初次服用锂盐之后的第 6 个月，凯就自行停了药。一方面是因为难以适应的药物副作用；另一方面，一旦有所好转，人们就容易否认疾病会卷土重来。停药后，凯的躁狂症发作得越来越频繁和严重，并且变得更具 “混杂性”；抑郁症也越来越重，有严重的自杀倾向。
 
 <br>
 
-### <span style="color:DodgerBlue">第 5 章 死亡的召唤</span>
+### <span class="book-subtitle">第 5 章 死亡的召唤</span>
 
 再也无法忍受自己正在慢慢变成一个精疲力尽、惹人厌烦的人，凯服用了计量足以致命的锂盐。
 

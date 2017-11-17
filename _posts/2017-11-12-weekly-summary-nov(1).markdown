@@ -11,23 +11,23 @@ tags: [记事]
 
 周三 Nov.1
 
-- <span style="color:MediumVioletRed">**Day 1 ✓**</span> &nbsp; 今天去了 **Piedmont Park**，不过时间比较紧，在公园呆了五分钟就往回赶了
+- <span class="emphasis">**Day 1 ✓**</span> &nbsp; 今天去了 Piedmont Park，不过时间比较紧，在公园呆了五分钟就往回赶了
 
 
-- 申请了 **Atlanta Humane Society** 的志愿者
+- 申请了 Atlanta Humane Society 的志愿者
 
 
 周四 Nov.2
 
-- <span style="color:MediumVioletRed">**Day 2 ✓** </span>  &nbsp; 路上看到一个老爷爷带着一个骑 scooter 的小朋友，很有爱；还有小松鼠在电线上跑来跑去
+- <span class="emphasis">**Day 2 ✓** </span>  &nbsp; 路上看到一个老爷爷带着一个骑 scooter 的小朋友，很有爱；还有小松鼠在电线上跑来跑去
 
 周五 Nov.3
 
-- <span style="color:MediumVioletRed">**Day 3 ✓** </span>  &nbsp; 早上洗了个澡，然后我们家猫开始不停舔我脚 ╮(￣▽￣)╭
+- <span class="emphasis">**Day 3 ✓** </span>  &nbsp; 早上洗了个澡，然后我们家猫开始不停舔我脚 ╮(￣▽￣)╭
 
 周六 Nov.4
 
-- <span style="color:MediumVioletRed">**Day 4 ✓** </span>  &nbsp; 在公园操场看到一队整齐有序的青年穿着短裤在跑步
+- <span class="emphasis">**Day 4 ✓** </span>  &nbsp; 在公园操场看到一队整齐有序的青年穿着短裤在跑步
 
 - 回家路上看到一对父子在路边比赛跑步，看着他们跑了 50 多米才停下，超有爱
 
@@ -38,21 +38,21 @@ tags: [记事]
 
 周日 Nov.5
 
-- 一大早就去 **Dillard House Stables** 骑马，载我的马叫 **Dibo**，是一匹很漂亮的棕色小马。刚开始听领队说如何控制马前进、转向和停止前进的时候心里还是有些小紧张的，同行的阿姨告诉我马儿对路线都很熟悉，其实不怎么需要控制。她老公边骑马边帮我拍了很多照片
+- 一大早就去 Dillard House Stables 骑马，载我的是一匹很漂亮的棕色小马。刚开始听领队说如何控制马的时候心里还有些小紧张，同行的阿姨告诉我其实不怎么需要控制。她老公边骑马边帮我拍了很多照片
 
-- 下午去了 **Hillside Orchard Farms**。摘苹果的季节到 10 月中旬，现在已经没有 Upick 活动了。我们在店里买了苹果、苹果汁和果酱，价格非常实惠
+- 下午去了 Hillside Orchard Farms。我们在店里买了苹果、苹果汁和果酱，价格非常实惠
 
-- 下午还去了 **Tallulah Gorge State Park**，人很多。出门稍走几步就看到了很棒的瀑布，走了一段台阶到了一座索桥，看到翻腾的水浪拍打着石壁，泛起白茫茫的雾气，还是非常壮观的！
+- 接着去了 Tallulah Gorge State Park。出门稍走几步就看到了很棒的瀑布，走了一段台阶到了一座索桥，看到翻腾的水浪拍打着石壁，泛起白茫茫的雾气，还是非常壮观的
 
-- 在百佳超市附近发现了一家新的 **Kung Fu Tea**，买了盐酥鸡和奶茶，开心
+- 在百佳超市附近发现了一家新的 Kung Fu Tea，买了盐酥鸡和奶茶，开心
 
 - 晚上老公烧了鲫鱼汤，很好喝~
 
 - 两条给自己的提醒，出游时：
 
-  <span style="color:RoyalBlue">**1) 如果要吃水果，记得带刀叉和密封保鲜袋**</span>
+  **1) 如果要吃水果，记得带刀叉和密封保鲜袋**
 
-  <span style="color:RoyalBlue">**2) 如果去信号不好的地方，记得下好离线地图**</span>
+  **2) 如果去信号不好的地方，记得下好离线地图**
 
 <br>
 
@@ -65,28 +65,15 @@ tags: [记事]
 
 - 陪老公去看了肠胃，医生说可能要做胃镜 / 肠镜把他吓到了
 
-- 吃了 Olanzapine 后，老是感觉想吃零食，胃口和食欲真的有变好
-
-- 晚上去吃了新开的兰州拉面，老公点了一个牛肉拉面加荷包蛋，我点了一个牛肉刀削面加卤蛋，很好吃噢！
+- 晚上去吃了新开的兰州拉面，好吃
 
 周三 Nov.8
 
-- 看精神科医生，给自己的心情打分为 9 / 10 分。和医生说了服用 Olanzapine 后便秘的问题，医生给了三个建议：**Metamucil**, **Prune** **Juice** 和 **Colace** 
-
-周四 Nov.9
-
-- 给 Gallery 加了 Loading Bar，加了图库之间的链接，添加了新照片
-
+- 看精神科医生，给自己的心情打分为 9 / 10 分。和医生说了服用 Olanzapine 后便秘的问题，医生给了三个建议：Metamucil, Prune Juice 和 Colace 
 
 周五 Nov.10
 
 - 双十一给爸妈买了周黑鸭的鸭脖，我也很想吃~~~
-
-- 今天的 Panda 神教：
-
-  我的是 <span style="color:MediumVioletRed">**"NOW IS A GOOD TIME TO FINISH UP OLD TASKS"**</span>
-
-  老公的是 <span style="color:MediumVioletRed">**"YOU AND YOUR SPOUSE WILL BE HAPPY IN LIFE TOGETHER"**</span>
 
 - 晚上老公在学校参加狼人杀比赛，我一个人在家做饭，吃饭 & 看《爸爸去哪儿》，洗碗，清理灶台，洗衣服，洗澡，清理浴室，报修灶台
 
@@ -102,8 +89,8 @@ tags: [记事]
 
 - 下午写 Podcast 文字版，这期是《推荐系统和消费行为》
 
-- 天上掉馅饼，收到 Guess 20 刀 Reward，于是注册 ➝ 验证 ➝ 买了一件免费 T 恤
+- 天上掉馅饼，收到 Guess 20 刀 Reward，于是买了一件免费 T 恤
 
 - 做晚饭：糖醋排骨 + 菠菜鸡蛋汤
 
-- 第二次申请 **Atlanta Humane Society** 的志愿者，The answer is "YES" this time 🎉 
+- 第二次申请 Atlanta Humane Society 的志愿者，**The answer is "YES" this time** 🎉 

@@ -1469,11 +1469,42 @@ a.newer-posts:hover {
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
     
-    .Previous-next a {
-      font-size: 0.8em;
+    .header-page .page-title {
+        font-size: 1.5em;
     }
     
+    h2 {
+        font-size: 1.2em;
+    }
     
+    h3 {
+        font-size: 1em; 
+    }
+    
+      .Previous-next a {
+      font-size: 0.8em;
+    }
+}
+
+
+/* Blog Content*/
+
+.dialogue {
+    color: Teal;
+}
+
+.emphasis {
+    color: MediumVioletRed;
+}
+
+.book-title {
+    color: OrangeRed;
+}
+
+.book-subtitle {
+    color: DodgerBlue
+}
+
 /* loading bar */
 
 #overlay{

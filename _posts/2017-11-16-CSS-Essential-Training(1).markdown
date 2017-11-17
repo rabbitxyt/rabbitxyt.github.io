@@ -3,7 +3,7 @@ layout: post
 title: CSS 基础训练（上）
 date: 2017-11-16 09:00:00 -0400
 description: CSS Essential Training 1 course note
-img: css.png
+img: css.jpg
 tags: [笔记]
 ---
 
@@ -87,7 +87,7 @@ tags: [笔记]
   
 - `float` 会使元素向左或向右移动，其周围的元素也会重新排列
 
-   使用 `clear` 清除浮动 
+   使用 clear 清除浮动 
    
 - `overflow` 规定当内容溢出元素框时发生的事情
 
