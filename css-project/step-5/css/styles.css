@@ -10,7 +10,6 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    margin: 0;
 }
 
 h1, h2 {
@@ -24,7 +23,6 @@ h1 {
 
 h2 {
     font-size: 40px;
-    margin-top:0;
 }
 
 a {
@@ -39,7 +37,6 @@ a:hover {
 .content-wrap {
     max-width: 950px;
     margin: 0 auto;
-    padding: 50px;
 }
 
 /* Header and Footer
@@ -49,20 +46,8 @@ header, footer {
     color: #8D99AE;
 }
 
-/* header */
 header h1, header h2 {
     color: #EDF2F4;
-}
-
-
-/* footer */
-footer {
-    text-align: center;
-}
-
-.contact-info a {
-    padding: 10px;
-    display: inline-block;
 }
 
 /* Work Experience

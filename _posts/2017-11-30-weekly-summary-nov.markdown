@@ -87,7 +87,7 @@ tags: [记事]
 
 - 做午饭：红烧鲈鱼 + 蚝油西葫芦
 
-- 下午写 Podcast 文字版，这期是《推荐系统和消费行为》
+- 下午写 Podcast 文字版，这期是<a href="http://detasai.com/recsys-text/" target="_blank">《推荐系统和消费行为》</a>
 
 - 天上掉馅饼，收到 Guess 20 刀 Reward，于是买了一件免费 T 恤
 

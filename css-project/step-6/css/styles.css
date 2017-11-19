@@ -40,7 +40,6 @@ a:hover {
     max-width: 950px;
     margin: 0 auto;
     padding: 50px;
-    overflow: auto;
 }
 
 /* Header and Footer
@@ -51,17 +50,8 @@ header, footer {
 }
 
 /* header */
-
-.profile-img {
-    width: 300px;
-    border-radius: 50%;
-    float: left;
-    margin-right: 30px;
-}
-
 header h1, header h2 {
     color: #EDF2F4;
-    margin: 0;
 }
 
 

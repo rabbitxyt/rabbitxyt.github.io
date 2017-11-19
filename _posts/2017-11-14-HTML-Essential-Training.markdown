@@ -7,7 +7,7 @@ img: web.jpg
 tags: [笔记]
 ---
 
-课程视频链接: [HTML Essential Training @ LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training)
+课程视频链接: <a href="https://www.linkedin.com/learning/html-essential-training" target="_blank">HTML Essential Training @ LinkedIn Learning</a>
 
 
 ## 1. Introducing HTML
