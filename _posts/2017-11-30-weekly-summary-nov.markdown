@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 十一月记事（上）
-date: 2017-11-12 18:00:00 -0400
+title: 十一月记事
+date: 2017-11-18 18:00:00 -0400
 description: journal for november
 img: note-nov.jpg
 tags: [记事]
@@ -94,3 +94,14 @@ tags: [记事]
 - 做晚饭：糖醋排骨 + 菠菜鸡蛋汤
 
 - 第二次申请 Atlanta Humane Society 的志愿者，**The answer is "YES" this time** 🎉 
+
+
+周三 Nov.15
+
+- 中午在学校 Farmer's Market 买了蜂蜜，又可以泡蜂蜜柠檬水喝啦！
+
+- 晚上看了电影 《雷神3：诸神黄昏》，评分 8 / 10
+
+周五 Nov.17
+
+- 写 Podcast 文字版，这期是《对抗样本：怎么欺骗机器学习模型》

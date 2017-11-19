@@ -1101,6 +1101,16 @@ footer .copyright {
   color: #00d1b2;
 }
 
+a.project {
+    color:#515151;
+    background: #FCFDAF;
+}
+
+a.resource {
+    text-decoration: underline;
+    color:#515151;
+}
+
 .gallery-title a {
   text-decoration: none;
   color: #263959;  
@@ -1501,8 +1511,8 @@ a.newer-posts:hover {
     color: OrangeRed;
 }
 
-.book-subtitle {
-    color: DodgerBlue
+.book-subtitle, .class-subtitle {
+    color: DodgerBlue;
 }
 
 /* loading bar */
