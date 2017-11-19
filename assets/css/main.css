@@ -1480,10 +1480,12 @@ a.newer-posts:hover {
 /* Blog Content*/
 
 .dialogue {
+    font-weight: bold;
     color: Teal;
 }
 
 .emphasis {
+    font-weight: bold;
     color: MediumVioletRed;
 }
 

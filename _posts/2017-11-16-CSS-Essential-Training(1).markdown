@@ -10,8 +10,10 @@ tags: [笔记]
 
 课程视频链接: [CSS Essential Training 1 @ LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-1)
 
+<span class="emphasis">因为文章涉及很多的外部链接，所以强烈建议在电脑上看哟！ </span>
 
 
+<br>
 ## 1. Getting Started
 
 
