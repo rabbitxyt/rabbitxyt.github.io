@@ -53,10 +53,9 @@ header, footer {
 /* header */
 
 .profile-img {
-    width: 300px;
     border-radius: 50%;
     float: left;
-    margin-right: 30px;
+    padding-right: 30px;
 }
 
 header h1, header h2 {

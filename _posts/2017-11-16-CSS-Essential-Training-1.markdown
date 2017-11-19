@@ -19,7 +19,7 @@ tags: [笔记]
 
 - ### <span class="class-subtitle">Project overview and setup exercise</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-1/index.html" target="_blank"> 应用（一）起始 HTML</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-1/index.html" target="_blank"> 个人简历（一）起始 HTML</a>
 
 
   图像占位符： <a class="resource" href="https://picsum.photos/" target="_blank">Lorem Picsum</a> 
@@ -30,7 +30,7 @@ tags: [笔记]
 
 - ### <span class="class-subtitle">Inline, internal, and external CSS</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-2/index.html" target="_blank"> 应用（二）链接到外部样式表</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-2/index.html" target="_blank"> 个人简历（二）链接到外部样式表</a>
 
 
 
@@ -67,7 +67,7 @@ tags: [笔记]
 
 - ### <span class="class-subtitle">Practicing with selectors and colors</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-3/index.html" target="_blank"> 应用（三）修改背景颜色</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-3/index.html" target="_blank"> 个人简历（三）修改背景颜色</a>
 
 
 
@@ -114,7 +114,7 @@ tags: [笔记]
 
 - ### <span class="class-subtitle">Practicing with web fonts and font-size</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-4/index.html" target="_blank"> 应用（四）修改字体</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-4/index.html" target="_blank"> 个人简历（四）修改字体</a>
 
 
 
@@ -175,13 +175,13 @@ tags: [笔记]
   
 - ### <span class="class-subtitle">Practicing layouts</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-5/index.html" target="_blank"> 应用（五）修改布局</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-5/index.html" target="_blank"> 个人简历（五）修改布局</a>
 
 
 
 - ### <span class="class-subtitle">Practicing with padding and spacing</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-6/index.html" target="_blank"> 应用（六）修改边距</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-6/index.html" target="_blank"> 个人简历（六）修改边距</a>
 
 
 
@@ -203,7 +203,7 @@ tags: [笔记]
 
 - ### <span class="class-subtitle">Practicing with floats</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-7/index.html" target="_blank"> 应用（七）添加浮动</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-7/index.html" target="_blank"> 个人简历（七）添加浮动</a>
 
 
   图像处理：<a class="resource" href="https://pixlr.com/editor/" target="_blank">Pixlr</a>
@@ -217,4 +217,4 @@ tags: [笔记]
 
 - ### <span class="class-subtitle">Practicing with columns</span>
 
-  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-8/index.html" target="_blank"> 应用（八）排列文本</a>
+  <a class="project" href="{{ site.url }}{{ site.baseurl }}/css-project/step-8/index.html" target="_blank"> 个人简历（八）排列文本</a>
