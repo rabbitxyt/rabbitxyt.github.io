@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 十一月记事
-date: 2017-11-18 18:00:00 -0400
+date: 2017-11-22 15:00:00 -0400
 description: journal for november
 img: note-nov.jpg
 tags: [记事]
@@ -87,7 +87,7 @@ tags: [记事]
 
 - 做午饭：红烧鲈鱼 + 蚝油西葫芦
 
-- 下午写 Podcast 文字版，这期是<a href="http://detasai.com/recsys-text/" target="_blank">《推荐系统和消费行为》</a>
+- 下午写 Podcast 文字版，这期是《推荐系统和消费行为》
 
 - 天上掉馅饼，收到 Guess 20 刀 Reward，于是买了一件免费 T 恤
 
@@ -105,3 +105,44 @@ tags: [记事]
 周五 Nov.17
 
 - 写 Podcast 文字版，这期是《对抗样本：怎么欺骗机器学习模型》
+
+周日 Nov.19
+
+- 上午做了卤牛肉
+
+- 下午去 Panola Mountain State Park 骑车。虽然租的车是好车，但是上坡根本骑不动，勉强骑了一小段，累得跟跑了 800 米一样
+
+- 老公罕见地提出去 Trader Joe's 买零食。买了酸奶、布丁、冰激凌、马卡龙和菠萝干
+
+- 晚上在家吃火锅，看电影。是一部老电影，叫《天才一族》，豆瓣评分 8.1 分
+
+周二 Nov.21
+
+- <span class="emphasis">**Day 5 ✓**</span> &nbsp; 今天 6 点醒来，做完早饭还有时间出去走走。
+
+- 下午弄 insurance lapse 扣款，跑了 Tag Office，Department of Revenue，被告知是 Insurance Company 没有上报信息导致保险空白，再打电话给保险公司
+
+- 为了打发时间+蹭星巴克的网，点了 Ice Tea 和 Lemonade
+
+- 晚上打扑克，从三局两胜打到九局五胜
+
+周三 Nov.22
+
+- 看了一眼股票发现 Apple 给我分红了，有 12.6 刀，好开心呀！和老公说以后就靠拿红利赚钱了...
+
+  有下面这么几个日期（以 Apple 这次为例）
+
+  Announcement Date 宣布日（2017/11/2）
+  
+  Ex-Dividend Date 除息日（2017/11/10）
+  
+  Record Date 登记日（2017/11/13）
+  
+  Payment Date 支付日（2017/11/16）
+  
+  <span class="emphasis">要在除息日之前持有该股票，在除息日当天或者之后卖掉股票，不影响本次分红</span>
+  
+  我是正好在除息日前一天买的，不过差不多买了个最高价，到现在两个礼拜才涨回来<a href="http://stock.finance.sina.com.cn/usstock/quotes/AAPL.html" target="_blank">（AAPL 股价表）</a>
+  
+  
+  
