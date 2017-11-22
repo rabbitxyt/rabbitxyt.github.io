@@ -38,7 +38,7 @@ tags: [记事]
 
 周日 Nov.5
 
-- 一大早就去 Dillard House Stables 骑马，载我的是一匹很漂亮的棕色小马。刚开始听领队说如何控制马的时候心里还有些小紧张，同行的阿姨告诉我其实不怎么需要控制。她老公边骑马边帮我拍了很多照片
+- 一大早就去 Dillard House Stables 骑马，载我的是一匹很漂亮的棕色小马。刚开始听领队说如何控制马的时候心里还有些小紧张，同行的阿姨告诉我其实不怎么需要控制
 
 - 下午去了 Hillside Orchard Farms。我们在店里买了苹果、苹果汁和果酱，价格非常实惠
 
@@ -47,12 +47,6 @@ tags: [记事]
 - 在百佳超市附近发现了一家新的 Kung Fu Tea，买了盐酥鸡和奶茶，开心
 
 - 晚上老公烧了鲫鱼汤，很好喝~
-
-- 两条给自己的提醒，出游时：
-
-  **1) 如果要吃水果，记得带刀叉和密封保鲜袋**
-
-  **2) 如果去信号不好的地方，记得下好离线地图**
 
 <br>
 
@@ -85,16 +79,11 @@ tags: [记事]
 
 - USPS 价格之贵，让我们硬生生把一个 5 磅多的包裹重新装到了 13 磅，价格用代理之后还是 65 刀上下
 
-- 做午饭：红烧鲈鱼 + 蚝油西葫芦
-
-- 下午写 Podcast 文字版，这期是《推荐系统和消费行为》
-
-- 天上掉馅饼，收到 Guess 20 刀 Reward，于是买了一件免费 T 恤
-
-- 做晚饭：糖醋排骨 + 菠菜鸡蛋汤
+- 下午写 Podcast 文字版，这期标题是《推荐系统和消费行为》
 
 - 第二次申请 Atlanta Humane Society 的志愿者，**The answer is "YES" this time** 🎉 
 
+<br>
 
 周三 Nov.15
 
@@ -104,25 +93,24 @@ tags: [记事]
 
 周五 Nov.17
 
-- 写 Podcast 文字版，这期是《对抗样本：怎么欺骗机器学习模型》
+- 写 Podcast 文字版，这期标题是《对抗样本：怎么欺骗机器学习模型》
 
 周日 Nov.19
 
-- 上午做了卤牛肉
-
 - 下午去 Panola Mountain State Park 骑车。虽然租的车是好车，但是上坡根本骑不动，勉强骑了一小段，累得跟跑了 800 米一样
 
-- 老公罕见地提出去 Trader Joe's 买零食。买了酸奶、布丁、冰激凌、马卡龙和菠萝干
+- 老公罕见地提出去 Trader Joe's 买零食。买了酸奶、布丁、冰激凌、马卡龙和菠萝干，超开心的
 
 - 晚上在家吃火锅，看电影。是一部老电影，叫《天才一族》，豆瓣评分 8.1 分
 
+
+<br>
+
 周二 Nov.21
 
-- <span class="emphasis">**Day 5 ✓**</span> &nbsp; 今天 6 点醒来，做完早饭还有时间出去走走。
+- <span class="emphasis">**Day 5 ✓**</span> &nbsp; 今天 6 点醒来，做完早饭还有时间出去走走
 
-- 下午弄 insurance lapse 扣款，跑了 Tag Office，Department of Revenue，被告知是 Insurance Company 没有上报信息导致保险空白，再打电话给保险公司
-
-- 为了打发时间+蹭星巴克的网，点了 Ice Tea 和 Lemonade
+- 下午弄 insurance lapse 扣款，Tag Office，Department of Revenue，Fulton County 和 Geico 门店各跑了两趟，结论是保险公司没有向车管所上报车险信息，至于罚款，交完了事，无退款一说
 
 - 晚上打扑克，从三局两胜打到九局五胜
 
@@ -130,19 +118,9 @@ tags: [记事]
 
 - 看了一眼股票发现 Apple 给我分红了，有 12.6 刀，好开心呀！和老公说以后就靠拿红利赚钱了...
 
-  有下面这么几个日期（以 Apple 这次为例）
-
-  Announcement Date 宣布日（2017/11/2）
+  划重点：<span class="emphasis">要在除息日之前持有该股票，在除息日当天卖掉股票不影响本次分红</span>
   
-  Ex-Dividend Date 除息日（2017/11/10）
-  
-  Record Date 登记日（2017/11/13）
-  
-  Payment Date 支付日（2017/11/16）
-  
-  <span class="emphasis">要在除息日之前持有该股票，在除息日当天或者之后卖掉股票，不影响本次分红</span>
-  
-  我是正好在除息日前一天买的，不过差不多买了个最高价，到现在两个礼拜才涨回来<a href="http://stock.finance.sina.com.cn/usstock/quotes/AAPL.html" target="_blank">（AAPL 股价表）</a>
+  我是正好在除息日前一天买的，不过差不多买了个最高价，到现在两个礼拜才涨回来
   
   
   
