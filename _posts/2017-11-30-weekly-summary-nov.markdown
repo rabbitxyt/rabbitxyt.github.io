@@ -11,7 +11,9 @@ tags: [记事]
 
 周三 Nov.1
 
-- <span class="emphasis">**Day 1 ✓**</span> &nbsp; 去了 Piedmont Park，申请了 Atlanta Humane Society 的志愿者
+- <span class="emphasis">**Day 1 ✓**</span> &nbsp; 早起去 Piedmont Park 锻炼
+
+- 申请了 Atlanta Humane Society 的志愿者
 
 
 周四 Nov.2
