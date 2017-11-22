@@ -3,7 +3,7 @@ layout: post
 title: CSS 基础训练 1
 date: 2017-11-16 09:00:00 -0400
 description: CSS Essential Training 1 course note
-img: css.jpg
+img: web.jpg
 tags: [笔记]
 ---
 

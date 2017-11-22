@@ -11,10 +11,7 @@ tags: [记事]
 
 周三 Nov.1
 
-- <span class="emphasis">**Day 1 ✓**</span> &nbsp; 今天去了 Piedmont Park，不过时间比较紧，在公园呆了五分钟就往回赶了
-
-
-- 申请了 Atlanta Humane Society 的志愿者
+- <span class="emphasis">**Day 1 ✓**</span> &nbsp; 去了 Piedmont Park，申请了 Atlanta Humane Society 的志愿者
 
 
 周四 Nov.2
@@ -38,11 +35,11 @@ tags: [记事]
 
 周日 Nov.5
 
-- 一大早就去 Dillard House Stables 骑马，载我的是一匹很漂亮的棕色小马。刚开始听领队说如何控制马的时候心里还有些小紧张，同行的阿姨告诉我其实不怎么需要控制
+- 一大早去 Dillard House Stables 骑马
 
-- 下午去了 Hillside Orchard Farms。我们在店里买了苹果、苹果汁和果酱，价格非常实惠
+- 下午去了 Hillside Orchard Farms，买了苹果、苹果汁和果酱
 
-- 接着去了 Tallulah Gorge State Park。出门稍走几步就看到了很棒的瀑布，走了一段台阶到了一座索桥，看到翻腾的水浪拍打着石壁，泛起白茫茫的雾气，还是非常壮观的
+- 接着去了 Tallulah Gorge State Park，出门稍走几步就看到了很棒的瀑布
 
 - 在百佳超市附近发现了一家新的 Kung Fu Tea，买了盐酥鸡和奶茶，开心
 
@@ -67,9 +64,9 @@ tags: [记事]
 
 周五 Nov.10
 
-- 双十一给爸妈买了周黑鸭的鸭脖，我也很想吃~~~
+- 双十一给爸妈买了周黑鸭的鸭脖
 
-- 晚上老公在学校参加狼人杀比赛，我一个人在家做饭，吃饭 & 看《爸爸去哪儿》，洗碗，清理灶台，洗衣服，洗澡，清理浴室，报修灶台
+- 晚上老公在学校参加狼人杀比赛，我一个人在家做饭，吃饭 & 看《爸爸去哪儿》，洗碗，洗衣服，洗澡
 
 周六 Nov.11
 
@@ -81,7 +78,7 @@ tags: [记事]
 
 - 下午写 Podcast 文字版，这期标题是《推荐系统和消费行为》
 
-- 第二次申请 Atlanta Humane Society 的志愿者，**The answer is "YES" this time** 🎉 
+- 上一次申请 Atlanta Humane Society 的志愿者没有空缺，这次终于申请成功了，需要参加一个 orientation
 
 <br>
 
