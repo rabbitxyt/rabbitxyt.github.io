@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 编程基础
-date: 2017-11-23 09:00:00 -0400
+date: 2017-11-25 09:00:00 -0400
 description: Programming Foundation course note
-img: web.jpg
+img: intro.jpg
 tags: [笔记]
 ---
 
@@ -43,8 +43,6 @@ tags: [笔记]
 
 - 字符串是用于存储和处理文本。可以使用单引号或双引号。
   
-  你可以在字符串中使用引号，字符串中的引号不要与字符串的引号相同；你也可以在字符串添加转义字符来使用引号。
-
 
 - <a class="project" href="{{ site.url }}{{ site.baseurl }}/course/Ex_Files_FoP_Fun/ch03/Numbers/script.js" target="_blank">练习 3：数字</a><a href="{{ site.url }}{{ site.baseurl }}/course/Ex_Files_FoP_Fun/ch03/Numbers/container.html" target="_blank"> -> HTML</a>
 
