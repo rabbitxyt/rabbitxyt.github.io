@@ -12,7 +12,10 @@ tags: [教程]
 
 ## 笔记
 
-#### LinkedIn Learning 一个月试用期（Nov 2017 - Dec 2017）
+### LinkedIn Learning 一个月试用期（Nov 2017 - Dec 2017）
+
+
+#### Become a Web Developer
 
 1. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-14-HTML-Essential-Training" target="_blank"> HTML Essential Training</a>
 
@@ -23,6 +26,9 @@ tags: [教程]
 
 
 4. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-26-Javascript-Essential-Training" target="_blank"> Javascript Essential Training</a>
+
+
+#### Become a Full-Stack Web Developer
 
 5. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-28-Installing-Apache-MySQL-PHP" target="_blank">Installing Apache, MySQL, and PHP</a>
 
