@@ -2,7 +2,7 @@
 layout: post
 title: 颓废的十二月
 date: 2018-01-08 07:00:00 -0400
-description: journal for november
+description: journal for december
 img: note-dec.jpg
 tags: [记事]
 ---
