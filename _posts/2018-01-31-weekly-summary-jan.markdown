@@ -21,7 +21,7 @@ tags: [记事]
 
 
 <br>
-### 🔹 新技能
+### 🔹 新の技能
 
 因为买到了非常好喝的菠萝芒果冰沙，所以想尝试自己动手做。发现真的非常地简单噢！<br>
 <br>
@@ -37,7 +37,7 @@ tags: [记事]
 
 
 <br>
-### 🔹 新玩具
+### 🔹 新の玩具
 
 2018年，半推半就地买了第一个乐高，选了最喜欢的 BB-8 机器人 <a href="https://www.amazon.com/gp/product/B071S29664/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1" target="_blank">LEGO Star Wars VIII BB-8 75187 Building Kit (1106 Piece)</a>。总觉得自己已经过了玩玩具的年纪。
 
@@ -51,7 +51,7 @@ tags: [记事]
 
 
 <br>
-### 🔹 新活动
+### 🔹 新の活动
 
 在 Atlanta Humane Society 上了遛狗课，之后去了两次，每次两个小时。很喜欢狗，但是对它们还是会有戒备。看到其他志愿者和狗狗亲昵地互动还是挺崇拜的。希望自己未来能够成为优秀的遛狗小能手。
 
@@ -71,4 +71,22 @@ tags: [记事]
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/dog-walk.jpg" >
 
 
+<br>
+### 🔹 新の收入
 
+
+最后来说说股票吧！最近一个月买了两笔 Facebook，已经赚了 7.4% 的收益了，去年下半年张老板给安利了一个免佣金的炒股软件 <a href="http://share.robinhood.com/yitingx1" target="_blank">Robinhood</a>，开始走上炒股的道路。不过也可能这个月行情就是比较好所以赚得多，还有很多要学习。赚的钱当然和工资不能比，但是学好投资理财还是挺有用的。18 年伊始，马上就要赚到人生炒股的第一个 $1,000 了，还是有点小激动的。
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/stock.png" >
+
+听说这个软件报税比较复杂，我今年实践一下再来写感想。
+
+
+<br>
+### 🔹 新の旅行
+
+暑假老公可能会去伦敦实习。之前去旅游过一次，但是在那边小住又是不同的感受吧！还可以去爱丁堡找玥玥玩，只是感觉好穷啊，自己只有一万五的积蓄了，老公又不让我问家里拿钱。我也知道这样不好，可是我生病不上班没工资靠自己根本无法愉快的玩耍啊。怀念读书和上班时候的银行卡账户，有钱真好！
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/london.jpg" >
+
+<br>
