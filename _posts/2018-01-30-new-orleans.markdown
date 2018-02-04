@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 新奥尔良游记
+title: 新奥尔良旅游
 date: 2018-02-04 00:00:00 -0400
 description: trip preparation for new orleans
 img: new-orleans.jpg
@@ -28,32 +28,19 @@ tags: [攻略]
 
 # Day 2 - French Quarter
 
-本来看到天气预报报有阵雨还以为天气很不好，没想到上午多云，下午晴天，只有上午 9 点有 30% 概率下雨，其实天气超级好的。决定今天去 French Quarter 闲逛。
 
-这是给老公选的星巴克：Starbucks: 700 Canal St, New Orleans, LA 70119，他表示只要在网快的地方工作就好。
+中午去了 **Felix’s Restaurant & Oyster Bar** 吃午餐，点了新鲜的生蚝和小龙虾。❤️ 小龙虾，完全吃不过瘾！服务员很热情，一直 baby baby 地叫我们。
 
-吃饭推荐：Lüke / Felix’s Restaurant & Oyster Bar / Acme Oyster House
+吃完带老公去了星巴克，自己四处逛逛。在不远的 Café Beignet 买了法式甜甜圈，和老公分着吃了。走了一遍最著名的波本街 Bourbon St. 和皇家街 Royal St.，路边看到很多玩音乐的人。
 
-法式甜甜圈： Café Du Monde，只收现金，可以 Take out
+
+
+
 
 
 <!--
 
-<hr>
-
-🇫🇷 波本街 Bourbon St.－皇家街 Royal St.－ 杰克逊广场 Jackson Square - 密西西比河
-
-
-法国区的建筑具有相当浓郁的异国特色。然而，波本街上一家接一家的酒吧又会把人从遥远的欧洲拉回来。隔壁的皇家街以画廊和古董店闻名。
-
-
-法国市场 Frech Market 是法国区最平价的市场，有很多小摊贩售卖一些当地特色，比如鳄鱼头、面具等。
-
-
-
-
-<hr>
-
+吃饭推荐：Lüke / Acme Oyster House
 
 
 <br>
