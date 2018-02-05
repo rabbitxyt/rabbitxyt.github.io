@@ -27,7 +27,7 @@ tags: [攻略]
 
 晚饭在朋友推荐的 **Drago’s Seafood Restaurant** 吃，果然只有碳烤生蚝 Original Charbroiled Oysters 好吃，另外点了 Oyster/Shrimp Po-boys 和 Seafood Gumbo，没觉得好吃。
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/drago.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/drago.JPG" >
 
 
 <br>
@@ -38,7 +38,7 @@ tags: [攻略]
 
 中午去了 **Felix’s Restaurant & Oyster Bar** 吃午餐，点了小龙虾和新鲜的生蚝。比心小龙虾，完全吃不过瘾！服务员很热情，一直 baby baby 地叫我们。
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/felix.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/felix.JPG" >
 
 <br>
 
@@ -58,7 +58,7 @@ Royal St.上有很多卖艺术品的店：
 
 晚饭在 Mother's 和老公还有他在阿里的同学一起吃，这家卖相很普通，但是味道还挺不错的。点了一个拼盘和甜点。我主要吃了小龙虾盖饭 Crawfish Etouffee 和四季豆，老公吃了炒饭 Jambalaya 和红豆饭 Red Beans & Rice。甜点叫面包布丁，特别甜。
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/mother.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/mother.JPG" >
 
 
 <!--
