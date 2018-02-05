@@ -13,29 +13,52 @@ tags: [攻略]
 老公在上一次外出开会的时候被传染了流感，我也因此不幸被传染。当初乖乖打疫苗多好！所以这次只好带着病旅行 T_T
 
 
-# Day 1 - Arrival
+# Day 1 - 抵达
 
-下午 3:20 的飞机，本来和老公并排坐，他却被调到了前排 Economy Comfort 的座位。我旁边坐的是一个从盐湖城来，去新奥尔良看朋友的男士。聊到了旅行，饮食健康，运动一类的话题。期间我时不时拿出手机查单词，记得一个他说北京的 land snail 特别好吃，我想可能是螺蛳？
+下午 3:20 的飞机，本来和老公并排坐，他却被调到了前排 Economy Comfort 的座位。我旁边坐的是一个从盐湖城来，去新奥尔良看朋友的男士。聊到了旅行，饮食健康，运动一类的话题。期间我时不时拿出手机查单词。
 
 下了飞机叫了 Uber，最近正逢新奥尔良 Mardi Gras 节日，到处都在游行，我们的车绕啊绕，最终都要超时了还没有把我们送到目的地。只好自己走了一小段路。
 
-酒店定在离老公开会很近的 **Cambria hotel & suites**。酒店不错，楼下有餐厅，只是房间里没有办公桌，不太方便办公。
+酒店定在离老公开会很近的 **Cambria hotel & suites**。酒店不错，只是房间里没有办公桌，不太方便办公。
 
-晚饭在朋友推荐的 **Drago’s Seafood Restaurant** 吃，果然只有碳烤生蚝 Original Charbroiled Oysters 好吃，另外点了 Seafood Gumbo 和 Oyster/Shrimp Po-boys，没觉得好吃。
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/hotel.jpg" >
+
+<br>
+
+晚饭在朋友推荐的 **Drago’s Seafood Restaurant** 吃，果然只有碳烤生蚝 Original Charbroiled Oysters 好吃，另外点了 Oyster/Shrimp Po-boys 和 Seafood Gumbo，没觉得好吃。
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/drago.jpg" >
 
 
 <br>
 
-# Day 2 - French Quarter
+# Day 2 - 法国区
 
+上午去了趟超市，搬了些水，面包和水果回酒店。
 
-中午去了 **Felix’s Restaurant & Oyster Bar** 吃午餐，点了新鲜的生蚝和小龙虾。❤️ 小龙虾，完全吃不过瘾！服务员很热情，一直 baby baby 地叫我们。
+中午去了 **Felix’s Restaurant & Oyster Bar** 吃午餐，点了小龙虾和新鲜的生蚝。比心小龙虾，完全吃不过瘾！服务员很热情，一直 baby baby 地叫我们。
 
-吃完带老公去了星巴克，自己四处逛逛。在不远的 Café Beignet 买了法式甜甜圈，和老公分着吃了。走了一遍最著名的波本街 Bourbon St. 和皇家街 Royal St.，路边看到很多玩音乐的人。
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/felix.jpg" >
 
+<br>
 
+吃完带老公去了星巴克，自己四处逛逛。在不远的 Café Beignet 买了法式甜甜圈，和老公分着吃了。走了一遍最著名的波本街 Bourbon St. 和皇家街 Royal St.
 
+漂亮的阳台：
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/balcony.jpg" >
+
+<br>
+
+Royal St.上有很多卖艺术品的店：
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/artwork.jpg" >
+
+<br>
+
+晚饭在 Mother's 和老公还有他在阿里的同学一起吃，这家卖相很普通，但是味道还挺不错的。点了一个拼盘和甜点。我主要吃了小龙虾盖饭 Crawfish Etouffee 和四季豆，老公吃了炒饭 Jambalaya 和红豆饭 Red Beans & Rice。甜点叫面包布丁，特别甜。
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/mother.jpg" >
 
 
 <!--
