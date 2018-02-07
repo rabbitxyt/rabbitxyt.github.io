@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 颓废的十二月
+title: 十二月记事
 date: 2017-12-31 17:00:00 -0400
 description: journal for december
 img: note-dec.jpg
