@@ -17,7 +17,7 @@ tags: [记事]
 
 <br>
 
-下面是我的非常愉快的 2018 年的开端：
+下面是我的 18 年开端：
 
 
 <br>
@@ -28,7 +28,7 @@ tags: [记事]
 材料：一个芒果 + 半个菠萝 + 六块冰块<br>
 准备：芒果和菠萝切块，菠萝用盐水泡，接着将水果冷冻一小时，和冰块一起放入榨汁机
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/smoothie.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-year-mix-2018/smoothie.jpg" >
 
 真的还蛮冰的所以夏天做比较合适。还做了牛油果、香蕉、草莓奶昔，都是不会出错的选择。唯一悲剧的是蜜瓜奶昔，枉我平时最爱这个味道，外面卖的 honeydew milk tea 是怎么做到不苦的啊？
 
@@ -39,9 +39,9 @@ tags: [记事]
 <br>
 ### 🔹 新の玩具
 
-2018年，半推半就地买了第一个乐高，选了最喜欢的 BB-8 机器人 <a href="https://www.amazon.com/gp/product/B071S29664/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1" target="_blank">LEGO Star Wars VIII BB-8 75187 Building Kit (1106 Piece)</a>。总觉得自己已经过了玩玩具的年纪。
+2018年，半推半就地买了第一个乐高，选了最喜欢的 BB-8 机器人 <a href="https://www.amazon.com/gp/product/B071S29664/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1" target="_blank">LEGO Star Wars VIII BB-8 75187 Building Kit (1106 Piece)</a>。总觉得自己已经过了玩玩具的年纪。年纪上去了只喜欢买些实用的东西。
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/bb-8.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-year-mix-2018/bb-8.jpg" >
 
 老公也给自己买了一个轻型萨克斯，真是一个热爱音乐的小朋友。
 
@@ -53,31 +53,19 @@ tags: [记事]
 <br>
 ### 🔹 新の活动
 
-在 Atlanta Humane Society 上了遛狗课，之后去了两次，每次两个小时。很喜欢狗，但是对它们还是会有戒备。看到其他志愿者和狗狗亲昵地互动还是挺崇拜的。希望自己未来能够成为优秀的遛狗小能手。
-
-放一个自己遛过的狗狗们的链接吧！有两只已经被领养走了，都是比较乖巧的狗狗，希望它们能尽快找到自己的家：<br>
-
-
-<a href="http://atlantahumane.org/adopt/details/?aid=37439280&cid=13&tid=Dog#.WmZqGFQ-fOQ" target="_blank">Cici - Female Labrador / Mix</a><br>
-<a href="http://atlantahumane.org/adopt/details/?aid=36482205&cid=13&tid=Dog#.WmZqSlQ-fOQ" target="_blank">Jade - Female Shepherd / Mix</a><br>
-<a href="http://atlantahumane.org/adopt/details/?aid=12781076&cid=13&tid=Dog#.WmZqbFQ-fOQ" target="_blank">Johnny Boy - Male Mixed Breed / Mix</a><br>
-<a href="http://atlantahumane.org/adopt/details/?aid=4606322&cid=13&tid=Dog#.WmZq2VQ-fOQ" target="_blank">Midnight - Male Chow Chow / Border Collie</a><br>
-<a href="http://atlantahumane.org/adopt/details/?aid=21731513&cid=13&tid=Dog#.WmZrYlQ-fOQ" target="_blank">Millie - Female Boxer / Terrier, Pit Bull</a><br> 
-<a href="http://atlantahumane.org/adopt/details/?aid=37401248&cid=13&tid=Dog#.WmZq4FQ-fOQ" target="_blank">Onyx - Female Retriever / Mix</a>
+在 Atlanta Humane Society 上了遛狗课，之后去了几次，每次两个小时左右。很喜欢狗，但是对它们还是会有戒备。看到其他志愿者和狗狗亲昵地互动还是挺崇拜的。希望自己未来能够成为优秀的遛狗小能手。
 
 
 (图为 Midnight)
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/dog-walk.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-year-mix-2018/dog-walk.jpg" >
 
 
 <br>
 ### 🔹 新の收入
 
 
-最后来说说股票吧！最近一个月买了两笔 Facebook，已经赚了 7.4% 的收益了，去年下半年张老板给安利了一个免佣金的炒股软件 <a href="http://share.robinhood.com/yitingx1" target="_blank">Robinhood</a>，开始走上炒股的道路。不过也可能这个月行情就是比较好所以赚得多，还有很多要学习。赚的钱当然和工资不能比，但是学好投资理财还是挺有用的。18 年伊始，马上就要赚到人生炒股的第一个 $1,000 了，还是有点小激动的。
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/stock.png" >
+最后来说说股票吧！最近一个月买了两笔 Facebook，已经赚了 7.5% 的收益了，去年下半年张老板给安利了一个免佣金的炒股软件 <a href="http://share.robinhood.com/yitingx1" target="_blank">Robinhood</a>，开始走上炒股的道路。不过也可能这个月行情就是比较好所以赚得多，还有很多要学习。赚的钱当然和工资不能比，但是学好投资理财还是挺有用的。18 年伊始，赚到炒股以来第一个 $1,000 了，还是有点小激动的。
 
 听说这个软件报税比较复杂，我今年实践一下再来写感想。
 
@@ -85,8 +73,6 @@ tags: [记事]
 <br>
 ### 🔹 新の旅行
 
-暑假老公可能会去伦敦实习。之前去旅游过一次，但是在那边小住又是不同的感受吧！还可以去爱丁堡找玥玥玩，只是感觉好穷啊，自己只有一万五的积蓄了，老公又不让我问家里拿钱。我也知道这样不好，可是我生病不上班没工资靠自己根本无法愉快的玩耍啊。怀念读书和上班时候的银行卡账户，有钱真好！
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/london.jpg" >
+今年 2 月初老公会去新奥尔良开会，4 月底会去温哥华开会，然后暑假可能会去伦敦 Deep Mind 实习。定下来的话可以顺便去加拿大和英国找慧慧和玥玥玩~
 
 <br>
