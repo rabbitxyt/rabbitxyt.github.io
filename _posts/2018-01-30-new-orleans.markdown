@@ -95,7 +95,7 @@ Royal St.上有很多卖艺术品的店：
 <br>
 晚餐又去了 Mother's，点了小龙虾盖饭和海鲜拼盘。单点小龙虾盖饭有一点点咸，不过里面好多小龙虾肉。海鲜拼盘里面鲶鱼 Catfish 一般，生蚝 Oyster 特别大只，不知道为什么中间有鸡肉的口感 - - 好的一点是量大。
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/mother2.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/new-orleans/mother2.JPG" >
 
 
 # Day 5
