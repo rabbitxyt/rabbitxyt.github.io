@@ -54,7 +54,7 @@ tags: [攻略]
 
 <br>
 
-**<span style="color:green">2018 年 2 月 20 日周二收到寄送护照请求</span>**
+**<span style="color:green">2 月 20 日周二收到寄送护照请求，22 日周四寄出 Money Order 和护照</span>**
 
 
 **<span style="color:red">付款费用和寄送护照，是2个地址，要分开发！</span>**
