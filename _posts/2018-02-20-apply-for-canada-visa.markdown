@@ -54,7 +54,7 @@ tags: [攻略]
 
 <br>
 
-**<span style="color:green">2 月 20 日周二收到寄送护照请求，22 日周四寄出 Money Order 和护照</span>**
+**<span style="color:green">2 月 20 日周二收到寄送护照请求，22 日周四寄出 Money Order 和护照，27 日护照寄到 VAC</span>**
 
 
 **<span style="color:red">付款费用和寄送护照，是2个地址，要分开发！</span>**
@@ -116,6 +116,9 @@ Phone Number: (646) 741- 0130
 Email Address: ny-info@csc-cvac.com
 
 
+<br>
+
+**<span style="color:green">3 月 8 日从 VAC 寄出，3 月 13 日周二收到护照（期间网站状态没有任何更新）</span>**
 
 
 
