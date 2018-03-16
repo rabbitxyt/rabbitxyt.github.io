@@ -4,7 +4,7 @@ title: 养狗前的功课
 date: 2018-01-17 07:00:00 -0400
 description: golden retriver summary
 img: golden-retriever.jpg
-tags: [攻略]
+tags: [宠物]
 ---
 
 
