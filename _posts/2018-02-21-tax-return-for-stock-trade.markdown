@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 炒股报税（一）
+title: 报联邦税（含股票收入）
 date: 2018-02-21 11:00:00 -0400
 description: tax return for stock trade
 img: tax-return.jpg
@@ -126,7 +126,7 @@ tags: [攻略]
 
 <br>
 
-**<span style="color:green">2018 年 2 月 21 日周三寄出材料，用的 Priority Mail 2-Day (with tracking #)</span>**
+**<span style="color:green">2018 年 2 月 21 日周三寄出材料，用的 Priority Mail，2 月 23 日寄到</span>**
 
 邮寄文件：
 
@@ -140,3 +140,7 @@ Form 1040 NR/NR-EZ
 
 Form 8843
 
+
+<br>
+
+**<span style="color:green">2018 年 3 月 16 日查询，显示已处理完毕，历时三周</span>**
