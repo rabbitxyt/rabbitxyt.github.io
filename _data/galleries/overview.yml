@@ -1,4 +1,14 @@
 -
+ title: 温哥华 2018-04
+ directory: 2018-04-30-vancouver
+ picture_path: cover/
+ preview:
+  filename: vancouver
+  original: vancouver-1280x960.jpg
+  sizes:
+  - vancouver-640x480.jpg
+  thumbnail: vancouver-640x480.jpg
+-
  title: 西雅图 2017-07
  directory: 2017-07-28-seattle
  picture_path: cover/

@@ -1,0 +1,7 @@
+picture_path: vancouver/breakfast
+pictures:
+- filename: vancouver
+  original: vancouver-1-1280x960.jpg
+  sizes:
+  - vancouver-640x480.jpg
+  thumbnail: vancouver-1-640x480.jpg

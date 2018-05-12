@@ -1,0 +1,27 @@
+picture_path: vancouver/downtown
+pictures:
+- filename: vancouver-6
+  original: vancouver-6-1280x960.jpg
+  sizes:
+  - vancouver-6-640x480.jpg
+  thumbnail: vancouver-6-640x480.jpg
+- filename: vancouver-2
+  original: vancouver-2-1280x960.jpg
+  sizes:
+  - vancouver-2-640x480.jpg
+  thumbnail: vancouver-2-640x480.jpg
+- filename: vancouver-5
+  original: vancouver-5-1280x960.jpg
+  sizes:
+  - vancouver-5-640x480.jpg
+  thumbnail: vancouver-5-640x480.jpg
+- filename: vancouver-7
+  original: vancouver-7-1280x960.jpg
+  sizes:
+  - vancouver-7-640x480.jpg
+  thumbnail: vancouver-7-640x480.jpg
+- filename: vancouver-3
+  original: vancouver-3-1280x960.jpg
+  sizes:
+  - vancouver-3-640x480.jpg
+  thumbnail: vancouver-3-640x480.jpg

@@ -1,0 +1,27 @@
+picture_path: vancouver/granville-island
+pictures:
+- filename: vancouver-35
+  original: vancouver-35-960x1280.jpg
+  sizes:
+  - vancouver-35-480x640.jpg
+  thumbnail: vancouver-35-480x640.jpg
+- filename: vancouver-37
+  original: vancouver-37-1280x960.jpg
+  sizes:
+  - vancouver-37-640x480.jpg
+  thumbnail: vancouver-37-640x480.jpg
+- filename: vancouver-33
+  original: vancouver-33-1280x960.jpg
+  sizes:
+  - vancouver-33-640x480.jpg
+  thumbnail: vancouver-33-640x480.jpg
+- filename: vancouver-34
+  original: vancouver-34-1280x960.jpg
+  sizes:
+  - vancouver-34-640x480.jpg
+  thumbnail: vancouver-34-640x480.jpg
+- filename: vancouver-38
+  original: vancouver-38-1280x959.jpg
+  sizes:
+  - vancouver-38-640x480.jpg
+  thumbnail: vancouver-38-640x480.jpg

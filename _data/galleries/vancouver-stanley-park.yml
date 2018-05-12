@@ -1,0 +1,18 @@
+picture_path: vancouver/stanley-park
+pictures:
+- filename: vancouver-10
+  original: vancouver-10-960x1280.jpg
+  sizes:
+  - vancouver-10-480x640.jpg
+  thumbnail: vancouver-10-480x640.jpg
+- filename: vancouver-14
+  original: vancouver-14-1280x960.jpg
+  sizes:
+  - vancouver-14-640x480.jpg
+  thumbnail: vancouver-14-640x480.jpg
+- filename: vancouver-13
+  original: vancouver-13-1280x959.jpg
+  sizes:
+  - vancouver-13-640x479.jpg
+  thumbnail: vancouver-13-640x479.jpg
+

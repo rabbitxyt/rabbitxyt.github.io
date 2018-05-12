@@ -1,0 +1,32 @@
+picture_path: vancouver/butchart-gardens
+pictures:
+- filename: vancouver-86
+  original: vancouver-86-959x1280.jpg
+  sizes:
+  - vancouver-86-480x640.jpg
+  thumbnail: vancouver-86-480x640.jpg
+- filename: vancouver-88
+  original: vancouver-88-1280x960.jpg
+  sizes:
+  - vancouver-88-640x480.jpg
+  thumbnail: vancouver-88-640x480.jpg
+- filename: vancouver-89
+  original: vancouver-89-1280x960.jpg
+  sizes:
+  - vancouver-89-640x480.jpg
+  thumbnail: vancouver-89-640x480.jpg
+- filename: vancouver-91
+  original: vancouver-91-960x1280.jpg
+  sizes:
+  - vancouver-91-480x640.jpg
+  thumbnail: vancouver-91-480x640.jpg
+- filename: vancouver-90
+  original: vancouver-90-960x1280.jpg
+  sizes:
+  - vancouver-90-480x640.jpg
+  thumbnail: vancouver-90-480x640.jpg
+- filename: vancouver-87
+  original: vancouver-87-1280x960.jpg
+  sizes:
+  - vancouver-87-640x480.jpg
+  thumbnail: vancouver-87-640x480.jpg
