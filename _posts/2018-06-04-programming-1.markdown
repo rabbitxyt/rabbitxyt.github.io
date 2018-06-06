@@ -4,7 +4,7 @@ title: 涵俊教编程（一）
 date: 2018-06-04 15:00:00 -0400
 description: programming tutorial
 img: programming.jpg
-tags: [编程]
+tags: [教程]
 ---
 
 <details> 
