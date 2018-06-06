@@ -1,0 +1,17 @@
+picture_path: san-francisco/desert
+pictures:
+- filename: IMG_7550
+  original: IMG_7550-1280x1707.jpg
+  sizes:
+  - IMG_7550-640x854.jpg
+  thumbnail: IMG_7550-640x854.jpg
+- filename: IMG_7549
+  original: IMG_7549-1280x1707.jpg
+  sizes:
+  - IMG_7549-640x854.jpg
+  thumbnail: IMG_7549-640x854.jpg
+- filename: IMG_7551
+  original: IMG_7551-1280x1707.jpg
+  sizes:
+  - IMG_7551-640x854.jpg
+  thumbnail: IMG_7551-640x854.jpg

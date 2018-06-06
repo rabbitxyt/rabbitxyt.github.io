@@ -1,0 +1,7 @@
+picture_path: san-francisco/first-visit
+pictures:
+- filename: IMG_2853
+  original: IMG_2853-1280x960.jpg
+  sizes:
+  - IMG_2853-640x480.jpg
+  thumbnail: IMG_2853-640x480.jpg

@@ -5,8 +5,8 @@ date: 2018-04-30
 no_menu_item: true # required only for this example website because of menu construction
 previous: 西雅图
 previous_url: 2017-07-28-seattle
-next: 
-next_url: 
+next: 三番
+next_url: 2018-05-30-san-francisco
 support: [jquery, gallery]
 ---
 

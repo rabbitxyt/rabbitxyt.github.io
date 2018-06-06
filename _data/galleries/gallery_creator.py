@@ -10,9 +10,9 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "vancouver-butchart-gardens.yml"
+output_file = "sf-gaga.yml"
 input_file = output_file
-image_path = "vancouver/butchart-gardens"
+image_path = "san-francisco/gaga"
 extensions= ['jpg', 'JPG', 'png', 'PNG']
 
 # set correct path
