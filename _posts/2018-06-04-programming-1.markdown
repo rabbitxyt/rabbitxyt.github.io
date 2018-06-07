@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 涵俊教编程（一）
+title: 涵俊教编程（一）递归
 date: 2018-06-04 15:00:00 -0400
 description: programming tutorial
-img: programming.jpg
+img: recursion.jpg
 tags: [教程]
 ---
 

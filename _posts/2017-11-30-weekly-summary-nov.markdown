@@ -3,7 +3,7 @@ layout: post
 title: 十一月记事
 date: 2017-11-26 14:00:00 -0400
 description: journal for november
-img: note-nov.jpg
+img: nov.jpg
 tags: [记事]
 ---
 

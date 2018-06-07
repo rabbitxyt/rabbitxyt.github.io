@@ -1,0 +1,17 @@
+picture_path: san-francisco/attraction
+pictures:
+- filename: IMG_7545
+  original: IMG_7545-1280x959.jpg
+  sizes:
+  - IMG_7545-640x480.jpg
+  thumbnail: IMG_7545-640x480.jpg
+- filename: IMG_2853
+  original: IMG_2853-1280x960.jpg
+  sizes:
+  - IMG_2853-640x480.jpg
+  thumbnail: IMG_2853-640x480.jpg
+- filename: IMG_2866
+  original: IMG_2866-1280x961.jpg
+  sizes:
+  - IMG_2866-640x481.jpg
+  thumbnail: IMG_2866-640x481.jpg

@@ -3,7 +3,7 @@ layout: post
 title: 报联邦税（含股票收入）
 date: 2018-02-21 11:00:00 -0400
 description: tax return for stock trade
-img: tax-return.jpg
+img: tax.png
 tags: [攻略]
 ---
 

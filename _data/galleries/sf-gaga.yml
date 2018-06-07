@@ -1,5 +1,10 @@
 picture_path: san-francisco/gaga
 pictures:
+- filename: IMG_7647
+  original: IMG_7647-1280x960.jpg
+  sizes:
+  - IMG_7647-640x480.jpg
+  thumbnail: IMG_7647-640x480.jpg
 - filename: IMG_7652
   original: IMG_7652-1280x960.jpg
   sizes:
