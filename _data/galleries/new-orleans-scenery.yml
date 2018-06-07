@@ -1,0 +1,47 @@
+picture_path: new-orleans/scenery
+pictures:
+- filename: IMG_6362
+  original: IMG_6362-1280x958.jpg
+  sizes:
+  - IMG_6362-640x479.jpg
+  thumbnail: IMG_6362-640x479.jpg
+- filename: IMG_6431
+  original: IMG_6431-1280x960.JPG
+  sizes:
+  - IMG_6431-640x480.jpg
+  thumbnail: IMG_6431-640x480.jpg
+- filename: IMG_6421
+  original: IMG_6421-1280x959.jpg
+  sizes:
+  - IMG_6421-640x480.jpg
+  thumbnail: IMG_6421-640x480.jpg
+- filename: IMG_6418
+  original: IMG_6418-1280x960.jpg
+  sizes:
+  - IMG_6418-640x480.jpg
+  thumbnail: IMG_6418-640x480.jpg
+- filename: IMG_6420
+  original: IMG_6420-1280x960.jpg
+  sizes:
+  - IMG_6420-640x480.jpg
+  thumbnail: IMG_6420-640x480.jpg
+- filename: IMG_6416
+  original: IMG_6416-1280x960.jpg
+  sizes:
+  - IMG_6416-640x480.jpg
+  thumbnail: IMG_6416-640x480.jpg
+- filename: IMG_6412
+  original: IMG_6412-1280x1707.jpg
+  sizes:
+  - IMG_6412-640x854.jpg
+  thumbnail: IMG_6412-640x854.jpg
+- filename: IMG_6364
+  original: IMG_6364-1280x1707.jpg
+  sizes:
+  - IMG_6364-640x854.jpg
+  thumbnail: IMG_6364-640x854.jpg
+- filename: IMG_6357
+  original: IMG_6357-1280x1707.jpg
+  sizes:
+  - IMG_6357-640x854.jpg
+  thumbnail: IMG_6357-640x854.jpg

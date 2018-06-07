@@ -19,6 +19,16 @@
   - vancouver-640x480.jpg
   thumbnail: vancouver-640x480.jpg
 -
+ title: 新奥尔良 2018-02
+ directory: 2018-02-04-new-orleans
+ picture_path: cover/
+ preview:
+  filename: new-orleans
+  original: new-orleans-1280x958.jpg
+  sizes:
+  - new-orleans-640x479.jpg
+  thumbnail: new-orleans-640x479.jpg
+-
  title: 西雅图 2017-07
  directory: 2017-07-28-seattle
  picture_path: cover/

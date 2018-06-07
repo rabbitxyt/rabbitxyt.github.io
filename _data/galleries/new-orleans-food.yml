@@ -1,0 +1,17 @@
+picture_path: new-orleans/food
+pictures:
+- filename: IMG_6308
+  original: IMG_6308-1280x1280.jpg
+  sizes:
+  - IMG_6308-640x640.jpg
+  thumbnail: IMG_6308-640x640.jpg
+- filename: IMG_6340
+  original: IMG_6340-1280x1282.jpg
+  sizes:
+  - IMG_6340-640x641.jpg
+  thumbnail: IMG_6340-640x641.jpg
+- filename: IMG_6339
+  original: IMG_6339-1280x1280.jpg
+  sizes:
+  - IMG_6339-640x640.jpg
+  thumbnail: IMG_6339-640x640.jpg

@@ -5,8 +5,8 @@ date: 2017-07-28
 no_menu_item: true # required only for this example website because of menu construction
 previous: 纳帕
 previous_url: 2017-06-24-napa
-next: 温哥华
-next_url: 2018-04-30-vancouver
+next: 新奥尔良
+next_url: 2018-02-04-new-orleans
 support: [jquery, gallery]
 ---
 
