@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: 三番
+title: 旧金山
 date: 2018-05-30
 no_menu_item: true # required only for this example website because of menu construction
 previous: 温哥华
