@@ -75,7 +75,7 @@
  picture_path: cover/
  preview:
   filename: chattanooga
-  original: chattanooga-1280x853.jpg
+  original: chattanooga-1280x960.jpg
   sizes:
   - chattanooga-640x427.jpg
-  thumbnail: chattanooga-640x427.jpg
+  thumbnail: chattanooga-640x480.jpg
