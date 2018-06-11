@@ -1,0 +1,55 @@
+---
+layout: powerpoint
+title: 前端 Web 界面框架与工具
+date: 2018-06-10
+no_menu_item: true # required only for this example website because of menu construction
+previous: 
+previous_url: 
+next: 
+next_url: 
+support: [jquery, gallery]
+---
+
+### Full Stack Web Development - Big Picture
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-1 id_number=1 %}
+
+<br>
+### Git
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-2 id_number=2 %}
+
+<br>
+### Git-Exercises
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-3 id_number=3 %}
+
+<br>
+### NodeJS.pdf
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-4 id_number=4 %}
+
+<br>
+### Exercises-Node-NPM.pdf
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-5 id_number=5 %}
+
+<br>
+### 1-Web-UI-Frameworks.pdf
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-6 id_number=6 %}
+
+<br>
+### 2-Intro-Bootstrap.pdf
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-7 id_number=7 %}
+
+<br>
+### 3-Responsive-Design.pdf
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-8 id_number=8 %}
+
+<br>
+### 4-Bootstrap-Grid.pdf
+
+{% include gallery-layout.html gallery=site.data.galleries.bootstrap4-9 id_number=9 %}

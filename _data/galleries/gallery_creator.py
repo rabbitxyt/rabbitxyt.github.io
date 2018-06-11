@@ -10,9 +10,9 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "new-orleans-scenery.yml"
+output_file = "bootstrap4.yml"
 input_file = output_file
-image_path = "new-orleans/scenery"
+image_path = "bootstrap4"
 extensions= ['jpg', 'JPG', 'png', 'PNG']
 
 # set correct path
