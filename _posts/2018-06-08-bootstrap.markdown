@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 前端 Web 界面框架与工具
+title: Bootstrap4 教程
 date: 2018-06-08 19:00:00 -0400
 description: coursera course note
 img: bootstrap.jpg
@@ -132,3 +132,50 @@ tags: [教程]
 
 
 ### 响应式设计
+
+📜 <a href="{{ site.url }}{{ site.baseurl }}/exercise/index.html" target="_blank">Raw Page</a>
+
+
+📜 <a href="{{ site.url }}{{ site.baseurl }}/exercise/Bootstrap-Grid-Part-One.html" target="_blank">Bootstrap Grid Part One</a>
+
+<details> 
+
+<summary>Hint</summary>
+
+<ul>
+
+<li>Using a Container class</li>
+<li>Dividing the content into rows</li>
+<li>Creating a Jumbotron</li>
+<li>Creating a footer</li>
+<li>Applying column classes within each row</li>
+<li>Using Order and Offset with column layout classes</li>
+
+</ul>
+
+</details>
+
+
+
+📜 <a href="{{ site.url }}{{ site.baseurl }}/exercise/Bootstrap-Grid-Part-Two.html" target="_blank">Bootstrap Grid Part Two</a>
+
+<details> 
+
+<summary>Hint</summary>
+
+<ul>
+
+<li>List styles: <code>list-unstyled</code></li>
+<li>Using Custom CSS classes</li>
+<li>Vertically Centering the Content: <code>align-self-center</code></li>
+<li>Horizontally Centering the Content: <code>justify-content-center</code></li>
+
+</ul>
+
+</details>
+
+
+
+
+### 导航和导航栏
+
