@@ -8,8 +8,6 @@ tags: [教程]
 ---
     
 
-<a href="{{ site.url }}{{ site.baseurl }}/powerpoint/2018-06-10-bootstrap4" target="_blank">📚点击查看 PPT</a>
-
 ### Git
 
 <details> 
@@ -140,7 +138,7 @@ tags: [教程]
 
 <details> 
 
-<summary>Hint</summary>
+<summary>步骤</summary>
 
 <ul>
 
@@ -161,7 +159,7 @@ tags: [教程]
 
 <details> 
 
-<summary>Hint</summary>
+<summary>步骤</summary>
 
 <ul>
 
@@ -179,3 +177,43 @@ tags: [教程]
 
 ### 导航和导航栏
 
+
+📜 <a href="{{ site.url }}{{ site.baseurl }}/exercise/Navbar-and-Breadcrumbs.html" target="_blank">Navbar and Breadcrumbs</a>
+
+<details> 
+
+<summary>步骤</summary>
+
+<ul>
+
+<li>Create a basic navigation bar: <code>.navbar</code></li>
+<li>Creating a responsive navigation bar: <code>.navbar-toggler</code></li>
+<li>Modifications to the CSS styles</li>
+<li>Adding Breadcrumbs</li>
+
+</ul>
+
+</details>
+
+
+📜 <a href="{{ site.url }}{{ site.baseurl }}/exercise/Icon-Fonts.html" target="_blank">Icon Fonts</a>
+
+
+<details> 
+
+<summary>步骤</summary>
+
+<ul>
+
+<li>Using Icon Fonts and Other CSS classes</li>
+<ul>
+    <li>npm install font-awesome@4.7.0 --save</li>
+    <li>npm install bootstrap-social@5.1.1 --save</li>
+</ul>
+
+</ul>
+
+</details>
+
+
+<!--### 用户输入：按钮和表单-->
