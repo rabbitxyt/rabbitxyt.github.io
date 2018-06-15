@@ -9,12 +9,7 @@ tags: [攻略]
 
 
 
-
-💛 💙 💜 ❤️ 💚 **写这篇文章是因为准备等老公今年暑假实习完领养一条小狗狗** 💛 💙 💜 ❤️ 💚 
-
-<br>
-
-### 说到做功课，推荐一个电视节目系列叫<a href="https://www.bilibili.com/video/av403050/" target="_blank">《狗语者》</a>，是国家地理频道收视率最高的节目。
+<!--### 说到做功课，推荐一个电视节目系列叫<a href="https://www.bilibili.com/video/av403050/" target="_blank">《狗语者》</a>，是国家地理频道收视率最高的节目-->
 
 
 <!-- 另外还有一个国内的教学系列视频<a href="https://www.youtube.com/playlist?list=PLtM7C06T4auz9VID99y9hSF55LudfZrjV" target="_blank">《家有乖乖狗》</a>，也还值得推荐。 -->
