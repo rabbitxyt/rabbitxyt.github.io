@@ -27,6 +27,7 @@ tags: [教程]
 
 
 ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Tabs/aboutus.html" target="_blank">标签页</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Accordion/aboutus.html" target="_blank">手风琴菜单</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Tooltip-and-Modal/index.html" target="_blank">提示框</a>  ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Carousel/index.html" target="_blank">轮播</a>
+ ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment3/index.html" target="_blank">作业三</a>
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/exercise/tab.jpg" >
