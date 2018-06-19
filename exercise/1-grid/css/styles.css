@@ -29,17 +29,3 @@ address {
     background-color: #D1C4E9;
     padding: 20px 0px;
 }
-
-body {
-    padding-top: 50px;
-    z-index: 0;
-}
-
-.navbar-dark {
-    background-color: #512DA8;
-}
-
-.breadcrumb {
-    background-color: white;
-}
-
