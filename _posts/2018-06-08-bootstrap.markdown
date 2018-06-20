@@ -29,8 +29,8 @@ tags: [教程]
 
 <div class="image">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/exercise/1.jpg" >
-  <a href="{{ site.url }}{{ site.baseurl }}/exercise/0-template/index.html" target="_blank" style="top: 0%; left: 5%; width: 50%; height: 100%;"></a>
-  <a href="{{ site.url }}{{ site.baseurl }}/exercise/1-grid/index.html" target="_blank" style="top: 0%; left: 60%; width: 20%; height: 100%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/0-template/index.html" target="_blank" style="top: 0%; left: 0%; width: 57%; height: 100%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/1-grid/index.html" target="_blank" style="top: 0%; left: 58%; width: 30%; height: 100%;"></a>
 </div>
 
 
@@ -53,9 +53,9 @@ tags: [教程]
 
 <div class="image">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/exercise/2.jpg">
-  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-btn-and-form/contactus.html" target="_blank" style="top: 0%; left: 0%; width: 30%; height: 100%;"></a>
-  <a href="{{ site.url }}{{ site.baseurl }}/exercise/4-tables-and-cards/aboutus.html" target="_blank" style="top: 0%; left: 36%; width: 20%; height: 100%;"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment2/index.html" target="_blank" style="top: 0%; left: 65%; width: 20%; height: 100%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-btn-and-form/contactus.html" target="_blank" style="top: 0%; left: 0%; width: 33%; height: 100%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/4-tables-and-cards/aboutus.html" target="_blank" style="top: 0%; left: 34%; width: 26%; height: 100%;"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment2/index.html" target="_blank" style="top: 0%; left: 61%; width: 29%; height: 100%;"></a>
 </div>
 
 
