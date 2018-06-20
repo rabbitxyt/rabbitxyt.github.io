@@ -49,13 +49,13 @@ tags: [教程]
 <br>
 
 
-⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/2-nav/index.html" target="_blank">⌈导航 ⇢ 图标⌋ </a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-btn-and-form/contactus.html" target="_blank">⌈按钮 ⇢ 表单⌋</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/4-tables-and-cards/aboutus.html" target="_blank">表格和卡片</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/5-images/index.html" target="_blank">图片和媒体对象</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/6-badges/index.html" target="_blank">提示信息</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment2/index.html" target="_blank">作业二
+⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/2-nav/index.html" target="_blank">⌈导航和图标⌋ </a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-element/contactus.html" target="_blank">⌈按钮和表单</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-element/aboutus.html" target="_blank">表格和卡片</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-element/index.html" target="_blank">图片和媒体对象⌋</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment2/index.html" target="_blank">作业二
 
 
 <div class="image">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/exercise/2.jpg">
-  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-btn-and-form/contactus.html" target="_blank" style="top: 0%; left: 0%; width: 33%; height: 100%;"></a>
-  <a href="{{ site.url }}{{ site.baseurl }}/exercise/4-tables-and-cards/aboutus.html" target="_blank" style="top: 0%; left: 34%; width: 26%; height: 100%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-element/contactus.html" target="_blank" style="top: 0%; left: 0%; width: 33%; height: 100%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-element/aboutus.html" target="_blank" style="top: 0%; left: 34%; width: 26%; height: 100%;"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment2/index.html" target="_blank" style="top: 0%; left: 61%; width: 29%; height: 100%;"></a>
 </div>
 
