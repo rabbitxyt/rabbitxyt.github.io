@@ -33,6 +33,7 @@ tags: [教程]
   <a href="{{ site.url }}{{ site.baseurl }}/exercise/1-grid/index.html" target="_blank" style="top: 0%; left: 58%; width: 30%; height: 100%;"></a>
 </div>
 
+<i>(Click on pictures to see each web page)</i>
 
 <details>
     <summary>小贴士</summary>
@@ -58,6 +59,7 @@ tags: [教程]
     <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment2/index.html" target="_blank" style="top: 0%; left: 61%; width: 29%; height: 100%;"></a>
 </div>
 
+<i>(Click on pictures to see each web page)</i>
 
 <details>
     <summary>小贴士</summary>
