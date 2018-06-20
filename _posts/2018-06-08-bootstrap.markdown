@@ -19,7 +19,7 @@ tags: [教程]
 
 
 
-<a href="{{ site.url }}{{ site.baseurl }}/exercise/attempt/index.html" target="_blank">练习</a>
+<!--<a href="{{ site.url }}{{ site.baseurl }}/exercise/attempt/index.html" target="_blank">练习</a>-->
 
 
 <a href="{{ site.url }}{{ site.baseurl }}/exercise/0-template/index.html" target="_blank">起始页面</a>  ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/1-grid/index.html" target="_blank">Bootstrap 网格</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment1/aboutus.html" target="_blank">作业一</a>
