@@ -2,18 +2,14 @@
 <html lang="en">
 
 <head>
-
     <title>Ristorante Con Fusion: About Us</title>
-    <!-- Required meta tags always come first -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../node_modules/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="../node_modules/bootstrap-social/bootstrap-social.css">
-    <link href="CSS/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
@@ -22,7 +18,7 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand mr-auto" href="#"><img src="img/logo.png" height="30" width="41"></a>
+            <a class="navbar-brand mr-0" href="#"><img src="img/logo.png" height="30px" width="41px"></a>
             <div class="collapse navbar-collapse" id="Navbar">
                 <ul class="navbar-nav mr-auto">
                         <li class="nav-item"><a class="nav-link" href="./index.html"><span class="fa fa-home fa-lg"></span> Home</a></li>
@@ -42,7 +38,7 @@
                     <p>We take inspiration from the World's best cuisines, and create a unique fusion experience. Our lipsmacking creations will tickle your culinary senses!</p>
                 </div>
                 <div class="col-12 col-sm align-self-center">
-                    <img src="img/logo.png" class="image-fluid">
+                    <img src="img/logo.png" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -80,13 +76,12 @@
                 <h5>Map of our Location</h5>
             </div>
             <div class="col-12 col-sm-11 offset-sm-1">
-                
-                <div class="btn-group" role="group">
+<!--                Button group goes here-->
+                <div class="btn-group">
                     <a role="button" class="btn btn-primary" href="tel:+85212345678"><i class="fa fa-phone"></i> Call</a>
                     <a role="button" class="btn btn-info"><i class="fa fa-skype"></i> Skype</a>
-                    <a role="button" class="btn btn-success" href="mailto:confusion@food.net"><i class="fa fa-envelope-o"></i> Email</a>
+                    <a role="button" class="btn btn-success" href="mailto:confuion@food.net"><i class="fa fa-envelope-o"></i> Email</a>
                 </div>
-                
             </div>
         </div>
 
@@ -96,9 +91,7 @@
            </div>
             <div class="col-12 col-md-9">
 <!--                Form goes here-->
-                
                 <form>
-                    
                     <div class="form-group row">
                         <label for="firstname" class="col-md-2 col-form-label">First Name</label>
                         <div class="col-md-10">
@@ -111,32 +104,26 @@
                             <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Last Name">
                         </div>
                     </div>
-                    
                     <div class="form-group row">
-                        <label for="telnum" class="col-12 col-md-2 col-form-label">Contact Tel.</label>
+                        <label for="telnum" class="col-md-2 col-form-label">Contact Tel.</label>
                         <div class="col-5 col-md-3">
-                            <input type="tel" class="form-control" id="areacode" name="areacode" placeholder="Area Code">
+                            <input type="text" class="form-control" id="areacode" name="areacode" placeholder="Area Code">
                         </div>
                         <div class="col-7 col-md-7">
-                            <input type="tel" class="form-control" id="telnum" name="telnum" placeholder="Tel. Number">
+                            <input type="text" class="form-control" id="telnum" name="telnum" placeholder="Tel. Number">
                         </div>
                     </div>
-                    
                     <div class="form-group row">
                         <label for="emailid" class="col-md-2 col-form-label">Email</label>
                         <div class="col-md-10">
-                            <input type="email" class="form-control" id="emailid" name="emailid" placeholder="Email">
+                            <input type="text" class="form-control" id="emailid" name="emailid" placeholder="Email">
                         </div>
-                    </div>                    
-                    
-                                        
+                    </div>
                     <div class="form-group row">
                         <div class="col-md-6 offset-md-2">
                             <div class="form-check">
-                                <input type="checkbox" class="form-check-input" name="approve" id="approve" value="">
-                                <label class="form-check-label" for="approve">
-                                    <strong>May we contact you?</strong>
-                                </label>
+                                <input type="checkbox" class="form-check-input" id="approve" name="approve">
+                                <label class="form-check-label" for="approve"><strong>May we contact you?</strong></label>
                             </div>
                         </div>
                         <div class="col-md-3 offset-md-1">
@@ -145,28 +132,23 @@
                                 <option>Email</option>
                             </select>
                         </div>
-                    </div>                    
+                    </div>
                     
                     <div class="form-group row">
-                        <label for="feedback" class="col-md-2 col-form-label">Your Feedback</label>
+                        <label for="feedback" class="col-md-2 col-form-label" for="feedback">Your Feedback</label>
                         <div class="col-md-10">
-                            <textarea class="form-control" id="feedback" name="feedback" rows="12">
-                            </textarea>
-                        </div>  
+                            <textarea type="text" class="form-control" id="feedback" name="feedback" rows="12"></textarea>
+                        </div>
                     </div>
-  
+
                     <div class="form-group row">
-                        <div class="offset-md-2 col-md-10">
+                        <div class="col-md-10 offset-md-2">
                             <button type="submit" class="btn btn-primary">Send Feedback</button>
                         </div>
-                    </div>                    
-                    
-                    
-                </form>
-                
-                
+                    </div>
 
-                
+                </form>
+            
             </div>
              <div class="col-12 col-md">
             </div>
@@ -180,8 +162,8 @@
                 <div class="col-4 offset-1 col-sm-2">
                     <h5>Links</h5>
                     <ul class="list-unstyled">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="aboutus.html">About</a></li>
+                        <li><a href="./index.html">Home</a></li>
+                        <li><a href="./aboutus.html">About</a></li>
                         <li><a href="#">Menu</a></li>
                         <li><a href="#">Contact</a></li>
                     </ul>
@@ -216,10 +198,9 @@
            </div>
         </div>
     </footer>
-    <!-- jQuery first, then Popper.js, then Bootstrap JS. -->
-    <script src="../node_modules/jquery/dist/jquery.slim.min.js"></script>
-    <script src="../node_modules/popper.js/dist/umd/popper.min.js"></script>
-    <script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 
 </html>

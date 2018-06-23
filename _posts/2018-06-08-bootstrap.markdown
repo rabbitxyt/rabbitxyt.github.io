@@ -66,10 +66,17 @@ tags: [教程]
 
 <br>
 
+⇢ <a href="https://getbootstrap.com/docs/4.0/components/navs/#javascript-behavior" target="_blank">Tabs</a>
+⇢ <a href="https://getbootstrap.com/docs/4.0/components/collapse/#accordion-example" target="_blank">Accordion</a>
+⇢ <a href="https://getbootstrap.com/docs/4.0/components/modal/" target="_blank">Modal</a>
+⇢ <a href="https://getbootstrap.com/docs/4.0/components/carousel/" target="_blank">Carousel</a>
 
 
-<!--
-⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Tabs/aboutus.html" target="_blank">标签页</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Accordion/aboutus.html" target="_blank">手风琴菜单</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Tooltip-and-Modal/index.html" target="_blank">提示框</a>  ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Carousel/index.html" target="_blank">轮播</a> ⇢ <a href="{{ site.url }}{{ site.baseurl }}/exercise/Assignment3/index.html" target="_blank">作业三</a>
--->
+<div class="image">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/exercise/3.jpg">
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-modal/aboutus-tabs.html" target="_blank" style="top: 0%; left: 0%; width: 43%; height: 41%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-modal/aboutus.html" target="_blank" style="top: 43%; left: 0%; width: 43%; height: 57%;"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/exercise/3-modal/index.html" target="_blank" style="top: 0%; left: 44%; width: 56%; height: 100%;"></a>
+</div>
 
-
+<i>(Click on pictures to see each web page)</i>
