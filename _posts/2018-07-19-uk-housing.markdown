@@ -20,7 +20,7 @@ tags: [记事]
 
 伦敦的交通其实很便利。我搜索的位置关键词是 “London Zone 1 To 2” 我们希望找的是比较宽敞的 1 bedroom flat，看起来符合我们的审美标准，上班路程在 30 分钟内等等，所以可选范围有限，这一关键词最大程度覆盖了可能符合条件的房屋。
 
-另一个关键词是 “No Agent”，我个人觉得远程和 Agent 打交道非常吃力，除非你能现场看房，否则我觉得还是直接找 Live out landloard 比较好沟通。
+另一个关键词是 “No Agent”，我个人觉得远程和 Agent 打交道非常吃力，除非你能现场看房，否则我觉得还是直接找 Live out landlord 比较好沟通。
 
 其他关键词包括 “Don't Show Mon-Fri Ads”，“Studios/1 Beds”
 
