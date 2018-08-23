@@ -3,8 +3,8 @@ layout: post
 title: 使用 SpareRoom 远程租房
 date: 2018-07-19 09:00:00 -0400
 description: uk housing
-img: uk-housing.jpg
-tags: [记事]
+img: SpareRoom.png
+tags: [攻略]
 ---
 
 
