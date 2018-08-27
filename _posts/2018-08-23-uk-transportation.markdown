@@ -18,14 +18,18 @@ tags: [攻略]
 
 ## 地铁
 
-票价<a href="https://tfl.gov.uk/fares-and-payments/fares/single-fare-finder" target="_blank">这里</a>查，举个例子，上周末吃饭，从 Dalston Junction 到 Canary Wharf 单程票价为 £2.40
+票价<a href="https://tfl.gov.uk/fares-and-payments/fares/single-fare-finder" target="_blank">这里</a>查，举个例子，伦敦一区地铁单程票价为 £2.40
+
+注意同一条地铁会有不同的线路，而且用的同一个站台，因此上车前一定要根据站台信息屏上或驶来的地铁车头上显示的终点站名称来确认其是否是你想乘坐的车次，不要坐错了
+
+
 
 ## 火车
 
 
-1. 在线购票网址：<a href="http://www.nationalrail.co.uk/" target="_blank">National Rail</a>
+1. 在线购票网址：<a href="http://www.nationalrail.co.uk/" target="_blank">National Rail</a>，可以使用优惠卡，如 Young Person Card 和 Two Together Railcard，两种都可以便宜1/3
 
 2. 在火车站的机器上取票，需要收到的 Reference Number 和付款银行卡
 
-3. 根据自己这趟列车出发的时间，在车站的大屏幕上寻找自己的班次和站台，提前 15 分钟到火车站足够了
+3. 根据自己这趟列车出发的时间，在车站的大屏幕上寻找自己的班次和站台，提前大约 15 分钟到火车站，再早的话火车还没有进站，站台信息也看不到
 
