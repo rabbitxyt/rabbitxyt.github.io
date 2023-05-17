@@ -1,0 +1,8 @@
+Gem 'versions' is not installed
+
+You have requested to uninstall the gem:
+	ffi-1.15.5
+
+rb-inotify-0.10.1 depends on ffi (~> 1.0)
+If you remove this gem, these dependencies will not be met.
+Continue with Uninstall? [yN]  

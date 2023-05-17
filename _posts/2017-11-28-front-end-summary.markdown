@@ -1,41 +1,11 @@
 ---
 layout: post
-title: 前端入门
-date: 2017-11-28 19:00:00 -0400
+title: 前端编程入门
+date: 2017-11-14 19:00:00 -0400
 description: front-end-summary and coursera course note
 img: front-end.jpg
-tags: [教程]
+tags: [学习]
 ---
-
-
-<br>
-
-## 笔记
-
-### LinkedIn Learning 一个月试用期（Nov 2017 - Dec 2017）
-
-
-#### Become a Web Developer
-
-1. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-14-HTML-Essential-Training" target="_blank"> HTML Essential Training</a>
-
-2. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-16-CSS-Essential-Training-1" target="_blank"> CSS Essential Training 1 </a>
-
-
-3. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-25-programming-foundation" target="_blank"> Programming Foundations: Fundamentals</a>
-
-
-4. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-26-Javascript-Essential-Training" target="_blank"> Javascript Essential Training</a>
-
-
-#### Become a Full-Stack Web Developer
-
-5. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-28-Installing-Apache-MySQL-PHP" target="_blank">Installing Apache, MySQL, and PHP</a>
-
-
-
-<br>
-## 入门
 
 
 <br>
@@ -73,6 +43,33 @@ tags: [教程]
     }
 </style>
 
+
+<br>
+
+## LinkedIn 课程笔记
+
+
+#### Become a Web Developer
+
+1. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-14-HTML-Essential-Training" target="_blank"> HTML Essential Training</a>
+
+2. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-16-CSS-Essential-Training-1" target="_blank"> CSS Essential Training 1 </a>
+
+
+3. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-25-programming-foundation" target="_blank"> Programming Foundations: Fundamentals</a>
+
+
+4. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-26-Javascript-Essential-Training" target="_blank"> Javascript Essential Training</a>
+
+
+#### Become a Full-Stack Web Developer
+
+5. <a href="{{ site.url }}{{ site.baseurl }}/course/2017-11-28-Installing-Apache-MySQL-PHP" target="_blank">Installing Apache, MySQL, and PHP</a>
+
+
+
+<br>
+<br>
 
 ## Bootstrap4 应用
 
@@ -137,3 +134,11 @@ tags: [教程]
 </div>
 
 <i>(Click on pictures to see each web page)</i>
+
+
+
+<br>
+
+## 其他
+
+<a href="{{ site.url }}{{ site.baseurl }}/course/2018-06-04-programming-1" target="_blank">  涵俊教编程（一）递归 </a>

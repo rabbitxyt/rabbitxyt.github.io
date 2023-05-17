@@ -2,47 +2,54 @@
 layout: main
 ---
 <article class="article-page">
-  <div class="page-content">
-    <div class="page-cover-image">
-      <img class="page-image" src={{ "/assets/img/cover/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-<!--        <img class="page-image" src={{ "/assets/img/cover/background.png" | prepend: site.baseurl}} alt="{{page.title}}">   -->
-    </div> 
-    <div class="wrap-content">
-      <header class="header-page">
-        <h1 class="page-title">{{page.title}}</h1>
-        <!-- <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-        <!-- <span id="busuanzi_container_page_pv">|&nbsp;&nbsp;&nbsp; <!-- <span id="busuanzi_value_page_pv"></span> Views 
-</span>
-            
-          </div>-->
-      </header>
-      {{page.content | markdownify}}
-        
-        
-      <div class="page-footer">
+    
+    <div class="page-content">
+      
+        <!-- 封面图片 -->
+        <div class="page-cover-image">
+         <img class="page-image" src={{ "/assets/img/cover/" | prepend: site.baseurl | append: page.img }} alt="">
+        </div> 
+      
+            <div class="wrap-content">
+              <header class="header-page">
 
-            <!-- Tag -->
+                    <!-- 文章标题 -->
+                    <h1 class="page-title">{{page.title}}</h1>
 
-            <div class="page-tag">
-              {% for tag in page.tags %}
-                <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
-              {% endfor %}
-            </div>
-        </div>
+                    <!-- 日期 -->  
+                    <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+
+                    <!-- <span id="busuanzi_container_page_pv">|&nbsp;&nbsp;&nbsp; <!-- <span id="busuanzi_value_page_pv"></span> Views </span> 浏览量 -->
+                    </div>
+
+              </header>
 
 
-        <div class="Previous-next">
-          {% if page.previous.url %}
-            <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-          {% endif %}
-          {% if page.next.url %}
-            <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-          {% endif %}
-        </div>
+                <!-- 正文 -->
+                {{page.content | markdownify}}
 
-        <br>
-        
-<!--      {% include disqus.html %}
-    </div> <!-- End Wrap Content -->
-  </div> <!-- End Page Content -->
+
+                <!-- 标签 -->
+                <div class="page-footer">
+                    <div class="page-tag">
+                     <!-- {% for tag in page.tags %} -->
+                        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ page.tags }}</a>
+                      <!-- {% endfor %} -->
+                    </div>
+                </div>
+
+                <!-- 其他文章链接 -->
+                <div class="Previous-next">
+                  {% if page.previous.url %}
+                    <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+                  {% endif %}
+                  {% if page.next.url %}
+                    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+                  {% endif %}
+                </div>
+                
+                <br>
+                
+        </div> <!-- End Wrap Content -->
+    </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
