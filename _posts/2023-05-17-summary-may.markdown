@@ -15,15 +15,14 @@ tags: [记事]
 
 昨天绿绿从上海回来，一个月没见了，开开心心带狗子去见Chip玩，中途没拦住让她们到草坪疯跑了好几圈，昨晚和今早刚爬起来的时候明显腿瘸，打电话约了Sage下周一看医生，也挺快就约到了。
 
-下午5点和小伙伴一起参加<a href="https://mp.weixin.qq.com/s/t_peR4XntC5IO8JlqTW_FQ" target="_blank">国泰航空的抢票活动</a>，往返机票只要付税费$348.95。本来排队是一万多号，然后5:45兆铭分享了一个美卡论坛的帖子说已经有人买好了，6点论坛里有人找到bug，隐身模式从<a href="https://www.cathaypacific.com/cx/sc_CN/book-a-trip/timetable.html" target="_blank">时刻表链接</a>使用优惠码（SFOHKAA23）可以绕过排队直接定航班，正常排队反而会因为Time Out被登出。非常幸运四个人都买到票了，我和老公十月回，他俩年底回。买完票又刷了好一会儿美卡论坛那个帖子，从头到尾看了一遍。
+中午寻思着重新启用这个主页写写日记。开始安装<a href="https://jekyllrb.com/docs/installation/macos/" target="_blank">Jekyll</a>比较顺利，因为不想一直用 Git Push 看效果，又检索了下怎么使用local server查看更新（<a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll" target="_blank">Testing your GitHub Pages site locally with Jekyll</a>）。装Bundler时候遇到各种报错，什么 "Could not locate Gemfile" “An error occurred while installing ffi (1.9.18)” 试了网友给出的各种方法最后终于顺利搞定，在相应文件夹位置用指令 <b>bundle exec jekyll serve</b> 就可以在本地（<a href="http://127.0.0.1:4000/" target="_blank">127.0.0.1:4000/</a>）查看更新了。然后就是浏览了下之前用的代码和写的内容，想做大一点的改动但好像暂时还没这个实力 😅 
 
-加上下午在重新找回使用这个网站，安装<a href="https://jekyllrb.com/docs/installation/macos/" target="_blank">Jekyll</a>比较顺利，但一直 Git Push很麻烦而且不是即刻更新，于是又检索了下怎么<a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll" target="_blank">使用local server查看更新</a>。装Bundler时候遇到各种报错，什么 "Could not locate Gemfile" “An error occurred while installing ffi (1.9.18)” 试了网友给出的各种方法最后终于顺利搞定，在相应文件夹位置用指令 <b>bundle exec jekyll serve</b> 就可以在<a href="http://127.0.0.1:4000/" target="_blank">本地查看更新</a>了。然后就是浏览下之前用的代码和写的内容，想做大一点的改动，但好像暂时还没这个实力 😅 
 
-然后就到抢票时间了，其实抢票之前就有些头疼的征兆，毕竟好久没看代码了，抢完票更是头疼的厉害，吃了两颗头孢抗一下。
+下午5点和小伙伴一起参加<a href="https://mp.weixin.qq.com/s/t_peR4XntC5IO8JlqTW_FQ" target="_blank">国泰航空的抢票活动</a>，往返机票只要付税费$348.95。本来排队是一万多号，然后5:45兆铭分享了一个美卡论坛的帖子说已经有人买好了，6点论坛里有人找到bug，隐身模式从<a href="https://www.cathaypacific.com/cx/sc_CN/book-a-trip/timetable.html" target="_blank">时刻表链接</a>使用优惠码（SFOHKAA23）可以绕过排队直接定航班，正常排队反而会因为Time Out被登出。非常幸运四个人都买到票了，我和老公十月回，他俩年底回。买完票又刷了好一会儿美卡论坛那个帖子，从头到尾看了一遍。其实抢票之前就有些头疼的征兆，毕竟好久没看代码了，抢完票更是头疼的厉害，吃了两颗头孢抗一下。
 
 降低预期这个事情很有意思。晚上老公打电话回来说他今天在公司拿了非常不好吃的饭，我就顺手在他到家之前炒了个韭菜炒鸡蛋。到家一看他拿的是咖喱鸡，胡萝卜配米饭。我这么挑食一人，反而觉得还挺好吃的。
 
-晚上查资料看到入境香港需要护照六个月有效期，我刚好3月到期，飞的时候不到6个月。本来想回国更新护照的，这样一来还是得在这边办了。大晚上的下载中国领事APP，填资料，最后卡在上传照片这一步，快12点了就先不搞了。
+晚上查资料看到入境香港需要护照六个月有效期，我护照刚好3月初到期，飞的时候差1个月不到。本来想回国更新护照的，这样一来还是得在这边办了。大晚上的下载中国领事APP，填资料，最后卡在上传照片这一步，快12点了就先不搞了。
 
 躺到床上想到就这么顺利地买上了回国机票，上一次回国还是17年时候，一晃6年了，自己都没意识到已经这么久没回去了，想到要回国了还是挺开心的。因为心思比较活络，没有像前几天一样沾到枕头就睡，爬起来又吃了100mg的喹硫平，1点时候入睡。
 
