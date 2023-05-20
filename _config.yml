@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" 
 
 # Author Settings
-author: Yiting Xiao # add your name
+author: Yiting # add your name
 author-img: photo.jpg # add your photo
 
 about-author: 
