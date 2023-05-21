@@ -1,0 +1,67 @@
+---
+layout: post
+title: 申请中国护照换发
+date: 2023-05-21 10:00:00 -0400
+description: renew china passport
+img: china-passport.jpg
+tags: [攻略]
+---
+
+
+参考链接：
+
+
+<a href="https://www.dealmoon.com/guide/955938" target="_blank">2023 在美国更新中国护照攻略 | 中国领事App在线申请护照旅行证换发流程 (Dealmoon)</a>
+
+
+
+<br>
+
+十月回国从香港转机，护照有效期不满六个月，需要在美国境内申请护照换发。
+
+坐标湾区，需要向<b>旧金山总领馆</b>申请换发，具体材料要求见<a href="http://sanfrancisco.china-consulate.gov.cn/qianzhen/fzlxz/202105/t20210531_9018452.htm" target="_blank">中国驻旧金山总领馆启用“中国领事”APP的通知（附办理指南）</a>
+
+
+
+<br>
+【时间线】
+
+**<span style="color:green">2023 年 5 月 20 日周六晚在“中国领事APP”提交申请</span>**
+
+唯一需要自己准备的就是<b>电子版护照照片</b>。申请时填写个人基本信息，上传护照首页照片和地址证明就可以了。等申请状态从<b>“初审中”</b>变为<b>“复审中”</b>就可以给总领馆寄材料了（现在只接受双向邮寄办理）
+
+<br>
+
+
+**<span style="color:green">5 月 X 日申请状态变为复审中，准备以下材料：</span>**
+
+
+1）<b>打印或手写的带订单号条码的申请人信息页</b> （i.e. 申请人姓名，地址，电话，电邮）
+
+2）<b>旧护照</b>
+
+3）<b>$23 Money Order 或 Cashier’s Check，收款人为 Chinese Consulate，备注申请人中文姓名</b>
+
+
+4）<b>回邮信封：USPS PRIORITY MAIL，需贴足邮资，寄收件地址可均填写您的地址</b>
+
+
+<br>
+**<span style="color:green">5 月 X 日寄出护照 </span>**
+
+<b>寄出信封上请醒目注明 <span style="color:red">“APP办理护照”</span></b> 
+
+<b>收件人：Visa Office</b>
+
+<b>收件地址：Consulate General of PRC, 1450 Laguna Street, San Francisco, CA 94115 </b>
+
+<b>收件电话：1-4158729091</b>
+
+
+
+
+
+
+
+
+
