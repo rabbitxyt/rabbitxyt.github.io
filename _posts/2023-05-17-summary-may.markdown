@@ -70,7 +70,9 @@ tags: [记事]
 <details open> 
 <summary><b><span style="color:black">05/21 周日休息，老公做饭</span></b></summary>
 <ul>
-老公昨天带了寿司回来，就着昨天拿的面包吃了早饭和午饭，老公还做了个大葱烧豆腐。查了Amex，自己拿到了15K referral的点数，老公也有10K MR 点数的开卡奖励。
+老公昨天带了寿司回来，就着昨天拿的面包吃了早饭和午饭，老公还做了个大葱烧豆腐。<br>
+更新了新日志<a href="{{ site.url }}{{ site.baseurl }}/blog/2023/05/21/renew-china-passport.html" target="_blank">《申请中国护照换发》</a>整理一下自己之后要寄出的材料。<br>
+查了Amex官网确认自己拿到了15K referral点数，老公也有10K MR 点数的开卡奖励。
 </ul>
 </details>
 
