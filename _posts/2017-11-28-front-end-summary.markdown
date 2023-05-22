@@ -139,6 +139,6 @@ tags: [学习]
 
 <br>
 
-## 其他
+## Bonus
 
 <a href="{{ site.url }}{{ site.baseurl }}/course/2018-06-04-programming-1" target="_blank">  涵俊教编程（一）递归 </a>
