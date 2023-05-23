@@ -80,13 +80,15 @@ tags: [记事]
 
 <br>
 
-<details> 
-<summary><b><span style="color:black">05/22 周一带狗子看医生，确认需要手术</span></b></summary>
+<details open> 
+<summary><b><span style="color:black">05/22 周一带狗子看医生，确认需要手术，找价格合适的医院</span></b></summary>
 <ul>
 上午简单整理了一下狗子的病史，中午顺路去老公公司食堂拿饭，下午两点看医生。<br>
 医生看过了邮件视频说很有帮助，这次做检查时候可以感觉到狗子膝盖有不适感，建议手术。术后需要6-8周的恢复时间，两个月之后去复诊，再往后巩固一个月看有没有问题，所以前后最好留出三个月时间陪狗子。<br>
 我们是7月底去夏威夷，9月底回国，刚好都间隔两个月，中间把做完手术的狗托付给别人也不一定放心，可能还是想等10月底回美国再做。<br>
-BTW 这次复诊费用感觉还挺便宜的诶，毕竟保险能报销就完全不心疼，花费$129<br>
-信箱里老公CSP的信用卡顺利收到没有被偷，感恩❤️
+信箱里老公CSP的信用卡顺利收到没有被偷，感恩❤️<br>
+本来觉得复诊费用$129还挺便宜的，毕竟保险能报销就完全不心疼，直到收到了手术预估费用，$9600起，巨贵，决定还是找别家做。<br>
+搜到了这几家：第一家是家边上的 <a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医院，明码标价$4400，算是湾区比较便宜的，不过医生好像没什么资质，<a href="https://www.google.com/maps/place/Warm+Springs+Pet+Hospital/@37.4951129,-121.935069,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc6597b2d0ba9:0x7fb593d371846c89!8m2!3d37.4951129!4d-121.9324941!16s%2Fg%2F11c1wvwb3h" target="_blank">谷歌评分 4.5 (234)；</a>第二家是<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank"> Oakdale Veterinary Group</a>，也是明码标价$4450，车程1.5小时，<a href="https://www.google.com/maps/place/Oakdale+Veterinary+Group/@37.7753636,-120.820978,17z/data=!3m1!4b1!4m6!3m5!1s0x8090f9ee80c8793d:0x1bca8fc2ed053f7f!8m2!3d37.7753636!4d-120.8184031!16s%2Fg%2F1tvyl_yw" target="_blank">谷歌评分 4.7 (264)</a>，医生资质也挺好的，感觉比第一家靠谱很多；最后是UC Davis，还没联系不知道怎么操作<br>
+
 </ul>
 </details>
