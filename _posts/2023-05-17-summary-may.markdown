@@ -88,7 +88,20 @@ tags: [记事]
 我们是7月底去夏威夷，9月底回国，刚好都间隔两个月，中间把做完手术的狗托付给别人也不一定放心，可能还是想等10月底回美国再做。<br>
 信箱里老公CSP的信用卡顺利收到没有被偷，感恩❤️<br>
 本来觉得复诊费用$129还挺便宜的，毕竟保险能报销就完全不心疼，直到收到了手术预估费用，$9600起，巨贵，决定还是找别家做。<br>
-搜到了这几家：第一家是家边上的 <a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医院，明码标价$4400，算是湾区比较便宜的，不过医生好像没什么资质，<a href="https://www.google.com/maps/place/Warm+Springs+Pet+Hospital/@37.4951129,-121.935069,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc6597b2d0ba9:0x7fb593d371846c89!8m2!3d37.4951129!4d-121.9324941!16s%2Fg%2F11c1wvwb3h" target="_blank">谷歌评分 4.5 (234)；</a>第二家是<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank"> Oakdale Veterinary Group</a>，也是明码标价$4450，车程1.5小时，<a href="https://www.google.com/maps/place/Oakdale+Veterinary+Group/@37.7753636,-120.820978,17z/data=!3m1!4b1!4m6!3m5!1s0x8090f9ee80c8793d:0x1bca8fc2ed053f7f!8m2!3d37.7753636!4d-120.8184031!16s%2Fg%2F1tvyl_yw" target="_blank">谷歌评分 4.7 (264)</a>，医生资质也挺好的，感觉比第一家靠谱很多；最后是UC Davis，还没联系不知道怎么操作<br>
+搜到了这几家：第一家是家边上的 <a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医院，明码标价$4400，算是湾区比较便宜的，医生不是board-certified 但是经验比较丰富，<a href="https://www.google.com/maps/place/Warm+Springs+Pet+Hospital/@37.4951129,-121.935069,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc6597b2d0ba9:0x7fb593d371846c89!8m2!3d37.4951129!4d-121.9324941!16s%2Fg%2F11c1wvwb3h" target="_blank">谷歌评分 4.5 (234)；</a>第二家是<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank"> Oakdale Veterinary Group</a>，也是明码标价$4450，车程1.5小时，<a href="https://www.google.com/maps/place/Oakdale+Veterinary+Group/@37.7753636,-120.820978,17z/data=!3m1!4b1!4m6!3m5!1s0x8090f9ee80c8793d:0x1bca8fc2ed053f7f!8m2!3d37.7753636!4d-120.8184031!16s%2Fg%2F1tvyl_yw" target="_blank">谷歌评分 4.7 (264)</a>，英国医生，有一些title；最后是UC Davis，还没联系不知道怎么操作<br>
+
+</ul>
+</details>
+
+
+<details open> 
+<summary><b><span style="color:black">05/23 周二做 Breast Imaging</span></b></summary>
+<ul>
+早上就继续联系兽医院，UC Davis回电话说最早手术时间是7月，价格是6500-7500，不接受咨询直接预约手术；另一家打了Oakdale，8:30打电话过去说会回电话，等了一整天也没回。老公说他还是prefer家边上的华人医院，比较近来回复诊也方便。<br>
+中午洗了个澡，拿报纸在家门口拍照补充材料，下午护照就过了初审，接着去斯坦福看乳腺科，拍片，做了乳腺X光和超声，检查费用2200，还在保险自付范围。第一次做乳腺X光感觉胸被压的不舒服微微有点疼，第一个做X光的医生挺严肃的，做完之后笑着和我说 "You did great" 反差挺大的，被夸了有点开心；第二个做超声的医生是个很甜的小姐姐，开始前温柔地说“不好意思我的手有些凉呀”，我忙说“没事没事” 本来超声检查也很舒服，医生涂点凝胶拿机器在你胸上滑来滑去，看着医生检查心里就很踏实很有安全感，想着能在这里做最专业的检查真的是好幸运啊！最后是看片的医生，超级严肃，就和我说了三句话：“片子没啥问题，建议和上次一样做biopsy，你还有什么问题吗？” 随便扯了些有的没的，问会不会长新的，大小会不会变化；回答是有可能，大小可能随着身体激素水平变化有变化，不需要切，如果大小明显变化才需要考虑切掉。<br>
+比预期提早了半小时结束，老公还在开会，我就走到Stanford Shopping Center自己去逛逛。一楼就有好多美妆柜台，看到柜台边上有挺多椅子（可以坐下来让柜姐帮忙化妆推荐产品）一开始去问了Armani的粉底，让柜姐给我推荐了个色号，直接给我推荐了5号，态度的话也是有一点点强势，说话毋庸置疑的感觉，不过我问她拿小样的时候很爽快地给我了。然后我又问她有没有遮瑕推荐，主要想遮痘印，她推荐我去另一边雅诗兰黛的试，结果遇到一个超级好的柜姐，也是甜美可爱的小姐姐。她先是在额头上给我试了两个色号，一个是和肤色接近的，另一个是更白一点的。我说我想找能遮痘印的，偏好前一个。我说我没化过妆，问她新手是不是买粉底和遮瑕就够啦？她说其实建议直接用粉底叠涂也可以遮瑕的。中间我就和她聊说自己之前吃药长了很多痘，然后就留下了很多痘印，小姐姐非常真诚地说她觉得我皮肤状态挺好的。一边给我把之前的Armani粉底擦掉，上保湿，妆前乳，再是粉底（Double Wear 1N2）告诉我说皮肤的纹理用遮瑕是遮不掉的，遮瑕比较适合遮掉比如说黑斑，遮瑕很厚的话反而会让皮肤纹理更明显。然后推荐我用Retinol产品，有皮肤科医生开的处方药，开柜产品也买得到，还去咨询旁边的柜姐问她用的哪款，给我拍了照片，真的是完全从我的角度着想。我最开始询问遮瑕产品，她先是告诉我不一定需要买遮瑕，可能粉底就够了没必要买多浪费；再是告诉我如果要遮痘印粉底其实也没用，需要买Retinol产品护肤更重要，完全没有强行给我推销任何产品，全程一直都在说我很漂亮，皮肤状态很好，不需要化妆。边上一个年纪大的柜姐也一直点头附和（给我推荐自用retinol产品的柜姐，长得很像我在亚特兰大看过的一位心理咨询师，气场特别强）真的非常幸福了。<br>
+晚上在老公公司吃晚饭，下午打了会儿Pokemon，做掉了好些需要在Gym完成的任务，带了点吃的回家够明天午饭吃；回家看看电视，又在TGTG下了第三单，这次是Sunnyvale的贡茶，不知道会拿到什么呢？
+<br>
 
 </ul>
 </details>
