@@ -80,22 +80,24 @@ tags: [记事]
 
 <br>
 
-<details open> 
-<summary><b><span style="color:black">05/22 周一带狗子看医生，确认需要手术，找价格合适的医院</span></b></summary>
+<details> 
+<summary><b><span style="color:black">05/22 周一 带狗子看医生，确认需要手术，找价格合适的医院</span></b></summary>
 <ul>
 上午简单整理了一下狗子的病史，中午顺路去老公公司食堂拿饭，下午两点看医生。<br>
 医生看过了邮件视频说很有帮助，这次做检查时候可以感觉到狗子膝盖有不适感，建议手术。术后需要6-8周的恢复时间，两个月之后去复诊，再往后巩固一个月看有没有问题，所以前后最好留出三个月时间陪狗子。<br>
 我们是7月底去夏威夷，9月底回国，刚好都间隔两个月，中间把做完手术的狗托付给别人也不一定放心，可能还是想等10月底回美国再做。<br>
 信箱里老公CSP的信用卡顺利收到没有被偷，感恩❤️<br>
-本来觉得复诊费用$129还挺便宜的，毕竟保险能报销就完全不心疼，直到收到了手术预估费用，$9600起，巨贵，决定还是找别家做。<br>
-搜到了这几家：第一家是家边上的 <a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医院，明码标价$4400，算是湾区比较便宜的，医生不是board-certified 但是经验比较丰富，<a href="https://www.google.com/maps/place/Warm+Springs+Pet+Hospital/@37.4951129,-121.935069,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc6597b2d0ba9:0x7fb593d371846c89!8m2!3d37.4951129!4d-121.9324941!16s%2Fg%2F11c1wvwb3h" target="_blank">谷歌评分 4.5 (234)；</a>第二家是<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank"> Oakdale Veterinary Group</a>，也是明码标价$4450，车程1.5小时，<a href="https://www.google.com/maps/place/Oakdale+Veterinary+Group/@37.7753636,-120.820978,17z/data=!3m1!4b1!4m6!3m5!1s0x8090f9ee80c8793d:0x1bca8fc2ed053f7f!8m2!3d37.7753636!4d-120.8184031!16s%2Fg%2F1tvyl_yw" target="_blank">谷歌评分 4.7 (264)</a>，英国医生，有一些title；最后是UC Davis，还没联系不知道怎么操作<br>
+本来觉得复诊费用$129还挺便宜的，毕竟保险能报销就完全不心疼，直到收到了手术预估费用，$9600起，巨贵，决定还是找别家做。
+搜到了这几家：第一家是家边上的 Warm Springs Pet Hospital，华人医院，明码标价$4400，算是湾区比较便宜的，医生不是board-certified 但是经验比较丰富，谷歌评分 <a href="https://www.google.com/maps/place/Warm+Springs+Pet+Hospital/@37.4951129,-121.935069,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc6597b2d0ba9:0x7fb593d371846c89!8m2!3d37.4951129!4d-121.9324941!16s%2Fg%2F11c1wvwb3h" target="_blank">4.5 (234)；</a>第二家是 Oakdale Veterinary Group，也是明码标价$4450，车程1.5小时，谷歌评分 <a href="https://www.google.com/maps/place/Oakdale+Veterinary+Group/@37.7753636,-120.820978,17z/data=!3m1!4b1!4m6!3m5!1s0x8090f9ee80c8793d:0x1bca8fc2ed053f7f!8m2!3d37.7753636!4d-120.8184031!16s%2Fg%2F1tvyl_yw" target="_blank">4.7 (264)</a>，英国医生，有一些title；最后是UC Davis，quote是$6500-$7500，只能直接去做手术，医生也不知道是哪个，感觉不太靠谱 Pass<br>
 
 </ul>
 </details>
 
 
-<details open> 
-<summary><b><span style="color:black">05/23 周二做 Breast Imaging</span></b></summary>
+<br>
+
+<details> 
+<summary><b><span style="color:black">05/23 周二 自己在斯坦福医院做 Breast Imaging，之后时间有闲去了边上 Nordstrom 逛商店，遇到了很好的化妆品柜员小姐姐很开心</span></b></summary>
 <ul>
 早上就继续联系兽医院，UC Davis回电话说最早手术时间是7月，价格是6500-7500，不接受咨询直接预约手术；另一家打了Oakdale，8:30打电话过去说会回电话，等了一整天也没回。老公说他还是prefer家边上的华人医院，比较近来回复诊也方便。<br>
 中午洗了个澡，拿报纸在家门口拍照补充材料，下午护照就过了初审，接着去斯坦福看乳腺科，拍片，做了乳腺X光和超声，检查费用2200，还在保险自付范围。第一次做乳腺X光感觉胸被压的不舒服微微有点疼，第一个做X光的医生挺严肃的，做完之后笑着和我说 "You did great" 反差挺大的，被夸了有点开心；第二个做超声的医生是个很甜的小姐姐，开始前温柔地说“不好意思我的手有些凉呀”，我忙说“没事没事” 本来超声检查也很舒服，医生涂点凝胶拿机器在你胸上滑来滑去，看着医生检查心里就很踏实很有安全感，想着能在这里做最专业的检查真的是好幸运啊！最后是看片的医生，超级严肃，就和我说了三句话：“片子没啥问题，建议和上次一样做biopsy，你还有什么问题吗？” 随便扯了些有的没的，问会不会长新的，大小会不会变化；回答是有可能，大小可能随着身体激素水平变化有变化，不需要切，如果大小明显变化才需要考虑切掉。<br>
@@ -105,3 +107,14 @@ tags: [记事]
 
 </ul>
 </details>
+
+<br>
+
+<details> 
+<summary><b><span style="color:black">05/24 周三 约了明天狗子TPLO手术，查资料</span></b></summary>
+<ul>
+写新日志<a href="{{ site.url }}{{ site.baseurl }}/blog/2023/05/24/TPLO-surgery/" target="_blank">十字韧带 TPLO 手术 🐶</a>   
+</ul>
+</details>
+
+
