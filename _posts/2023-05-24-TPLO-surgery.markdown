@@ -8,110 +8,87 @@ tags: [记事]
 ---
 
 
-相关阅读 （1） <a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank">Tibial Plateau Leveling Osteotomy</a>
-（2）<a href="https://www.dealmoon.com/guide/962259" target="_blank">十字韧带撕裂及手术科普 Dealmoon</a>
+相关阅读 （1）<a href="https://www.dealmoon.com/guide/962259" target="_blank">十字韧带撕裂及手术科普 (Dealmoon)</a>
+（2） <a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank">Tibial Plateau Leveling Osteotomy (OVG)</a>
 
 
 <br>
 
-5/22 Sage复诊，医生建议手术，估价 $9600，湾区顶配，决定去找找有没有价格便宜点的地方，找到以下两家备选：
-
-1）<a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医生，明码标价$4400，算是湾区比较便宜的，医生不是board-certified 但是价格优势经验相对也比较丰富，谷歌评分 4.5 (234)；
+## 时间线
 
 
-2）<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank"> Oakdale Veterinary Group</a>，英国医生，也是明码标价，我们家狗子体型小，最后费用是 $3950。医生手术经验丰富学历好，医院谷歌评分 4.7 (264)。缺点是距离湾区比较远，车程1.5小时。
+5/22 Sage 复诊，医生建议手术，估价 $9600，湾区顶配，决定去找找有没有价格便宜点的地方，找到以下两家备选：
+
+1）<a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医生，明码标价$4400，算是湾区比较便宜的，医生不是 board-certified 但是价格优势经验相对也比较丰富，谷歌评分 4.5 (234)；
+
+
+2）<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank"> Oakdale Veterinary Group</a>，英国医生，也是明码标价，我们家狗子体型小，最后费用是 $3950，额外住宿了一晚 $150。医生手术经验丰富学历好，医院谷歌评分 4.7 (264)。缺点是距离湾区比较远，车程1.5小时。
 
 5/23 早上联系了OVG，前台告诉我当天有手术会晚点回我电话，等了一天都没接到电话；
 
-5/24 早上联系了Warm Springs，接电话非常快，告诉我直接做手术的话可以约到两周后，如果需要手术前咨询是约到一个月后。又打了OVG，意料之外约到了第二天上午，当天检查可手术，术前只需要前一晚八点开始断食就可以了；做完手术需留院观察一晚，隔天接狗。
+5/24 早上联系了Warm Springs，接电话非常快，告诉我直接做手术的话可以约到两周后，如果需要手术前咨询是约到一个月后。又打了OVG，意料之外约到了第二天上午，当天检查可手术，术前只需要前一晚八点开始断食就可以了；做完手术需留院观察一晚，隔天可以接狗。
 
 
 5/25 一早把狗带到医院检查，医生触诊确认狗的右腿十字韧带部分撕裂，直接留院手术；我们决定让狗子在医院多住一天，周六早上再去接。上午九点多离开医院，下午两点医生打来电话说手术很成功。
 
-5/27 接狗
+5/27 接狗回家，医生给我们看了X光，说她右膝十字韧带撕裂 10% — 15%，半月板也没有受伤，左侧膝盖看起来一切正常。医生给了一份术后指南和药。狗子看起来精神状态还可以，到家就关笼子睡觉休息，腿肿的还是比较厉害。
 
-Question: optional exercise 推荐吗？do you combine prom and potty break or seperate?
+5/28 食欲很好，下午终于便便啦！拉了还挺多的，相对偏软。去宠物店给她买了几个南瓜罐头，又在网上买了够吃半年的维骨力，腿肿的更厉害了，肚子上出现大片淤血，医生说是她皮肤比较敏感，固定无菌棉布时候夹子夹到的。
+
+5/29 下午和晚上都没有便便
+
+5/30 早上一出门就便便了，非常顺利；下午四点又抱出去尿了一次；
 
 
-（待更新）
 
 <br>
 
-<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank"> 术后康复时间线（理论）</a><a href="https://tploaustin.com/6-steps/step-6-tplo-surgery-recovery/" target="_blank"> / Other information Source</a>
+## 术后康复指南<a href="{{ site.url }}{{ site.baseurl }}/assets/file/CruciateHomeRehabGuide.pdf" target="_blank">（Cruciate Home Rehab Guide）</a>
 
 
+<span style="color:green"><b>5/25 中午手术</b></span>
 
-<span style="color:green"><b>5/25 手术</b></span>
-
-5/26 — 6/8（Week 1-2）需要带伊丽莎白圈，只出门上厕所 5 分钟，每天做 3 次 PROM，在家关笼子
+5/26 — 6/8（Week 1-2）需要带伊丽莎白圈，只出门上厕所 5 分钟，在家关笼子
 
 <details> 
-<summary><b>Passive Range of Motion (PROM) </b></summary>
+<summary><b>(Optional) Passive Range of Motion </b></summary>
 <ul>
-Lay pet on their side with surgical limb up.
-Flex and extend the joints of the affected limb gently to resistance.
-Gently support the knee to prevent twisting or rotation of the limb.
-Repeat 2 to 3 times daily or allot 10 to 15 repetitions.
+Lay pet on their side with surgical limb up. Flex and extend the joints of the affected limb gently to resistance. Gently support the knee to prevent twisting or rotation of the limb. Repeat 2 to 3 times daily or allot 10 to 15 repetitions.
 PROM should not cause pain, discomfort or negative reaction.
 </ul>
 </details>
 
+前三天 (5/26 - 5/28) 每次上完厕所回来膝盖冰敷 10 分钟，一天 3 次
 
-前 4 天 (5/26 - 5/29) 每次上完厕所回来和做完 PROM 之后膝盖冰敷 10-15 分钟。5/30 开始做 PROM 前热敷 10 分钟。
-
+6/2 一周后开始做 PROM 前可以热敷 10 分钟。
 
 <details> 
 <summary><b>Ice and Heat therapy</b></summary>
 <ul>
-
 <b>Use ice packs after walks and PROM for the first 3 to 4 days after surgery</b>
-(Drugstore packs, crushed ice in a Ziploc bag, or frozen peas or corn can be used.
-Ice around as much of the circumference of the knee as possible.
-While a paper or thin towel can be used to absorb moisture from the ice pack, a thick towel may prevent icing from being effective)
-<b>Ice for 10-15 minutes per session.</b><br>
-<br>
+(Drugstore packs, crushed ice in a Ziploc bag, or frozen peas or corn can be used. Ice around as much of the circumference of the knee as possible. While a paper or thin towel can be used to absorb moisture from the ice pack, a thick towel may prevent icing from being effective) <b>Ice for 10-15 minutes per session.</b><br><br>
 <b>Use heat packs prior to PROM after initial 3 to 4 days</b>
-(Drugstore packs or socks filled with uncooked rice heated in a microwave work well.
-Test pack on your wrist first. If it is too hot for your skin, it is too hot for your dog.
-Insulate the heat pack with a thin cloth)
-    <b>Use for 10 minutes per session.</b><br><br>
-
-
+(Drugstore packs or socks filled with uncooked rice heated in a microwave work well. Test pack on your wrist first. If it is too hot for your skin, it is too hot for your dog. Insulate the heat pack with a thin cloth) <b>Use for 10 minutes per session.</b><br>
 </ul>
 </details>
 
 <br>
-<span style="color:green"><b>6/8 两周拆线，可以去家附近医院（6/10 周六）</b></span>
+<span style="color:green"><b>6/8 两周拆线，可以去家附近医院（医生说不放心可以提前给他发照片看一下膝盖恢复情况，是否可以拆线）</b></span>
 
 6/8 — 7/6（Week 3-6）拆线后可以不用带伊丽莎白圈，逐渐恢复遛狗，在家关笼子
 
-第 3 周遛狗时间可增至每次 8 分钟，第 4 周 10 分钟。如出现酸痛可按需冰敷，PROM 可降至一周两天
-
-<details> 
-<summary><b>（可选复健练习）</b></summary>
-<ul>
-可按兽医指示将以下练习融入遛狗中：
-走大8字形 / 以 S 形缓慢地上下路缘 / 缓坡<br>
-
-在防滑表面进行这些练习，每组重复 5-10 次<br>
-（1）站立时轻轻地将臀部从一侧推到另一侧<br>
-（2）坐站练习：让您的宠物反复坐下，然后站起来<br>
-（3）三足站立运动：一条腿抬离地面10-15秒，与除手术腿外的所有腿交替进行
-
-</ul>
-</details>
+第 3 周遛狗时间可增至每天 2 次，每次 5 分钟；第 4 周 10 分钟，每周增加 5 分钟（如出现酸痛可按需冰敷）5-10-15-20
 
 <br>
-
 <span style="color:green"><b>7/8 六周复诊，拍片检查骨骼愈合程度（重要！）</b></span>
 
 
-7/7 — 8/17（Week 7-12）可以不用关笼子，在屋内自由走动，室外短途牵绳遛狗
+7/7 — 8/17（Week 7-12）如果适应性良好，遛狗时间可以继续每周增加 5 分钟，慢慢增加至 40 分钟。25-30-35-40
 
 > 如果复诊情况好的话是否可以 7/21 — 7/30 出去旅游把狗子交给朋友带？还是继续在家关笼子，每天牵绳出去上厕所
 
 <br>
-<span style="color:green"><b>8/19 三个月复诊，拍片检查，没问题即可恢复自由活动，逐步增加时间</b> </span>
+<span style="color:green"><b>8/19 三个月复诊，拍片检查，没问题即可恢复自由活动，逐步增加时间，5分钟，10分钟，一开始不能跳跃和其他狗追逐奔跑</b> </span>
 
 
 <br>

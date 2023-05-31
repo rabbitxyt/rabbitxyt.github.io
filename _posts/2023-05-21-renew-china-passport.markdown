@@ -53,11 +53,11 @@ tags: [攻略]
 3）<b>$23 Money Order 或 Cashier’s Check，收款人为 Chinese Consulate，备注申请人中文姓名</b>
 
 
-4）<b>回邮信封：USPS PRIORITY MAIL，需贴足邮资，寄收件地址可均填写您的地址</b>
+4）<b>回邮信封：USPS PRIORITY MAIL，需贴足邮资，寄收件地址可均填写自己的地址</b>
 
 
 <br>
-**<span style="color:green">5 月 X 日寄出护照 </span>**
+**<span style="color:green">5 月 27 日周六寄出护照，Priority Mail 周二送到 </span>**
 
 <b>寄出信封上请醒目注明 <span style="color:red">“APP办理护照”</span></b> 
 
