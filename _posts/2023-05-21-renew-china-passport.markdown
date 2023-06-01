@@ -57,7 +57,7 @@ tags: [攻略]
 
 
 <br>
-**<span style="color:green">5 月 27 日周六寄出护照，Priority Mail 周二送到 </span>**
+**<span style="color:green">5 月 27 日周六寄出护照，5 月 30 日周二送到 </span>**
 
 <b>寄出信封上请醒目注明 <span style="color:red">“APP办理护照”</span></b> 
 
