@@ -46,14 +46,14 @@ tags: [攻略]
 
 接下来需要准备如下材料进行邮寄：
 
-1）<b>打印或手写的带订单号条码的申请人信息页</b> （i.e. 申请人姓名，地址，电话，电邮）
+1）<b>打印或手写的带订单号条码的申请人信息页</b> 
 
 2）<b>旧护照</b>
 
-3）<b>$23 Money Order 或 Cashier’s Check，收款人为 Chinese Consulate，备注申请人中文姓名</b>
+3）<b>$23 Money Order 或 Cashier’s Check，收款人为 Chinese Consulate</b>
 
 
-4）<b>回邮信封：USPS PRIORITY MAIL，需贴足邮资，寄收件地址可均填写自己的地址</b>
+4）<b>回邮信封：USPS PRIORITY MAIL，需贴足邮资，寄收件地址均填写自己的地址</b>
 
 
 <br>
@@ -66,6 +66,10 @@ tags: [攻略]
 <b>收件地址：Consulate General of PRC, 1450 Laguna Street, San Francisco, CA 94115 </b>
 
 <b>收件电话：1-4158729091</b>
+
+
+<br>
+**<span style="color:green">6 月 2 日周五查看，申请状态变为待制证 </span>**
 
 
 

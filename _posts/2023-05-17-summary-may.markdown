@@ -2,12 +2,12 @@
 layout: post
 title: 五月记事
 date: 2023-05-17 09:00:00 -0400
-description: update
+description: journal
 img: may2023.jpg
 tags: [记事]
 ---
 
-距离上次登陆这个网页已经五年啦，时间过得好快，兜兜转转又回到这里，随便写写日记<br>
+距离上次登陆这个网页已经五年啦，时间过得好快，兜兜转转又回到这里，随便记点东西<br>
 <br>
 
 <span style="color:navy"><b>（简单总结一下五月中下旬就是买了回国机票，邮件办理护照换发，狗子动了个大手术，我又去了乳腺科拍片+做活检）</b></span>
