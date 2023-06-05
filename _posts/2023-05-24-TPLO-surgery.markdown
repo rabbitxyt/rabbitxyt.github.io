@@ -3,36 +3,16 @@ layout: post
 title: 狗子的 TPLO 手术
 date: 2023-05-24 09:00:00 -0400
 description: TPLO surgery
-img: TPLO.jpg
+img: lunatplo.jpg
 tags: [记事]
 ---
 
 
-相关阅读：<a href="https://www.dealmoon.com/guide/962259" target="_blank">十字韧带撕裂及手术科普 (Dealmoon)</a>
+相关阅读：<a href="https://www.dealmoon.com/guide/962259" target="_blank">（1）十字韧带撕裂及手术科普 </a> <a href="{{ site.url }}{{ site.baseurl }}/assets/file/CruciateHomeRehabGuide.pdf" target="_blank">（2）Home Rehab Guide Book</a>
 
 <br>
 
-## 时间线
-
-### 术前
-
-5/22 Sage 复诊，医生建议手术，估价 $9600，湾区顶配，决定去找找有没有价格便宜点的地方，找到以下两家备选：
-
-1）<a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医生，明码标价$4400，算是湾区比较便宜的，医生不是 board-certified 但是价格优势经验相对也比较丰富，谷歌评分 4.5 (234)；
-
-2）<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank">Oakdale Veterinary Group</a>，英国医生，也是明码标价，我们家狗子体型小，最后费用是 $3950，额外住宿了一晚 $150。医生手术经验丰富学历好，医院谷歌评分 4.7 (264)。缺点是距离湾区比较远，车程1.5小时。
-
-5/23 早上联系了OVG，前台告诉我当天有手术会晚点回我电话，等了一天都没接到电话；
-
-5/24 早上联系了Warm Springs，接电话非常快，告诉我直接做手术的话可以约到两周后，如果需要手术前咨询是约到一个月后。又打了OVG，意料之外约到了第二天上午，当天检查可手术，术前只需要前一晚八点开始断食就可以了。做完手术需留院观察一晚，隔天可以接狗。
-
-5/25 一早把狗带到医院检查，医生触诊确认狗的右腿十字韧带部分撕裂，直接留院手术。我们决定让狗子在医院多住一天，周六早上再去接。上午九点多离开医院，下午两点医生打来电话说手术很成功。
-
-（这次手术报销了 $3356，最后自费 $744。Nationwide Major Medical 勉勉强强够用吧）
-
-
-<br>
-### 术后 <a href="{{ site.url }}{{ site.baseurl }}/assets/file/CruciateHomeRehabGuide.pdf" target="_blank">（Home Rehab Guide Book）</a>
+### 术后 
 
 <details > 
 <summary><b>Ice and Heat therapy<a href="https://www.animalsurgicalcenter.com/tibial-plateau-leveling-osteotomy--tplo" target="_blank">（Video Guide for PROM）</a></b></summary> 
@@ -57,7 +37,9 @@ PROM should not cause pain, discomfort or negative reaction.<br>
 
 5/30 (D5) <b>早上一出门就便便了</b> 💩 每次喂饭都会灌大半瓶水，下午 4 点和晚上 10 点抱出去尿，都尿挺多的。
 
-5/31 — 6/3 (D6-D9) 同上每天早上出门便便。喂饭不灌水了，每天早晚上两次厕所，每次三分钟搞定。
+5/31 — 6/5 (D6-D11) 同上每天早上出门便便，吃了南瓜便便特别好。上下楼不方便所以喂饭不怎么灌水了，每天早晚上两次厕所，每次三分钟搞定。6/5 早上便完往家走的时候走两步右腿要跳一下
+
+测腿围，一周一次，判断肌肉流失量；拍每天走路照片
 
 <br>
 
@@ -78,6 +60,28 @@ PROM should not cause pain, discomfort or negative reaction.<br>
 
 <br>
 <span style="color:green"><b>8/19 三个月复诊，拍片检查，没问题即可恢复自由活动，从 5 分钟开始逐步增加自由活动时间，一开始不能跳或者和其他狗追逐奔跑</b> </span>
+
+
+<br>
+<hr>
+
+
+### 术前
+
+5/22 Sage 复诊，医生建议手术，估价 $9600，湾区顶配，决定去找找有没有价格便宜点的地方，找到以下两家备选：
+
+1）<a href="http://www.warmspringspet.com/prices-1" target="_blank">Warm Springs Pet Hospital</a>，华人医生，明码标价$4400，算是湾区比较便宜的，医生不是 board-certified 但是价格优势经验相对也比较丰富，谷歌评分 4.5 (234)；
+
+2）<a href="https://www.oakdaleveterinarygroup.com/services/orthopedic-referrals/tibial-plateau-leveling-osteotomy-tplo" target="_blank">Oakdale Veterinary Group</a>，英国医生，也是明码标价，我们家狗子体型小，最后费用是 $3950，额外住宿了一晚 $150。医生手术经验丰富学历好，医院谷歌评分 4.7 (264)。缺点是距离湾区比较远，车程1.5小时。
+
+5/23 早上联系了OVG，前台告诉我当天有手术会晚点回我电话，等了一天都没接到电话；
+
+5/24 早上联系了Warm Springs，接电话非常快，告诉我直接做手术的话可以约到两周后，如果需要手术前咨询是约到一个月后。又打了OVG，意料之外约到了第二天上午，当天检查可手术，术前只需要前一晚八点开始断食就可以了。做完手术需留院观察一晚，隔天可以接狗。
+
+5/25 一早把狗带到医院检查，医生触诊确认狗的右腿十字韧带部分撕裂，直接留院手术。我们决定让狗子在医院多住一天，周六早上再去接。上午九点多离开医院，下午两点医生打来电话说手术很成功。
+
+（这次手术报销了 $3356，最后自费 $744。Nationwide Major Medical 勉勉强强够用吧）
+
 
 <br>
 （其他）之后记得把Nationwide保险费用按年付清，不用选按月付了。

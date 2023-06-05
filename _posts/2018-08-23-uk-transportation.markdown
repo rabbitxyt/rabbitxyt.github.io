@@ -3,7 +3,7 @@ layout: post
 title: 伦敦公共交通
 date: 2018-08-23 09:00:00 -0400
 description: uk transportation
-img: Bus.png
+img: londonbus.jpg
 tags: [攻略]
 ---
 
