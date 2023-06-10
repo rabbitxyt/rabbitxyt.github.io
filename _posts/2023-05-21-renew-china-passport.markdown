@@ -32,7 +32,7 @@ tags: [攻略]
 
 <br>
 
-**<span style="color:green">5 月 22 日周一晚申请状态变为待补充材料</span>**
+**<span style="color:green">5 月 22 日周一晚申请状态变为 待补充材料</span>**
 
 
 使领馆回复：<b>请申请人手持近一周内的当地中文或英文报纸 （不能手持广告） 在居住地所在的街牌或者车辆牌照前拍照上传，照片中应看到您的样貌和报纸日期。</b>
@@ -42,7 +42,7 @@ tags: [攻略]
 <br>
 
 
-**<span style="color:green">5 月 23 日周二下午申请状态变为复审中</span>**
+**<span style="color:green">5 月 23 日周二下午申请状态变为 复审中</span>**
 
 接下来需要准备如下材料进行邮寄：
 
@@ -69,10 +69,12 @@ tags: [攻略]
 
 
 <br>
-**<span style="color:green">6 月 2 日周五查看，申请状态变为待制证 </span>**
+**<span style="color:green">6 月 2 日周五自己查看，申请状态变为 待制证 </span>**
 
 
 
+<br>
+**<span style="color:green">6 月 9 日周五收到通知，申请状态变为 制证完成，待取证 / 待邮寄 </span>**
 
 
 

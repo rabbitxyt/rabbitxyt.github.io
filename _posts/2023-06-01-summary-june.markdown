@@ -10,7 +10,7 @@ tags: [记事]
 
 
 <details> 
-<summary><b><span style="color:black">6/1 周四 ⓺ ⓷ 10¹² 🕚 🐑 💰 🍜 😄 ⏯ 🦷 🫦 🤕 🏠 ✈️ 😣 🕚  
+<summary><b><span style="color:black">6/1 周四 ⓺ ⓷ 10¹² 🕦 🐑 💰 🍜 😄 | 🦷 🫦 🤕 🏠 ✈️ 😣 🕚  
     <span style="color:Tomato">Talbots 给狗薅了件免费雨衣，</span> 
     <span style="color:IndianRed">收到 NW 看病账单报销。晚上去 Urgent Care 偶然路过一家越南米粉店，意外好吃且便宜。</span> 
     <span style="color:DarkOliveGreen">做了那颗没能报销的牙冠，麻药过后发现嘴唇起了一些泡，腰非常酸。</span>  
@@ -26,7 +26,7 @@ tags: [记事]
 
 <br>
 <details> 
-    <summary><b><span style="color:black">6/2 周五 ⓹ ⓷  9⁴º 🕦 ⏹ 📱 🛋️ 😑 🏠 ✈️ 😢 🕙    
+    <summary><b><span style="color:black">6/2 周五 ⓹ ⓷  9⁴º 🕦 📱 🛋️ 😑 🏠 ✈️ 😢 🕙    
     <span style="color:Gray"> 白天刷手机，腰酸。 </span> 
     <span style="color:DarkSlateGray">晚上和老公严肃讨论是否回国创业的事  </span>       
         </span></b></summary>
@@ -36,7 +36,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/3 周六 ⓻  9²¹ 🕧 ⏭ 🎬 🛀 🥡   🥟 😄 🕥
+<summary><b><span style="color:black">6/3 周六 ⓻  9²¹ 🕧 🎬 🛀 🥡 🥟 😄 🕥
     <span style="color:Tomato">白天看了一部科学动画片叫《门捷列夫很忙》</span>
     <span style="color:OrangeRed">晚上吃了好吃的外卖 </span> 
     </span></b></summary>
@@ -46,7 +46,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/4 周日 ⓺  9⁴⁷ 🕛 🥬 ✈️ 💲 🤔️ 🥡 🍍 🍆 😄 ⏺ 🛋️ 😑 🕙
+<summary><b><span style="color:black">6/4 周日 ⓺  9⁴⁷ 🕛 🛒 🎫 🤔️ 🥡 🍍 🍆 😄 | 🛋️ 📱 😑 🕙
     <span style="color:IndianRed">白天在 Weee 上买了菜，查香港往返上海机票价格。</span> 
       <span style="color:OrangeRed">晚上吃了好吃的外卖， </span>
   <span style="color:Gray">看了一部没什么营养的漫画 </span> 
@@ -63,7 +63,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/5 周一 ⓽ 9º⁵ 🕛 🧑‍⚕️ ☺️ 📖  🎬 🏃‍♀️ 🎮 🚘 😆 ⏺ 🐶 ❤️‍🩹 😣 🕤  
+<summary><b><span style="color:black">6/5 周一 ⓽ 9º⁵ 🕛 🧑‍⚕️ ☺️ 📖  🎬 🏃‍♀️ 🎮 🚘 😆 | 🐶 ❤️‍🩹 😣 🕤  
     <span style="color:Tomato"> 上午看新的精神科医生，下午读村上春树《当我谈跑步时我谈些什么》  </span> 
     <span style="color:Red">看日漫《强风吹拂》💯 </span> 
        <span style="color:OrangeRed"> 重新开始玩《健身环大冒险》和《塞尔达传说》 </span>
@@ -80,7 +80,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/6 周二 ⓾ ⓸ 8²º 🕧  🎬 😍 🏃‍♀️ 🐑 💰 😄 ⏹ 🐶 ❤️‍🩹 😨 🕤  
+<summary><b><span style="color:black">6/6 周二 ⓾ ⓸ 8²º 🕧  🎬 😍 🏃‍♀️ 🐑 💰 😄 | 🐶 ❤️‍🩹 😨 🕤  
     <span style="color:Red">追完《强风吹拂》 </span> 
     <span style="color:OrangeRed">健身环大冒险 D2，Talbots 薅了日记本，Poshmark 出掉 Adidas 帽子，</span>  
     <span style="color:DarkSlateGray">晚上发现狗子耳朵有一点真菌感染 </span>
@@ -95,7 +95,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/7 周三 ⓽ 7ºº 🕦 ⏭ 🥘 🏃‍♀️  🛀 🐑 💳 😄 🕡 
+<summary><b><span style="color:black">6/7 周三 ⓽ 7ºº 🕦 🥘 🏃‍♀️  🛀 🐑 💳 😄 🕡 
     <span style="color:red">早起，重新开始做饭，</span>
     <span style="color:OrangeRed">健身环大冒险 D3，CVS 薅羊毛，关白金卡</span> </span></b></summary>
 <ul>
@@ -115,7 +115,7 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details > 
-<summary><b><span style="color:black">6/8 周四 ⓼ 9ºº 🕧 🥘  🖍 😄 ⏺ 💊  🏃‍♀️  😷 🕤  
+<summary><b><span style="color:black">6/8 周四 ⓼ 9ºº 🕧 🥘  🖍 😄 | 💊  🏃‍♀️  😷 🕤  
     <span style="color:OrangeRed"> 日志更新表情，中午做饭一起吃有被表扬，健身环大冒险 D4，</span> 
     <span style="color:DarkOliveGreen"> 跑步时有点偏头痛 </span>
     </span></b></summary> 
