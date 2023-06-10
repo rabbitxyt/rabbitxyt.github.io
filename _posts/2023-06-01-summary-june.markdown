@@ -3,13 +3,19 @@ layout: post
 title: 六月记事
 date: 2023-06-01 09:00:00 -0400
 description: journal
-img: run_with_the_wind.jpg
+img: june.jpg
 tags: [记事]
 ---
 
 
+
 <details> 
-<summary><b><span style="color:black">2023/06/01 周四 🕙  晚上偶然吃到一家价廉物美的越南米粉店 😄  Talbots 给狗薅了件免费雨衣 😄  收到 NW 看病账单报销 ☺️ 做了那颗没能报销的牙冠 🙂 麻药过后发现嘴唇起了一些泡 😔 </span></b></summary>
+<summary><b><span style="color:black">6/1 周四 ⓺ ⓷ 10¹² 🕚 🐑 💰 🍜 😄 ⏯ 🦷 🫦 🤕 🏠 ✈️ 😣 🕚  
+    <span style="color:Tomato">Talbots 给狗薅了件免费雨衣，</span> 
+    <span style="color:IndianRed">收到 NW 看病账单报销。晚上去 Urgent Care 偶然路过一家越南米粉店，意外好吃且便宜。</span> 
+    <span style="color:DarkOliveGreen">做了那颗没能报销的牙冠，麻药过后发现嘴唇起了一些泡，腰非常酸。</span>  
+    <span style="color:DarkSlateGray ">吃饭时老公提到想回国创业  </span>
+    </span></b></summary>
 <ul>收到 Nationwide 报销的账单，一共报了 $3356。上午自己去做牙冠花了 $853，因为拔牙时候医生写错了牙，这颗保险公司没给报，本来能报 60%，准备再填个申诉表试一试吧！今天医生说当年给我拔牙的老医生去年也退休了。老公送我过去，自己打车回来，把家里剩下的面包当午饭吃了。
 晚上麻药过了发现自己嘴唇内侧起了好多水泡，发邮件问了医生说是 dry mouth 引起的 irritation，和老公说了他决定带我去 urgent care 看一看，关门前到的诊所看不了了，就在隔壁吃了一家 Pho，味道还不错，大碗便宜，还剩了 Pad Thai 隔天吃。<br>
 把 Talbots 邮寄来的 20 刀抵用券用了，免费给狗子薅了件雨衣。<br>
@@ -17,25 +23,34 @@ tags: [记事]
 </ul>
 </details>
 
-<br>
 
+<br>
 <details> 
-<summary><b><span style="color:black">2023/06/02 周五 🕙  腰酸 😢 刷手机 😑 晚上和老公严肃讨论是否回国创业的事 😲 😣 </span></b></summary>
+    <summary><b><span style="color:black">6/2 周五 ⓹ ⓷  9⁴º 🕦 ⏹ 📱 🛋️ 😑 🏠 ✈️ 😢 🕙    
+    <span style="color:Gray"> 白天刷手机，腰酸。 </span> 
+    <span style="color:DarkSlateGray">晚上和老公严肃讨论是否回国创业的事  </span>       
+        </span></b></summary>
 <ul>这两天腰酸的厉害，白天就刷刷手机没做什么事。把微波炉清了一下，超级脏，我最近不做饭也是很少用就一直没清。晚上老公买了外卖回来吃，就老公是否要回国加入创业公司进行严肃讨论。概括来说就是他觉得这是一个很好的机会，但我更喜欢美国的生活方式，而且带狗回国有些麻烦。他回国的话工作地点在北京，北京养狗又有很多限制。</ul>
 </details>
 
-<br>
 
+<br>
 <details> 
-    <summary><b><span style="color:black">2023/06/03 周六 🕙 吃了好吃的外卖 🥟 😄 看了一部科学动画纪录片叫《门捷列夫很忙》😄 洗澡洗衣服 ☺️ 腰酸 😢 </span></b></summary>
+<summary><b><span style="color:black">6/3 周六 ⓻  9²¹ 🕧 ⏭ 🎬 🛀 🥡   🥟 😄 🕥
+    <span style="color:Tomato">白天看了一部科学动画片叫《门捷列夫很忙》</span>
+    <span style="color:OrangeRed">晚上吃了好吃的外卖 </span> 
+    </span></b></summary>
 <ul>本来说好晚上去朋友家打桌游，结果一个小伙伴阳了就不去啦！继续腰酸到炸裂，站一会儿坐一会儿又躺一会儿。早上把做 biopsy 的创可贴摘了，有一个小针孔和一点点淤青。午饭吃了昨天外卖剩下的，有茄子和牛肉，自己蒸了紫薯。下午正好看到微博推荐的纪录片就随便看一下叫《门捷列夫很忙》比较短就五集，两个小时看完，讲一些基础化学小知识，之后洗了个澡，洗了点衣服。Amazon 买了白醋，番茄酱，漱口水，正好有 $5 coupon 用掉；Walmart 买了 OGX 洗发水。晚上老公买了外卖回来，面贴面的韭菜盒子，生煎包，担担面，麻辣牛腱。担担面和牛腱很好吃，一点点辣味很香，不是很喜欢发面生煎包，韭菜盒子还可以。还给我带了一杯优米的百香果西瓜水果茶。</ul>
 </details>
 
 
 <br>
-
 <details> 
-<summary><b><span style="color:black">2023/06/04 周日 🕙 吃了好吃的外卖 🍍 🍆 😄    在 Weee 上买菜 ☺️ 看香港往返上海机票价格 🧐 看漫画 😑 </span></b></summary>
+<summary><b><span style="color:black">6/4 周日 ⓺  9⁴⁷ 🕛 🥬 ✈️ 💲 🤔️ 🥡 🍍 🍆 😄 ⏺ 🛋️ 😑 🕙
+    <span style="color:IndianRed">白天在 Weee 上买了菜，查香港往返上海机票价格。</span> 
+      <span style="color:OrangeRed">晚上吃了好吃的外卖， </span>
+  <span style="color:Gray">看了一部没什么营养的漫画 </span> 
+    </span></b></summary>
 <ul>老公超级辛苦又出门上班啦！说是下周有个 deadline。现在隔天送 12:30PM 就截单了，最后一秒还在下单补货。<br>
 看一下回国机票，<b>9/24 香港飞上海</b>现在最便宜的是香港航空 9:20AM 价格 $171；国泰 9:20AM 飞，价格 $364，用点数买的话是10K + $58 税，MR 转点手续费还要 $38，唯一好处是可能可以行李直挂。<br>
 <b>10/22 上海飞香港，</b>香港航空 7:35AM 起飞，10:15AM 落地，价格是 $96，只有这一班时间合适，香港飞美国的航班时间是 13:55PM（往返一起出票的价格是 $297，分开买是 $267）
@@ -45,10 +60,15 @@ tags: [记事]
 </ul>
 </details>
 
-<br>
 
+<br>
 <details> 
-<summary><b><span style="color:black">2023/06/05 周一 🕘  看日漫《强风吹拂》😍  玩健身环大冒险 (D1) +《塞尔达传说》😄 读村上春树《当我谈跑步时我谈些什么》🧐  晚上开车去 Safeway 买了给朋友的生日贺卡 🚘 😄 自己看新的精神科医生 ☺️  狗嘴边的毛开始发红 😔 </span></b></summary>
+<summary><b><span style="color:black">6/5 周一 ⓽ 9º⁵ 🕛 🧑‍⚕️ ☺️ 📖  🎬 🏃‍♀️ 🎮 🚘 😆 ⏺ 🐶 ❤️‍🩹 😣 🕤  
+    <span style="color:Tomato"> 上午看新的精神科医生，下午读村上春树《当我谈跑步时我谈些什么》  </span> 
+    <span style="color:Red">看日漫《强风吹拂》💯 </span> 
+       <span style="color:OrangeRed"> 重新开始玩《健身环大冒险》和《塞尔达传说》 </span>
+         <span style="color:OrangeRed"> 晚上开车去 Safeway 买了给朋友的生日贺卡， </span>  
+    <span style="color:DarkOliveGreen"> 发现狗嘴边的毛发红 </span></span></b></summary>
 <ul>早上的时候一直做梦，醒过来发现也才九点多，Autosleep 显示的深度睡眠只有 45 分钟，非常少。<br>
 早上带狗出门，发现她拉完屎回家路上走两步右腿会跳一步，前两天没有，不知道是出门急还是别的什么原因。然后觉得狗子嘴唇有一点点红肿，可能是戴头套口水弄的。<br>
 今天看了新的精神科医生，第一次见新医生总归还是有挺多话可以说的。是个相对年长的医生，说是说不定可以帮我再调调药。中午有好吃的剩饭。下午 Amazon 和 Weee 的东西都收到了。<br>
@@ -57,10 +77,14 @@ tags: [记事]
 </ul>
 </details>
 
-<br>
 
+<br>
 <details> 
-<summary><b><span style="color:black">2023/06/06 周二 🕘  追完了《强风吹拂》好好看 ❤️ 健身环大冒险 (D2) 🤗 Poshmark 出掉 Adidas 帽子 + Talbots 薅了日记本 😄 晚上发现狗子耳朵有一点真菌感染 😨 </span></b></summary>
+<summary><b><span style="color:black">6/6 周二 ⓾ ⓸ 8²º 🕧  🎬 😍 🏃‍♀️ 🐑 💰 😄 ⏹ 🐶 ❤️‍🩹 😨 🕤  
+    <span style="color:Red">追完《强风吹拂》 </span> 
+    <span style="color:OrangeRed">健身环大冒险 D2，Talbots 薅了日记本，Poshmark 出掉 Adidas 帽子，</span>  
+    <span style="color:DarkSlateGray">晚上发现狗子耳朵有一点真菌感染 </span>
+    </span></b></summary>
 <ul>今天和昨天做的事差不多，把日剧追完，这项花了很多时间，大概 5 小时，但是我觉得很值得，看完有被激励到。继续 Ring Fit 45 分钟，每天的目标大概是到 50 cal，还是挺轻松的，之后打塞尔达一个小时，比较快乐的是死了还可以原地复活，对于手柄的熟练度也在上升，第一次捡到武器，是个火炬和锅盖，后期还挺有用的可以御寒；还学会了用弓箭和烤食物，有武器终于可以砍怪啦不用躲着走。<br>
 午饭和晚饭的话就靠昨天老公带回来的剩饭解决了，没有做饭。<br>
 晚上 Poshmark 收到 offer 买那个 Adidas 的男士帽子，标 $15，对方出 $10，我 counteroffer 到 $13，顺利成交，还挺开心的，不费什么沟通的功夫，花两分钟时间打包好。用 Talbots 给的折扣券下了第二单，买了日记本，非常期待！<br>
@@ -70,9 +94,10 @@ tags: [记事]
 
 
 <br>
-
 <details> 
-<summary><b><span style="color:black">2023/06/07 周三  🕕 早起 🤩 重新开始做饭 🤩 CVS 薅羊毛 🤩 健身环大冒险 (D3) 😄 关白金卡 😄 洗澡 ☺️</span></b></summary>
+<summary><b><span style="color:black">6/7 周三 ⓽ 7ºº 🕦 ⏭ 🥘 🏃‍♀️  🛀 🐑 💳 😄 🕡 
+    <span style="color:red">早起，重新开始做饭，</span>
+    <span style="color:OrangeRed">健身环大冒险 D3，CVS 薅羊毛，关白金卡</span> </span></b></summary>
 <ul>
 昨晚觉得特别累，11点多上床直接睡着。早上 6 点多就醒了，特别特别清醒，起来上了个厕所，还能记得早上梦里的内容。这两天有一点来例假的前兆，来例假的时候醒了会瞬间从床上跳起来去厕所 hh<br>
 早上 7:35AM，Pet's Friend 发来邮件说只有今天下午有空位，让我可以明早再打电话问问看。Luna 的伤口缝线周日开始就没有明显变化了；但这两天开始嘴巴和下巴毛色变红，有很多耳屎，感觉还是逃不过过敏和真菌感染。<br>
@@ -89,14 +114,51 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 
 <br>
-
 <details > 
-<summary><b><span style="color:black">2023/06/07 周三  🕙 更新日志，添加记录情绪的 emoji 🤗 做饭 😄 洗衣服 ☺️ 心慌 😬 </span></b></summary> 
+<summary><b><span style="color:black">6/8 周四 ⓼ 9ºº 🕧 🥘  🖍 😄 ⏺ 💊  🏃‍♀️  😷 🕤  
+    <span style="color:OrangeRed"> 日志更新表情，中午做饭一起吃有被表扬，健身环大冒险 D4，</span> 
+    <span style="color:DarkOliveGreen"> 跑步时有点偏头痛 </span>
+    </span></b></summary> 
 <ul>早上 7:30 打电话给 Pet's Friend 说今天上午没有空位，挂了电话继续睡到十点起床，今天开始觉得身体累了需要多躺会儿，脑子是早就醒了，早上一直在做梦睡很浅，但还是睡了有 9 小时，深度睡眠有 2 小时，挺满意的。<br>
 中午做了饭，做了芹菜虾仁和青菜。老公一起在家吃，感慨说好久没吃过蔬菜了。下午整理一下家里的保健品，过两天不是又有鱼油和辅酶要到了嘛，研究一下怎么吃比较合理。不知道为什么今天心脏有点不舒服，昨天早上喝了茶之后也是感觉心脏不舒服。今天中午吃了叶黄素，锌片和镁片。<br>
 下午收到 Petsmart 寄来的两瓶 Dasuquin 了，保质期批号都和 Chewy 的一样到 05/2026，日期挺好的。Pets best 的保险报销需要找医院要材料审核。<br>
 洗了浴巾，去拿信的时候把 Nuts 摔了，装起来想着用一下，买回来很久了一直没用过。下载了 app，一开始死活连不上，在扔掉之前换了一枚纽扣电池最后试一下，结果就成功连上了。用起来还挺方便，app 可以直接让 tracker 发声，在 tracker 上按两下也可以反向让手机发声。<br>
-想着可以给自己每天的情绪打分，在日志中按情绪不同添加了 emoji 表情。<br>
+想着可以给自己每天的情绪打分，在日志中按情绪不同添加了<a href="https://www.emojiengine.com/zh/meanings/" target="_blank">emoji</a>  表情。<br>
 晚上倒垃圾，把多拿出来的鸡胸肉放了大蒜蜂蜜腌一晚明天吃。
 </ul>
 </details>
+
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/9 周五 ⓼ 8¹⁷  🕦 🥘 😷 🧑‍⚕️ 💸 🪪 💑 😍 🐑 🖍 🕗  
+    <span style="color:DarkOliveGreen">今天腰还是好酸，</span> 
+    <span style="color:OrangeRed"> 约到了下周一看 PT，每次只要付 7 刀。收到护照制证完毕的通知，看学霸甜甜的恋爱视频，</span> 
+    <span style="color:Tomato">Talbots 第三单继续买本子，日志更新颜色。</span> 
+    </span></b></summary>
+<ul>今天醒的有点早，11:40PM 上床，感觉立马就能入睡，果然没有干扰的情况下从 11:45PM 睡到早上 8AM。今天起床前做梦还是一如既往的多，也隐约记得一些，但好像没什么回忆的必要。醒得早也有可能是因为今天 7:30AM 有垃圾车开过比较吵，醒了就爬起来了，看起来离例假也很近了这两天的事。<br>
+早上给狗擦口水，发现有些褐色的东西，仔细查看了一下发现好像就只是残留在嘴唇的口水，颜色有点吓人，好奇怪不知道以前是不是也是这样呢？就很少会去留意这些，每次狗子生病都会有新状况需要处理，增加新的经验。心情就比较平静，想到明天早上就能看医生了也些许安心些。白天被我逮到在舔脚踝的缝线，骂了一顿。不过问题不大已经到可以拆线的时间了。<br>
+继续改文本格式，又按颜色给情绪分类调色，一直蛮喜欢做这种调格式的事情，不用动什么脑子，就是也蛮花时间的。<br>
+午饭吃了昨天腌的的鸡胸肉，没有太甜，蒸了紫薯，把老公早上剩的包子和鸡蛋一起吃掉，一晃都 4:30PM 了；Talbot 下了第三单，买了日记本和刮舌器。<br>
+就是快乐的事情说来就来，突然收到护照制作好了的新消息通知，又是收到医生告诉我给我写好了 PT referral，我打电话过去因为保险已经到 deductible 了，之后是自费 10%，我每次看只要 7 刀，便宜哭了，约了下周一 10 点看，打完电话差不多到那边关门时间。离家很近，开车七分钟。然后看学霸恋爱高甜视频，姨母笑 ❤️
+</ul>
+</details>
+    
+<br>
+<hr>
+
+<!--
+<b><span style="color:black">情绪打分
+    <a href="https://www.computerhope.com/htmcolor.htm" target="_blank">（color code）</a></span></b>
+    <b><span style="color:DimGray">➀ 绝望 </span></b>
+    <b><span style="color:RebeccaPurple">➁ 抑郁 </span></b>
+    <b><span style="color:DarkSlateGray">➂ 非常不开心 </span></b>
+    <b><span style="color:DarkOliveGreen">➃ 不开心 </span></b>
+    <b><span style="color:Gray">➄ 中性或漠不关心 </span></b>
+    <b><span style="color:IndianRed">➏ 对生活满意 </span></b>
+    <b><span style="color:Tomato">➐ 开心 </span></b>
+    <b><span style="color:OrangeRed">➑ 非常开心</span></b>
+    <b><span style="color:Red">➒ 极度开心</span></b>
+    <b><span style="color:GoldenRod">➓ 极致幸福 </span></b>
+<br>
+-->
