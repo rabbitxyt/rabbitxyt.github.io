@@ -42,7 +42,7 @@ tags: [攻略]
 <br>
 
 
-**<span style="color:green">5 月 23 日周二下午申请状态变为 复审中</span>**
+**<span style="color:green">5 月 23 日周二下午申请状态变为复审中</span>**
 
 接下来需要准备如下材料进行邮寄：
 
@@ -59,7 +59,7 @@ tags: [攻略]
 <br>
 **<span style="color:green">5 月 27 日周六寄出护照，5 月 30 日周二送到 </span>**
 
-<b>寄出信封上请醒目注明 <span style="color:red">“APP办理护照”</span></b> 
+<b>寄出信封上请醒目注明 “APP办理护照”</b> 
 
 <b>收件人：Visa Office</b>
 
@@ -69,12 +69,10 @@ tags: [攻略]
 
 
 <br>
-**<span style="color:green">6 月 2 日周五自己查看，申请状态变为 待制证 </span>**
-
-
-
-<br>
-**<span style="color:green">6 月 9 日周五收到通知，申请状态变为 制证完成，待取证 / 待邮寄 </span>**
+**<span style="color:green">6 月 2 日周五申请状态变为待制证。 </span>**
+**<span style="color:green">6 月 9 日周五收到通知，申请状态变为制证完成；</span>**
+**<span style="color:green">6 月 12 日周一收到通知，申请状态变为已寄出；</span>**
+**<span style="color:green">6 月 14 日周三收到护照。 </span>**
 
 
 
