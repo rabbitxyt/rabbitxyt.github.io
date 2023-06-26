@@ -8,10 +8,9 @@ tags: [记事]
 ---
 
 
-
 <details> 
-<summary><b><span style="color:black">6/1 周四 ⓺ ⓷ 10¹² 🕦 🐑 💰 🍜 😄 | 🦷 🫦 🤕 🏠 ✈️ 😣 🕚  
-    <span style="color:Tomato">Talbots 给狗薅了件免费雨衣，</span> 
+<summary><b><span style="color:black">6/1 周四 ⓺ ⓷ 10¹² 🕦 🕚 🐑 💰 🍜 😄 | 🦷 🫦 🤕 🏠 ✈️ 😣   
+    <span style="color:DarkOrange">Talbots 给狗薅了件免费雨衣，</span> 
     <span style="color:IndianRed">收到 NW 看病账单报销。晚上去 Urgent Care 偶然路过一家越南米粉店，意外好吃且便宜。</span> 
     <span style="color:DarkOliveGreen">做了那颗没能报销的牙冠，麻药过后发现嘴唇起了一些泡，腰非常酸。</span>  
     <span style="color:DarkSlateGray ">吃饭时老公提到想回国创业  </span>
@@ -26,7 +25,7 @@ tags: [记事]
 
 <br>
 <details> 
-    <summary><b><span style="color:black">6/2 周五 ⓹ ⓷  9⁴º 🕦 📱 🛋️ 😑 🏠 ✈️ 😢 🕙    
+    <summary><b><span style="color:black">6/2 周五 ⓹ ⓷  9⁴º 🕦 🕙 📱 🛋️ 😑 🏠 ✈️ 😢     
     <span style="color:Gray"> 白天刷手机，腰酸。 </span> 
     <span style="color:DarkSlateGray">晚上和老公严肃讨论是否回国创业的事  </span>       
         </span></b></summary>
@@ -36,8 +35,8 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/3 周六 ⓻  9²¹ 🕧 🎬 🛀 🥡 🥟 😄 🕥
-    <span style="color:Tomato">白天看了一部科学动画片叫《门捷列夫很忙》</span>
+<summary><b><span style="color:black">6/3 周六 ⓻  9²¹ 🕧 🕥 🎬 🛀 🥡 🥟 😄 
+    <span style="color:DarkOrange">白天看了一部科学动画片叫《门捷列夫很忙》</span>
     <span style="color:OrangeRed">晚上吃了好吃的外卖 </span> 
     </span></b></summary>
 <ul>本来说好晚上去朋友家打桌游，结果一个小伙伴阳了就不去啦！继续腰酸到炸裂，站一会儿坐一会儿又躺一会儿。早上把做 biopsy 的创可贴摘了，有一个小针孔和一点点淤青。午饭吃了昨天外卖剩下的，有茄子和牛肉，自己蒸了紫薯。下午正好看到微博推荐的纪录片就随便看一下叫《门捷列夫很忙》比较短就五集，两个小时看完，讲一些基础化学小知识，之后洗了个澡，洗了点衣服。Amazon 买了白醋，番茄酱，漱口水，正好有 $5 coupon 用掉；Walmart 买了 OGX 洗发水。晚上老公买了外卖回来，面贴面的韭菜盒子，生煎包，担担面，麻辣牛腱。担担面和牛腱很好吃，一点点辣味很香，不是很喜欢发面生煎包，韭菜盒子还可以。还给我带了一杯优米的百香果西瓜水果茶。</ul>
@@ -46,7 +45,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/4 周日 ⓺  9⁴⁷ 🕛 🛒 🎫 🤔️ 🥡 🍍 🍆 😄 | 🛋️ 📱 😑 🕙
+<summary><b><span style="color:black">6/4 周日 ⓺  9⁴⁷ 🕛 🕙 🛒 ✈️ 🤔️ 🥡 🍍 🍆 😄 | 🛋️ 📱 😑 
     <span style="color:Gray">白天在 Weee 上买了菜，查香港往返上海机票价格。</span> 
       <span style="color:OrangeRed">晚上吃了好吃的外卖， </span>
   <span style="color:Gray">看了一部没什么营养的漫画 </span> 
@@ -64,8 +63,8 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/5 周一 ⓽ 9º⁵ 🕛 🧑‍⚕️ ☺️ 📖  🎬 🏃‍♀️ 🎮 🚘 😆 | 🐶 ❤️‍🩹 😣 🕤  
-    <span style="color:Tomato"> 上午看新的精神科医生，下午读村上春树《当我谈跑步时我谈些什么》  </span> 
+<summary><b><span style="color:black">6/5 周一 ⓽ 9º⁵ 🕛  🕤  🧑‍⚕️ ☺️ 📖  🎬 🏃‍♀️ 🎮 🚘 😆 | 🐶 ❤️‍🩹 😣 
+    <span style="color:DarkOrange"> 上午看新的精神科医生，下午读村上春树《当我谈跑步时我谈些什么》  </span> 
     <span style="color:Red">看日漫《强风吹拂》💯 </span> 
        <span style="color:OrangeRed"> 重新开始玩《健身环大冒险》和《塞尔达传说》 </span>
          <span style="color:OrangeRed"> 晚上开车去 Safeway 买了给朋友的生日贺卡， </span>  
@@ -81,7 +80,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/6 周二 ⓾ ⓸ 8²º 🕧  🎬 😍 🏃‍♀️ 🐑 💰 😄 | 🐶 ❤️‍🩹 😨 🕤  
+<summary><b><span style="color:black">6/6 周二 ⓾ ⓸ 8²º 🕧  🕤 🎬 😍 🏃‍♀️ 🐑 💰 😄 | 🐶 ❤️‍🩹 😨  
     <span style="color:Red">追完《强风吹拂》 </span> 
     <span style="color:OrangeRed">健身环大冒险 D2，Talbots 薅了日记本，Poshmark 出掉 Adidas 帽子，</span>  
     <span style="color:DarkSlateGray">晚上发现狗子耳朵有一点真菌感染 </span>
@@ -96,7 +95,7 @@ tags: [记事]
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/7 周三 ⓽ 7ºº 🕦 🥘 🏃‍♀️  🛀 🐑 💳 😄 🕡 
+<summary><b><span style="color:black">6/7 周三 ⓽ 7ºº 🕦 🕡 🥘 🏃‍♀️  🛀 🐑 💳 😄 
     <span style="color:red">早起，重新开始做饭，</span>
     <span style="color:OrangeRed">健身环大冒险 D3，CVS 薅羊毛，关白金卡</span> </span></b></summary>
 <ul>
@@ -116,7 +115,7 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details > 
-<summary><b><span style="color:black">6/8 周四 ⓼ 9ºº 🕧 🥘  🖍 😄 | 💊  🏃‍♀️  😷 🕤  
+<summary><b><span style="color:black">6/8 周四 ⓼ 9ºº 🕧  🕤  🥘  🖍 😄 | 💊  🏃‍♀️  😷
     <span style="color:OrangeRed"> 日志更新表情，中午做饭一起吃有被表扬，健身环大冒险 D4，</span> 
     <span style="color:DarkOliveGreen"> 跑步时有点偏头痛 </span>
     </span></b></summary> 
@@ -132,12 +131,12 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/9 周五 ⓼ 8¹⁷  🕦 🥘 😷 🧑‍⚕️ 💸 🪪 💑 😍 🐑 🖍 🕗  
+<summary><b><span style="color:black">6/9 周五 ⓼ 8¹⁷  🕦  🕗 🥘 💑 😍 🐑 🖍 👨🏽‍⚕️ 😷 
     <span style="color:DarkOliveGreen">今天腰还是好酸，</span> 
-    <span style="color:OrangeRed"> 约到了下周一看 PT，每次只要付 7 刀。收到护照制证完毕的通知，看学霸甜甜的恋爱视频，</span> 
-    <span style="color:Tomato">Talbots 第三单继续买本子，日志更新颜色</span> 
+    <span style="color:OrangeRed"> 约到了下周一看 PT，每次说只要付 7 刀。收到护照制证完毕的通知，看学霸甜甜的恋爱视频，</span> 
+    <span style="color:DarkOrange">Talbots 第三单继续买本子，日志更新颜色</span> 
     </span></b></summary>
-<ul>今天醒的有点早，11:40PM 上床，感觉立马就能入睡，果然没有干扰的情况下从 11:45PM 睡到早上 8AM。今天起床前做梦还是一如既往的多，也隐约记得一些，但好像没什么回忆的必要。醒得早也有可能是因为今天 7:30AM 有垃圾车开过比较吵，醒了就爬起来了，看起来离例假也很近了这两天的事。<br>
+<ul>今天醒的有点早，11:40PM 上床，感觉立马就能入睡，果然没有干扰的情况下从 11:45PM 睡到早上 8AM。今天起床前做梦还是一如既往的多。醒得早也有可能是因为今天 7:30AM 有垃圾车开过比较吵，醒了就爬起来了，看起来离例假也很近了这两天的事。<br>
 早上给狗擦口水，发现有些褐色的东西，仔细查看了一下发现好像就只是残留在嘴唇的口水，颜色有点吓人，好奇怪不知道以前是不是也是这样呢？就很少会去留意这些，每次狗子生病都会有新状况需要处理，增加新的经验。心情就比较平静，想到明天早上就能看医生了也些许安心些。白天被我逮到在舔脚踝的缝线，骂了一顿。不过问题不大已经到可以拆线的时间了。<br>
 继续改文本格式，又按颜色给情绪分类调色，一直蛮喜欢做这种调格式的事情，不用动什么脑子，就是也蛮花时间的。<br>
 午饭吃了昨天腌的的鸡胸肉，没有太甜，蒸了紫薯，把老公早上剩的包子和鸡蛋一起吃掉，一晃都 4:30PM 了；Talbot 下了第三单，买了日记本和刮舌器。<br>
@@ -148,10 +147,10 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details > 
-<summary><b><span style="color:black">6/10 周六 ⓹ ⓻ 8⁴⁵ 🕧 🐶 ❤️‍🩹  🩸 🛏️ 📱 👨‍🍳 🛀 🥡 🌮  💡 🃏 🕘
+<summary><b><span style="color:black">6/10 周六 ⓹ ⓻ 8⁴⁵ 🕧  🕘 🐶 ❤️‍🩹  🛏️ 📱 👨‍🍳 🛀 🥡 🌮  💡 🃏
     <span style="color:DarkOliveGreen">来例假，</span> 
     <span style="color:Gray">早上带狗拆线看病，</span>
-    <span style="color:Tomato">躺床上看漫画，</span> 
+    <span style="color:DarkOrange">躺床上看漫画，</span> 
     <span style="color:OrangeRed">老公做了超好吃的午饭，洗澡，晚上去朋友家吃饭打桌游</span> 
 </span></b></summary>
 <ul>来例假，早上肚子不舒服，止痛药药效还没上来，于是就派老公带狗进去 Pet's Friend 看病。医生检查完说是耳朵有轻微感染，还是开了滴耳液，下巴也是用之前开过的喷肚子的同款慕斯，拆了线，说伤口还是有些红肿，可能是对缝纫材料有些过敏，约了两周复查。
@@ -163,9 +162,9 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/11 周日 ⓸ 7⁵⁷ 🕝 🥱 🚘 🥡 🧋 🍽 🐶 😠 🕚 
+<summary><b><span style="color:black">6/11 周日 ⓺ ⓸ 7⁵⁷ 🕝 🕚 🥱 🚘 🥡 🍽  |  🐶 😠 
     <span style="color:Gray">睡到中午起，中午吃鸡排，买菜，</span>
-    <span style="color:Tomato">晚上去朋友家吃饭，</span> 
+    <span style="color:DarkOrange">晚上去朋友家吃饭，</span> 
     <span style="color:DarkSlateGray">狗子自己在家很生气。</span> 
 </span></b></summary>
 <ul>昨天睡太晚，今天一直睡到中午，这两天好像是因为前两天运动了的关系，静态心率有降下来。继续腰酸。<br>
@@ -178,8 +177,8 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/12 周一 ⓺ ⓷ 8¹⁶ 🕐 👨🏽‍⚕️ 🚶🏻‍♀️ 🐶 💔 🤕 🕘
-    <span style="color:Tomato">早上去看 PT，自己走路回家顺便打游戏。</span> 
+<summary><b><span style="color:black">6/12 周一 ⓺ ⓷ 8¹⁶ 🕐 🕘 👨🏽‍⚕️ 🚶🏻‍♀️  |  🐶 💔
+    <span style="color:DarkOrange">早上去看 PT，自己走路回家顺便打游戏。</span> 
     <span style="color:IndianRed">收到护照寄出状态更新，中午有从 Bethany 家带回来的好吃的牛腱，不用做饭。</span> 
     <span style="color:DarkSlateGray">因为周末一直把狗放在家里感到自责，今天陪了一天。又因为趴在地上陪狗加下午抱狗出去导致背痛，觉得很无力挫败。</span> 
 </span></b></summary>
@@ -196,10 +195,9 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/13 周二 ⓷ ⓹ 8³º 🕦 👿 👅 🚗 🎬 🚶‍♀️ 🐶 🕗
+<summary><b><span style="color:black">6/13 周二 ⓷ ⓹ 8³º 🕦 🕗  💰 🎬 🚗 🚶‍♀️  | 🐶 👅❤️‍🩹
     <span style="color:DarkSlateGray">狗子半夜又舔脚了，</span> 
-    <span style="color:Gray">收到 NW 报销，VS 退款。</span> 
-    <span style="color:IndianRed">看了一会儿学车视频，今天中午抱狗下楼走路一切顺利</span> 
+    <span style="color:IndianRed">收到 NW 报销，VS 退款，看了会儿学车视频，今天中午抱狗下楼走路一切顺利</span> 
 </span></b></summary>
 <ul>早上回看昨晚狗子的视频有被气到，发现她还是陆续舔了好几次。一开始误会是老公把她吵醒了（好像也有点误打误撞，老公以为狗在舔脚，下来看把她弄醒了）说我冤枉他了，但好心办坏事和没有一点帮助是真的。还剩最后一粒卡洛芬，这么快三周就过去了，恢复情况比预期中的差一点，到现在还得戴着头套。给狗子套了个颈枕，其实昨晚就想这么干，但又怕有什么负面影响比如对脖子不好，想着她可能不怎么舔，结果（可能是因为老公的掺和？）舔的超级凶。<br>
 今天比较好的事是昨天晚上腰痛的地方已经不疼了，腰酸还在持续中。Prime Digital Credit 4 刀快过期用掉了，又买了纪录片，每次都是光买不看；玩了会儿星巴克的消除游戏，给的一堆 Booster 都没用上，玩游戏玩的好真的有让人开心诶。收到 VS 退货确认通知，虽然 FedEx 一直一直都没有更新，很神奇就收到了，100 块钱到账。还有 NW 报销，把 95 刀诊费写成 open or undefined diagnosis，比较神奇，这一项 secondary 的报销额度是 $210，可能就是 salivary staining 他们不知道算成什么毛病吧！<br>
@@ -210,10 +208,10 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details > 
-<summary><b><span style="color:black">6/14 周三 ⓹ 8¹⁶ 🕚 😵‍💫 🧑‍⚕️ ✈️ 🎫 🕗
-    <span style="color:IndianRed">去做 Physical Therapy，收到护照，</span> 
-    <span style="color:Gray">看机票，</span> 
-    <span style="color:Tomato">晚上老公做饭</span> 
+<summary><b><span style="color:black">6/14 周三 ⓹ 8¹⁶ 🕚  🕗 😪  👨🏽‍⚕️ ✈️ 👨‍🍳  
+    <span style="color:Gray">醒得很早，</span> 
+    <span style="color:IndianRed">去做 Physical Therapy，收到护照，看机票，</span> 
+    <span style="color:DarkOrange">晚上老公做饭</span> 
 </span></b></summary>
 <ul>非常奇怪的睡眠时间了，老公晚上陪狗，一点关笼子，两点上楼睡觉，晚上给她戴了坐飞机用的颈枕。我早上六点半醒了就起来到楼下看狗，晚上狗子睡的挺好的，一次也没有舔脚，给她摘了头套我自己又在地板上睡了一小会儿，总共也睡到了 8 个多小时，但早起下楼再接着睡，整个过程状态有点懵逼。<br>
 下午去了 PT，感觉还可以，中间用了一些器械，主要锻炼腰和腹部，最后有模拟水疗和电疗很舒服，大概呆了一小时。走路半小时过去，外面还挺晒的走的出汗了，不过边走边打游戏时间过得很快，回家老公开车接我，问了工作人员好像保险全 cover 不用自己花钱，约了一周去三次。<br>
@@ -225,10 +223,10 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 
 <br>
 <details> 
-<summary><b><span style="color:black">6/15 周四 ⓸ ⓺ 9⁴⁸ 🕚 👄 🐶 💩 😭 ✈️ 🏨 🐑 👚 🕣
-    <span style="color:DarkSlateGray">狗子昨晚到今早便便都不太好，</span> 
-    <span style="color:IndianRed">买好香港飞上海的机票，看酒店，</span> 
-    <span style="color:Gray">薅信用卡羊毛，洗衣服</span> 
+<summary><b><span style="color:black">6/15 周四 ⓸ ⓺ 9⁴⁸ 🕚 🕣 ✈️ 🏨 💳 🐑 👚  | 👄 🐶 💩 😭  
+    <span style="color:DarkSlateGray">口腔溃疡一直没好，狗子昨晚到今早便便都不太好（又出新状况）</span> 
+    <span style="color:IndianRed">买好香港飞上海的机票，看香港酒店，</span> 
+    <span style="color:Gray">薅信用卡羊毛，买眼罩，洗衣服</span> 
 </span></b></summary>
 <ul>早上起来发现口腔溃疡还是和昨天一样，问了医生说没关系可以不用药。睡的还挺好的，一看睡了快 10 个小时，怪不得。而起床时间也就 8:30AM，果然早睡早起是王道，睡满 10 小时也没有罪恶感。还是会微微觉得腰酸，人不是很有干劲（不是应该给自己积极的心理暗示比较好吗 hh<br>
 狗子今天戴的是新买的狗狗用的 Donut Collar，晚上和昨天一样没有舔，早上起来发现脖子和下巴湿湿的，擦干，大腿伤口还是和昨天一样，看着好大一片，但对比了一下和昨天也差不多，总之没有变化就是好事吧！<br>
@@ -236,15 +234,127 @@ Amex UA 航空报销到账，帮老公把白金卡关掉了，本来就要关的
 国泰用点数换买好回国机票（香港 — 上海）只剩下最后一个位置买完就没了。帮老公看了下他 10/7 香港飞上海价格是 $186，3:05PM 上海航空。香港周六晚住宿，看了一下希尔顿和万豪，Hilton 有一张免费房券 11 月到期，虽然可能用不出超高价值（比如去马尔代夫的）但是本来下半年也没有旅行计划了，Marriott 今年 8 月也会发一张房券，但先把快过期的 Hilton 用掉。Marriott 35K 最多只能加到 50K，所以选择不多，有一家比较好的 56K 的酒店（W Hong Kong）不过点数价值也将近 $400 不便宜，用房券最合适的一家是 40K 酒店叫 
 The Mira Hong Kong，房费是 $275，刚刚好换到 0.7，一般般的 rate。继续薅了 Aspire
 $100 Airline Credit + $250 Resort Credit<br>
-Amazon 买了眼罩，昨晚要用找不着来着。洗自己的衣服。
-
+Amazon 买了眼罩，昨晚要用找不着来着。洗衣服。
 </ul>
 </details>
+
+
+<br>
+<details> 
+<summary><b><span style="color:black">6/16 周五 ⓺ 8¹¹ 🕦  🕗 🦮 👨🏽‍⚕️  🍔 🥘
+    <span style="color:OrangeRed">早上带狗出去走了 10 多分钟走的挺好的，</span> 
+    <span style="color:IndianRed">便便比昨天好点。今天第二次 Physical Therapy，午饭带了麦当劳回家。收包裹，做晚饭，Gaga 家拜托帮忙看狗。</span> 
+</span></b></summary>
+<ul>早上带狗走了 15 分钟，健步如飞，便便有一小部分是又黄又软的，其他大部分是棕色小屎，算是网上写的干硬型（香肠形状，多个小块粘连）比昨天好一点没有血丝。<br>
+11 点 PT，自己走路来回，内容和上次一样，工作人员都很友好所以体验蛮好的，做完回来还是感觉背部有点僵硬。<br>
+中午回来路上买了麦当劳回家吃，用了优惠券汉堡买一送一。下午又试着申 Amex Aspire 试了四次都不给开卡奖励。收到 Amazon 买的眼罩和之前 Talbots 薅的日记本和刮舌器。自己做晚饭，做了山药排骨汤。<br>
+Gaga 家拜托我们 7/14 那周帮忙看下狗，然后之后一周我们出去玩换他们帮忙看 Luna。可以提前去他们家住，顺便练练车。
+</ul>
+</details>
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/17 周六 ⓸ ⓻ 8⁵⁶ 🕛 🕘 🥘 🛒 🐑  🚶🏻‍♀️  📱 🛋️  | 🐶 ❤️‍🩹 😷
+    <span style="color:DarkSlateGray">一早狗子把下巴挠出血了，</span> 
+    <span style="color:IndianRed">联系的兽医院都有很及时地回复，今天便便和昨天差不多，走路很好，走的还不少。</span>
+    <span style="color:OrangeRed">今天中午和晚上都有自己做饭，下午去 Costco 和大华买菜，把面包券用了，去 Ulta 取了十刀折扣券换的 OGX 洗发水。</span> 
+    <span style="color:DarkOliveGreen">今天一直站着腰特别酸。</span>
+</span></b></summary>
+<ul>早上狗子继续折腾，刚给她摘了头套弄早饭时候就把下巴抓破了。也可能是我用抗菌湿巾片给她擦她不舒服就去挠了。发邮件问 Pet's Friend 人家说破了还是可以继续喷 Mousse，尽量让伤口保持干燥好得快。OGV 那边发过去图片说狗子这几天腿上伤口一直粽红色一片，对方回复我说是正常的，可以不用戴伊丽莎白圈了，下午她站起来腿蹭到我手的时候发现好像是薄薄的一层结痂。和医生通完气就是让人非常安心。<br>
+之后也没给她戴头套，看她自己睡的挺好的也不挠。早上带她出去走了10分钟，还是便的棕色小屎合成的大屎带点黄色软软的部分。中午我俩去 Costco 买鸡蛋牛奶，再买了点虾和牛仔骨，之后去亚超买了点青菜，姜和酱油，把快到期的三刀面包券用掉了。之后去了 Ulta，早上在网上下单了 OGX 洗发水，用掉十刀折扣券，最后不到一刀拿下。晚上 Too Good To Go 面包还是秒没，有点刺激，但是和老公抢了奶茶和 Poke Bowl。今天中午和晚上都自己做了饭，午饭是在昨天的山药排骨汤里加了青菜豆腐，又炒了个韭菜鸡胸肉，晚饭加了青菜年糕当主食，还做了个番茄炒蛋。老公周六还在开会 Orz 中午吃饭又新开了一个无脑爽剧叫《炼气十万年》今天因为走了很多路，外加做饭遛狗一直站着，所以腰好酸，从超市回来就在地上躺平刷手机。
+</ul>
+</details>
+
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/18 周日 ⓺ 8º³ 🕦  🕣 📱 🥘 🛀
+    <span style="color:IndianRed">发 Ins，做午饭，洗澡。</span> 
+    <span style="color:OrangeRed">狗子今天的便便和走路都还不错。</span> 
+</span></b></summary>
+<ul>早上不知道是不是穿的睡衣太厚热醒的，六点半就醒了，一醒就爬起来想着给狗摘个头套，又在楼下地板上睡到九点。早上带狗出去时候还碰到 meimei 她妈，Luna 激动坏了，稍微打了个招呼就把她拉回家了，中间自己乖乖便了一下，便的还行，好像没有黄色部分了，到家给她滴了个滴耳液。发了个 Instagram，离上次发过去三周。中午做了羊肉抓饭，下午洗澡，洗衣服。老公吃了饭一直在楼下呆着所以 Luna 一直很放松地在睡觉。想到老公说不准备回国了好开心呀！浇花，晚上拿了两份 TGTG，本来挺期待的 Poke Bowl，已经很晚了要 9:30PM才拿，结果老公买错了买了 Salmon Bag，弄得他不开心。我买的奶茶倒是有四大杯喝不完。</ul>
+</details>
+
+
+<br>
+<details> 
+<summary><b><span style="color:black">6/19 周一 ⓼ 7º⁴ 🕐 🕗 👩‍⚕️ ✍️ 🧑‍🍳 👨🏽‍⚕️ 🏃‍♀️ 🗺️  
+    <span style="color:OrangeRed">整理心情日记，看精神科医生。老公做好吃的三文鱼砂锅。看 PT，回程走路 1 小时。看欧胡岛旅行攻略，定好 Hilton 香港酒店。</span> 
+</span></b></summary>
+<ul>早起，做早饭遛狗。觉得有点饿，昨天的珍珠奶茶竟然不难喝。整理日记，做了个记录心情的折线图，然后和精神科医生聊天，还挺开心的。中午老公做了三文鱼砂锅加了豆腐，超级好吃，还有一个炒乌冬。吃了饭去做 PT，刚吃完饭一刻钟，食物还没消化，特别是那个震的机器特不舒服，最后马杀鸡超舒服，很适合冥想。回来路上就走啊走，还去边上公园绕了一圈把游戏任务做掉，今天外面风超大吹得还有点冷，小跑了一段，这段不是很舒服。回家老公和狗子都在睡觉，昨天的运动量还是很大的，将近一万步，4.29 迈，368 卡。晚饭接着吃中午剩的，加了一根茄子。下午到晚上开始认真写欧胡岛旅行计划，晚上趁老公在把 Hilton Free Night 用掉了，定了 10/21 晚 Conrad Hong Kong。看攻略到 11 点就好困好困去睡了。<br>
+总的来说就是觉得一整天非常 productive 所以很开心。这一天开始前想着啊好烦今天好多事，做完之后就会很轻松，而且都完成的很满意。第二次和精神科医生聊天因为做足了准备所以没有慌张可以（相对）谈笑风生，状态很放松；下午 PT 总是一如既往的小确幸，免费锻炼身体，做完存了很久的游戏任务也很开心，之前一直都是在家里呆着完成不了。做攻略也是一直拖着，之前还没想好要不要去，这次算是决定好了，也有 Gaga 家答应帮忙照顾狗子，老公在的时候也不好意思写日志，就看看攻略，写着写着就认真起来了，做攻略小能手 😎 还有订酒店也是我帮忙完成的。另外就是完全没有烦心事，狗子的身体状况良好，甚至腿上还有点结痂掉下来了，下巴一如既往，走路没问题。
+</ul>
+</details>
+
+
+
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/20 周二 ⓺ 8⁴¹ 🕚 🕗 🥬 🦐 🗺️ 🍔 🍅 🥒 
+    <span style="color:IndianRed">认真计划夏威夷行程安排</span> 
+</span></b></summary>
+<ul>感恩今天的睡眠时间，总算不觉得缺觉了，在床上还看了会儿手机才爬起来，没有之前那么神经紧绷地担心狗了。今天早上狗出笼子的时候有跳一下，最近几天都没看到过，不知道是放她出来太急了还是之前没留意还是这两天走多了，anyway 留个心眼。今天继续完成夏威夷旅游计划，投入地看了一整天，研究 Go Oahu Pass 里的项目怎么安排，中午就快快地水煮了青菜和白灼虾，晚上老公回来之前把鸡腿红烧了一下，也是煮特别方便，然后把放了一天的锅洗了。他回来正好也比较晚，十点才到家，狗子看到他回来激动坏了，一天没出去了。晚饭吃了我做的鸡翅，一小包共也才五个，还有他带回来的牛肉汉堡，生番茄和黄瓜。12 点半非常困地沾床就睡了。</ul>
+</details>
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/21 周三 ⓺ 8⁴⁶ 🕧 🕘 👨🏽‍⚕️ 🥡 🗺️ 
+    <span style="color:IndianRed">做 PT，带外卖，继续做攻略</span> 
+</span></b></summary>
+<ul>今天睡到九点醒，之后就一直赖床不想起来，到九点半看了一眼摄像头看到狗醒了好一会儿了，就迅速爬起来下楼了。早上时间好赶，十点起床坐到电脑前面，煮了馒头，出门遛狗，回来十点半出发去做 PT，12 点结束，之后顺路给老公带了午饭，越南三明治和虾卷，到家 1 点，吃吃躺躺看看手机就 3 点了。下午就继续做攻略吧</ul>
+</details>
+
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/22 周四 ⓹ ⓼ 8⁴º 🕛 🕣 🗺️ 🛀 💡 📖 
+    <span style="color:Gray">继续做攻略，稍微有点疲惫。</span> 
+    <span style="color:OrangeRed">晚上突发奇想，想去社区学院念书。</span> 
+</span></b></summary>
+<ul>今天睡起来觉得累累的，一看深度睡眠将近 3 小时，其实昨晚就有点头疼了，也没做什么就是去做了 PT，锻炼相对平时比较多，然后又一直在做攻略动脑筋，想着怎么安排 Go Pass 日程，想到最后还是决定不用了。今天就规划了一下，把该定的项目订了，一个是古兰尼牧场的越野车，一个是波利尼西亚文化中心的游园和晚餐表演。吃饭就是马马虎虎打发了一下，炸了鱿鱼圈，煮了紫薯。早上起床老公就出门了，白天自己抱狗出门走了 10 分钟，狗子这两天不怎么用管了。嘴上的溃疡也在变好，现在就只有一个小白点了，面积比之前小很多，非常神奇。明天看牙今天还得洗个澡，真的是一忙起来时间就过超快。还有找牙医弄的那个报销表格拖着一直没弄。老公晚上带了好吃的韩国菜回来。<br>
+小红书上浏览到一篇 35+ 获得计算机本科文凭的文章，突然 ignite 了自己读书的念头，首先是因为便宜hh 加州本地居民一个学分只要 40 刀，修完 120 学分可以把学分转到正经本科大学继续读，其中有比如 UCLA，UCB 这样的好学校。两年读下来的成本也只要 5000 刀，觉得不是很贵。想到在学校读书的话生活就有很多新鲜事啦，认识新的人，学新的知识，一路努力学习考试取得好成绩想起来就是很开心的事。最终目标是兽医院，可以说是一时兴起，想法来得很突然，不过其实一直也有读兽医的念头。毕竟我一直挂在嘴上的一句话是我的时间不值钱，勉勉强强可以说自己是有钱有闲。有两个选择，一个简单一些的 path 是学习当 Vet Tech，读两年，拿个 associate degree；另一个是读 biology，两年后转到本科，毕业之后继续在 vet school 读四年。整个过程发生的很突然，偶然读到那个帖子，问自己一句要不我也去读一个？读个什么呢？还是最想当兽医啊！可以可以。而且读完成绩优异甚至还可以进名校，听起来好棒！接着就去搜索 2 + 2 项目资料，学校的日程安排。毕竟上一次上学的体验真的很美妙，所以觉得再上一次学也会很开心吧！社区学院听起来竞争和压力也会小很多，这一次不要像研究生读书时候给自己选择那么难的道路了，从 easy mode 开始，感觉能给自己更多信心和期望。就越想越兴奋吧，晚上吃过晚饭就在那儿看学院，因为挺晚的九十点才研究起来的，所以很快就到 midnight 了，躺床上有些睡不着，加了 100 mg Quetiapine，一鼓作气在 12 点就提交了一份 Vet Tech 的申请，申请社区学院是没有门槛的，有高中学历的就可以上。比较简单适合职业发展的道路是把 Vet Tech 先读出来，可以边工作再边读 Biology 的项目，就是得多花上两年。</ul>
+</details>
+
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/23 周五 ⓺ 6⁴¹ 🕜 🕗 🦷 📖 👨🏽‍⚕️ 🗺️ 🍟 🥡 
+    <span style="color:IndianRed">上午洗牙，下午 PT，做了社区大学的数学自测题，感觉已经不太行了。星标夏威夷餐馆，收到 Temu 包裹。</span> 
+</span></b></summary>
+<ul>昨晚睡得比较晚，早上因为九点要去洗牙和装牙套，得早起，所以虽然很困但还是乖乖起床。运气比较好的是嘴唇上的溃疡已经快好了。这次医生说要打麻药的时候问我麻没麻，我果断说麻了，而不是之前会说一点点。上次让医生加了几针麻药，回来之后嘴里有 irritation 得不偿失，还是按需要加比较好。走的时候找医生填好了 claim 的表格。打车回家，看看夏威夷餐厅，下午大部分时间在研究社区学院的课程，做了一些网上自测题，数学已经忘得差不多了，用英文学习理化生之前也没有基础。
+晚上 5:30PM 去做了 PT，几乎已经没有人了，回来的时候继续去麦当劳蹭吃蹭喝，周五薯条免费，花了2刀买了蛋筒 + 薯条。回来查了一会儿夏威夷餐馆，地图加星标，定了一家比较热门的猪排店。<br>
+收到 Temu 的包裹，有点失望，那个净水器滤芯一看就是假的，特别轻，而且不匹配冰箱盖不上，贪小便宜结果还得浪费时间退货，狗尿布还挺可爱的，虽然用不上但是很喜欢，晚上老公带了外卖回来吃。
+</ul>
+</details>
+
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/24 周六 ⓼ 8¹⁵ 🕛 🕣 🐶 👩‍⚕️ ☀️ 🛒 🥭 🥗 😋 🚘 
+    <span style="color:OrangeRed">上午带狗看医生，Costco 买好吃的红薯干和椰子水，和朋友一起吃午饭，用 Gaga 家小车练车，再次约驾校练车准备考试。</span> 
+</span></b></summary>
+<ul>早上带狗去看兽医。看了 Dr. Wang，采样了腿上的肿块和下巴，说有一点点轻微的细菌感染，继续涂慕斯。之后去Gaga 家，WH 今天晚上回国，我们一起去了 Costco 买了午饭：排骨+芒果+沙拉+披萨，还遇到好多好多试吃摊头，有饼干，蛋糕，沙拉，汤，饮料，冰棍等等，非常幸运了，最后买了好喝的椰子水和红薯干回家。回家吃过饭看了会儿电视，下午借 ZM 车练练。从家里开到他公司，去了趟在打两折清仓的 BB&B，不过没挑出什么好东西。路上失误的地方还挺多的，有一条大马路该从右边出口下去的时候开太快没下去，最后进 plaza 停车的时候开到逆行道了，变道减速的时候踩了刹车，过stop sign 一直边走看边往前溜，应该刹车完全踩住再看路，大转弯的时候车速太快。ZM 帮我复盘了很多问题，和我说都是小问题，对比了一下他之前经历过的危险情况，告诉我就是多练习就会好的，整个就是非常 nice 的体验了。Redwood City 路况有些复杂，右边有上高速的道，也有下去的道，特别懵逼。其实一路有 Carplay 但我都没注意。<br>
+Gaga 现在白天大部分时间在阳台，刚去躺在阳台陪了会儿狗，躺在假草皮上晒太阳超级舒服呀！下午还看了 Gaga 做复健项目。<br>
+晚饭回家吃了昨晚剩的，老公做的披萨炒饭也很好吃。他说晚上看 Luna 脚又有点跛了，大概今天运动量比较大，而且老扒拉地板，下次还是要再看紧一点。<br>
+总之一整天都好开心，早上去看医生的时候问了很多问题医生也有耐心解答，做活检要 500 刀保险可以全部报销。见到 Gaga 很开心，和 Gaga 一起阳台躺平很开心，去 Costco 试吃到很多好吃的东西很开心，买到喜欢吃的红薯干很开心，下午朋友陪着练车很开心（虽然回过头觉得还是有很多危险操作的，还是从中学到了很多东西）晚上回家就直接约了驾校教练，看了看 Permit 8/15 过期，本来想 7 月份要出去玩就回来再说吧，可能得重考一个笔试了。翻了翻上次练车还是去年年底，半年一眨眼就过去了，如果没有 deadline 可能就一直拖延下去了。既然这次练车又给了自己一点动力，那就一鼓作气去考了吧！希望能在 7/20 出去旅游之前考出来，那是最好最好的愿景啦！
+</ul>
+</details>
+
+
+<br>
+<details > 
+<summary><b><span style="color:black">6/25 周日 ⓺ 8³⁶ 🕧 🕤
+    <span style="color:IndianRed">狗腿上的结痂全掉了，租好夏威夷开的车，Hilton Resort 的报销收到，把酒店订单取消了。老公做了一整天的饭，开车去 CVS 拿药，约了社区大学的咨询，浏览学校网站，休息时间看看小红书别人考驾照的帖子。</span> 
+</span></b></summary>
+<ul>早上醒过来看到狗又在舔肚子了，下楼一看肚子上的毛都是湿的，神奇的是腿上伤口的结痂都不见了，露出粉嫩的肉肉，下巴老样子，有结痂干的，昨天开始头套也不带了。出去遛了个狗，回来老公做了手抓饼。中午看了一下夏威夷租车，还是 Avis 最便宜，base $190，定了一个 SUV，税后 $400。今天查了一下 Amex 的 Hilton Resort 报销，非常奇怪只报了 $150.37，问了下 WH 提醒我说之前是不是报销过，一查果然是去年在 Vegas 升房时候花过，然后把预定取消了。发现珍珠港亚利桑那号是提前两个月放票，正好订不到周五的票了，最早只有周日了，早两天可能能订上。开车去 CVS 拿了药。晚上老公做了香锅，明天的午饭有了。今天吃了自己种的小草莓，还挺甜的。晚上继续看学校网站，约了一个下周三 Zoom 咨询，登学生 portal 有点问题发了邮件过去问。其他时间就刷下小红书，都给我推的加州考驾照第 N 次终于考过的帖子，看的挺开心的。下周 Calendar 上事项突然多了起来，包了个 Temu 退货包裹，但因为之后都没有办法整天在家所以准备等偶遇邮递员的时候再退。就是比较充实的一天吧！发现自己打字速度变快了hhh</ul>
+</details>
+
 
 <!-- 模版
 <br>
 <details open> 
-<summary><b><span style="color:black">6/ 周几 ⓹ 9ºº 🕘
+<summary><b><span style="color:black">6/ 周几 ⓺ 9ºº 🕘
     <span style="color:Gray">总结</span> 
 </span></b></summary>
 <ul>日记</ul>
@@ -254,7 +364,7 @@ Amazon 买了眼罩，昨晚要用找不着来着。洗自己的衣服。
 <!--
     ⓵ ⓶ ⓷ ⓸ ⓹ ⓺ ⓻ ⓼ ⓽ ⓾  º ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
     ➂ DarkSlateGray 非常不开心 / ➃ DarkOliveGreen 不开心 / ➄ Gray 中性
-    ➏ IndianRed 满意 / ➐ Tomato 开心 / ➑ OrangeRed 非常开心 / ➒ Red 极度开心
+    ➏ IndianRed 满意 / ➐ DarkOrange 开心 / ➑ OrangeRed 非常开心 / ➒ Red 极度开心
 -->
 
 
@@ -267,7 +377,7 @@ Amazon 买了眼罩，昨晚要用找不着来着。洗自己的衣服。
     <b><span style="color:DarkOliveGreen">➃ 不开心 </span></b>
     <b><span style="color:Gray">➄ 中性或漠不关心 </span></b>
     <b><span style="color:IndianRed">➏ 对生活满意 </span></b>
-    <b><span style="color:Tomato">➐ 开心 </span></b>
+    <b><span style="color:DarkOrange">➐ 开心 </span></b>
     <b><span style="color:OrangeRed">➑ 非常开心</span></b>
     <b><span style="color:Red">➒ 极度开心</span></b>
     <b><span style="color:GoldenRod">➓ 极致幸福 </span></b>
