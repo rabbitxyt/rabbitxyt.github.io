@@ -7,7 +7,7 @@ img:
 tags: [记事]
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/mood_chart_202306.PNG" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/content/mood_chart_202306.png" >
 
 
 
