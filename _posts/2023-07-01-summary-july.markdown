@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 七月记事
-date: 2023-07-17 19:00:00 -0400
+date: 2023-07-30 19:00:00 -0400
 description: journal
 img: 
 tags: [记事]
@@ -225,6 +225,100 @@ Grubhub 买了鸡排当午饭吃，还买了炸蘑菇，满 20 - 6。炸蘑菇�
 </span></b></summary>
 <ul>昨晚还是好晚睡，洗个澡遛遛狗哄睡觉就凌晨一点了，早上继续睡不醒。老公超级辛苦七点多起床去 DMV walk-in renew 驾照，九点半回来我刚睡醒，一起简单吃了点早饭，他接着睡觉，我起床喂狗，遛 gaga，一不小心走了老大一圈，回来都十一点半了。静态心率昨天 63，今天 59（没有到下午又上去了变成了 63）中午还是老公做饭，煮了面给我吃，然后他就去公司上班了。我在家把日记补全，继续刷刷小红书，看到有人推荐 AKC 宠物保险，有点心动，就是价格好贵。</ul>
 </details>
+
+<br>
+
+<hr>
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/21 周五 
+    <span style="color:OrangeRed">飞夏威夷，开启度假模式</span> 
+</span></b></summary>
+<ul>机票用的是阿拉斯加基友票，花了 $618 + $150，落地去逛了 Costco，买了衣服和零食。取浮潜装备，Hilton 度假村附近的人很多，堵车堵了好一会儿。晚饭预约了银座猪排，点了一个 Kurobuta Loin Katsu Set 和一个 Kurobuta Katsudon，两个人花了 $75.5，性价比不太高，晚上回酒店刚好看到烟花表演。
+</ul>
+</details>
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/22 周六 
+    <span style="color:OrangeRed">上午恐龙湾浮潜，下午走 Trail，晚上和朋友约饭</span> 
+</span></b></summary>
+<ul>恐龙湾预约的是 7:10AM，两个人门票 $51.18 + $3 停车费，到早了停车场还没开门，差点从门口开过去。
+前一天在 Snorkel Bob 租了带度数的潜水镜，呼吸管和蛙鞋三件套，其实恐龙湾现场也有租的而且价格也一样，去沃尔玛买了救生衣不过后来因为水很浅也没用到，穿了泳装，wetsuit 加防晒霜，没怎么被晒到。玩的还是很开心的，看到好多鱼。<br>
+中午就在那边附近吃了个 Poke，店名叫 HanaPa'a Market，味道还不错，量很大没吃完，两个人花了 $37.74。
+下午去了 Makapu‘u Point Lighthouse Trail 还遇到了认识的朋友，晚上一起去添好运吃了个点心，四个人 $60，菜比较精致分量小，味道很不错。
+</ul>
+</details>
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/23 周日 
+    <span style="color:OrangeRed">古兰尼牧场坐越野车，逛哈勒瓦小镇，北岸看海龟和日落</span> 
+</span></b></summary>
+<ul>早上用酒店送的 $35 Dining Credit 买了两个三明治和一盒燕麦片，越野车两个人一共 $303.56，中午吃了 Huli Huli Chicken（$16.7）还有彩虹冰（$6.24）都非常非常赞，便宜好吃。拉尼凯海滩周围还是满堵的，快日落了但还是幸运地看到了一只站岗的海龟。晚上去 Sunset Beach 看了日落，好好看哇！</ul>
+</details>
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/24 周一 
+    <span style="color:OrangeRed">波利尼西亚文化中心半日游</span> 
+</span></b></summary>
+<ul>两个人含晚饭自助餐和表演 $274.60，还是挺值的。上午老公要开会，我们去的比较晚，但也看到了很多表演都挺精彩的，晚饭自助餐东西也蛮多的，来欧胡岛一定要去的地方吧！</ul>
+</details>
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/25 周二 
+    <span style="color:OrangeRed">威基基海滩闲逛</span> 
+</span></b></summary>
+<ul>老公正式开始开会，我自己也没安排好接下来的行程，所以第一天就在住的度假村逛了逛。午饭用酒店 Dining Credit 买了汉堡和木瓜，晚上走路去吃了 Wagaya 日餐，点了拉面，豆腐和玉米烙（$37.61）这家还是蛮好吃的。</ul>
+</details>
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/26 周三 
+    <span style="color:OrangeRed">参观都乐菠萝园</span> 
+</span></b></summary>
+<ul>早上酒店买了 Acai Bowl，巧克力蛋糕和可颂。然后搭公交去了菠萝园，买了套票坐小火车，走迷宫，参观植物园。小火车基本上没排队，一路上吹吹风听听歌和介绍，还是挺舒服的。吃了菠萝冰激凌，买了很多纪念品，菠萝园的娃娃， Snoopy T恤，饼干，香蕉片（好好吃）菠萝冰激凌，晚饭排队吃的丸龟制面，乌冬面 10 刀一碗，还点了天妇罗和饭团，一共才花了$22.83，特别特别便宜，很热闹的店。</ul>
+</details>
+
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/27 周四 
+    <span style="color:OrangeRed">出海看野生海豚</span> 
+</span></b></summary>
+<ul>前一天下午买的票，Dolphins and You 的团正好还剩最后一个位置，一个人 $160.65，早起不来，买的十一点那场，做好看不到海豚的心理准备，不过最后看到啦！很多海豚围着船游特别灵活，天也特别好，拍了美美的照片。浮潜体验一般，主要是去过恐龙湾，高下立判。特地吃了晕船药，没想到竟然还晕船了😂 吐了一下喝了点水立马好了，船上送的午饭也很好吃。我听边上游客说船停在水中晃动的时候特别容易晕，所以中间活动的时候还是在水里玩会比较好。</ul>
+</details>
+    
+<br>
+<details> 
+<summary><b><span style="color:black">7/28 周五 
+    <span style="color:OrangeRed">上午爬钻石山，下午和朋友一起逛珍珠港</span> 
+</span></b></summary>
+<ul>早上酒店买了巧克力蛋糕，可颂和鸡翅。提前买好了钻石山门票，一辆车两个人 $21.53，爬起来没有很累，大概一个多小时可以爬完，人还挺多的，不过看到路上有人中暑直升机飞来救人的。下午珍珠港去得有点晚，所以只看了亚利桑那号，密苏里号要坐汽车，闭馆时间也蛮早的没来得及去。最后逛了一个不是很热门的潜水艇博物馆。晚上小伙伴请客去吃了非常贵的烧烤，吃得非常撑。</ul>
+</details>
+
+
+<br>
+<details> 
+<summary><b><span style="color:black">7/29 周六 
+    <span style="color:OrangeRed">逛奥特莱斯</span> 
+</span></b></summary>
+<ul>中午麦当劳速度解决，奥莱买了两个 Kate Spade 的包，米妮圆筒包 $99，橙子手机包 $75，Gap 黄色史努比 T 恤，橘粉色 Romper，拉夫劳伦 T 恤 和 Polo 衫，这边税好低只有湾区的一半。晚上和朋友一起吃了雾味 Chong Qing Cuisine，招牌菜是牛肉面和米线，四个人 $98.1</ul>
+</details>
+
+    
+    
+<br>
+<details> 
+<summary><b><span style="color:black">7/30 周日 
+    <span style="color:Gray">误机改签，逛街，吃网红 Brunch</span> 
+</span></b></summary>
+<ul>早上遇到一些意外情况，本来想说可能还有时间去趟珍珠港，结果发现车没电了。叫了 Road Service，自费一百多找人来 Jump Start，飞机又正好晚点了，车修好了还有点时间，老公说那去逛逛街吧！因为我前一天提到说想去逛一下这里的优衣库。总之就是有点想当然，因为在湾区这边用 Global Entry 赶飞机一直很顺利不花什么时间，但我们当时租着车，还要去还车，我逛街时候也没关注时间，最后就是没赶上飞机，还好免费重新改签了第二天的机票。订了个便宜的酒店，也是四星但到了发现好小好小，前台也是效率很低的等了很久，和希尔顿还是不能比的，虽然那边被挺多人吐槽破。下午收拾一下心情去吃了网红餐厅 Island Vintage Cafe，点了 Mushroom Benedict 和 Crab Scramble，一共花了 $80.09。贵是贵，好吃还是蛮好吃的。</ul>
+</details>
+
 
 <!-- 模版
 <br>
