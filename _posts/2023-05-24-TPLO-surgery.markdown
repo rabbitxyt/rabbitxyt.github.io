@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 狗子的 TPLO 手术
-date: 2023-07-08 09:00:00 -0400
+date: 2023-08-19 09:00:00 -0400
 description: TPLO surgery
 img: lunatplo.jpg
 tags: [记事]
