@@ -34,12 +34,12 @@ MATH 180 (preferred) or MATH 105 or quivalent
 
 
 
-### <a href="https://foothill.edu/counseling/pdf/aa-advising-fall2025-summer2026.pdf" target="_blank">General Education Requirements for A.A./A.S. DEGREE</a>
+### <a href="https://foothill.edu/counseling/pdf/aa-advising-fall2025-summer2026.pdf" target="_blank">General Education Requirements for A.S. DEGREE</a>
 
 
 1 - English composition / critical thinking x2 (ENGL 1A - 5 units; CS 3A - 4.5 units)
 
-2 ‐ Mathematical concepts and quantitative reasoning x1
+2 ‐ Mathematical concepts and quantitative reasoning x1 ( STAT C1000 - 5 units)
 
 3 ‐ Arts and humanities x1 (PHOT 5 / Art 4A - 4 units)
 
