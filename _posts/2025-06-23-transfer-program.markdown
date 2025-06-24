@@ -24,7 +24,9 @@ Winter: BIOL 41 (6) + VT 51 (2)
 MATH 180 (preferred) or MATH 105 or quivalent
 
 
-<a href="https://foothill.programmapper.com/academics/interest-clusters/4599380c-55e7-4e19-96eb-8943fb25c7be/programs/f726d449-f562-05c3-cfd4-c3bb366731c4" target="_blank"> Program Map</a> | <a href="https://foothill.edu/calendar/index.html" target="_blank"> Academic Calendar</a>
+<a href="https://foothill.programmapper.com/academics/interest-clusters/4599380c-55e7-4e19-96eb-8943fb25c7be/programs/f726d449-f562-05c3-cfd4-c3bb366731c4" target="_blank"> Program Map</a> 
+
+<a href="https://foothill.edu/calendar/index.html" target="_blank"> Academic Calendar</a>
 
 
 
