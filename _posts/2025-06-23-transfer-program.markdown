@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Foothill 社区大学生物专业 / 兽医助理
-date: 2023-06-23 09:00:00 -0400
+date: 2025-06-23 09:00:00 -0400
 description: study
 img: foothill.jpg
 tags: [学习]
@@ -55,7 +55,7 @@ VT 51 - Introduction to Veterinary Technology
 
 4 ‐ Social and behavioral sciences x1 (PSYC 1 - 5 units)
 
-5 ‐ Natural sciences x1 (CHEM 30A)
+5 ‐ Natural sciences x1 (CHEM 30A - 5 units)
 
 6 - Ethnic Studies x1 (ETHN 1 - 4 units)
 
@@ -64,10 +64,11 @@ VT 51 - Introduction to Veterinary Technology
 
 
 
-
+<!--
 
 <br>
 
 <a href="{{ site.url }}{{ site.baseurl }}/course/2023-06-26-khan-biology-note" target="_blank"> Khan Biology 笔记</a>
 
 
+-->
