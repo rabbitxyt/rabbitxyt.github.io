@@ -15,17 +15,17 @@ tags: [学习]
 
 <a href="https://foothill.edu/vettech/prereq.html" target="_blank">Prerequisites </a>
 
+CHEM 30A
+
 BIOL 10 (General College Biology)
 
 BIOL 41 (Microbiology)
 
-CHEM 30A
-
 ENGL 1A, or 1H, or 1S & 1T (Composition and Reading)
 
-VT 51 - Introduction to Veterinary Technology.
+MATH 180 (preferred) or MATH 105 or quivalent
 
-MATH 180 (preferred) or MATH 105 or quivalent.
+VT 51 - Introduction to Veterinary Technology
 
 
 
@@ -43,36 +43,31 @@ MATH 180 (preferred) or MATH 105 or quivalent.
 
 
 
-
-
-### <a href="https://foothill.edu/counseling/pdf/igetc-advising-current.pdf" target="_blank">General Education Requirements for UC（公共课）</a>
+### <a href="https://foothill.edu/counseling/pdf/aa-advising-fall2025-summer2026.pdf" target="_blank">General Education Requirements for A.A./A.S. DEGREE</a>
 
 <a href="https://catalog.foothill.edu/degree-certificate-requirements/general-education-graduation-requirements/" target="_blank">全部课程列表</a>
 
-1 - English composition / critical thinking x2
+1 - English composition / critical thinking x2 (ENGL 1A - 5 units)
 
-2 ‐ mathematical concepts and quantitative reasoning x1
+2 ‐ Mathematical concepts and quantitative reasoning x1
 
-3 ‐ arts and humanities x3
+3 ‐ Arts and humanities x1 (PHOT 5 / Art 4A - 4 units)
 
-4 ‐ social and behavioral sciences x3
+4 ‐ Social and behavioral sciences x1 (PSYC 1 - 5 units)
 
-5 ‐ physical and biological sciences x2
+5 ‐ Natural sciences x1 (CHEM 30A)
+
+6 - Ethnic Studies x1 (ETHN 1 - 4 units)
+
+7 - Lifelong learning x1 (HLTH 21 - 4 units)
+
+
+
 
 
 
 <br>
 
-### <a href="https://admission.universityofcalifornia.edu/admission-requirements/transfer-requirements/uc-transfer-programs/transfer-pathways/biology.html" target="_blank">Biology Transfer Pathway（生物专业课）</a>
- 
-
-General biology with lab: BIOL 1A + 1B +1C
-
-General chemistry with lab: CHEM 1A + 1B +1C
-
-Calculus for STEM majors: MATH 1A + 1B +1C
-
-Organic chemistry with lab: CHEM 12A + 12B +12C
-
+<a href="{{ site.url }}{{ site.baseurl }}/course/2023-06-26-khan-biology-note" target="_blank"> Khan Biology 笔记</a>
 
 
