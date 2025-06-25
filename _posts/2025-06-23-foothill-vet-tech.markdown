@@ -16,12 +16,12 @@ tags: [学习]
 
 Summer: CHEM 30A (5) + ENGL 1A (5)
 
-Fall: BIOL 10 (5)
+Fall: BIOL 10 (5) + MATH 40A (5) or equivalent college-level course (check with counselor)
 
 Winter: BIOL 41 (6) + VT 51 (2)
 
 
-MATH 180 (preferred) or MATH 105 or quivalent
+
 
 
 <a href="https://foothill.programmapper.com/academics/interest-clusters/4599380c-55e7-4e19-96eb-8943fb25c7be/programs/f726d449-f562-05c3-cfd4-c3bb366731c4" target="_blank"> Program Map</a> 
