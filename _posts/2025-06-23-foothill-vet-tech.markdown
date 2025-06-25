@@ -16,11 +16,11 @@ tags: [学习]
 
 Summer: CHEM 30A (5) + ENGL 1A (5)
 
-Fall: BIOL 10 (5) + MATH 40A (5)
+Fall: BIOL 10 (5) + MATH 40A (5) + CNSL 72 (3)
 
-Winter: BIOL 41 (6) + VT 51 (2)
+Winter: BIOL 41 (6) + VT 51 (2) + PSYC 1 (5)
 
-
+Spring: CS 3A (4.5) + ETHN 1 (4) + PHOT 5 (4)
 
 
 
@@ -28,28 +28,8 @@ Winter: BIOL 41 (6) + VT 51 (2)
 
 <a href="https://foothill.edu/calendar/index.html" target="_blank"> Academic Calendar</a>
 
+<a href="https://foothill.edu/counseling/pdf/aa-advising-fall2025-summer2026.pdf" target="_blank">General Education Requirements for A.S. DEGREE</a>
 
-
-<br>
-
-
-
-### <a href="https://foothill.edu/counseling/pdf/aa-advising-fall2025-summer2026.pdf" target="_blank">General Education Requirements for A.S. DEGREE</a>
-
-
-1 - English composition / critical thinking x2 (ENGL 1A - 5 units; CS 3A - 4.5 units)
-
-2 ‐ Mathematical concepts and quantitative reasoning x1 ( MATH 40A - 5 units)
-
-3 ‐ Arts and humanities x1 (PHOT 5 / Art 4A - 4 units)
-
-4 ‐ Social and behavioral sciences x1 (PSYC 1 - 5 units)
-
-5 ‐ Natural sciences x1 (CHEM 30A - 5 units; BIOL 10 - 5 units; BIOL 41 - 6 units)
-
-6 - Ethnic Studies x1 (ETHN 1 - 4 units)
-
-7 - Lifelong learning x1 (CNSL 72 - 3 units / HLTH 21 - 4 units)
 
 
 
