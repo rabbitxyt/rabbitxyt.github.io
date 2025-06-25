@@ -16,7 +16,7 @@ tags: [学习]
 
 Summer: CHEM 30A (5) + ENGL 1A (5)
 
-Fall: BIOL 10 (5) + MATH 40A (5) or equivalent college-level course (check with counselor)
+Fall: BIOL 10 (5) + MATH 40A (5)
 
 Winter: BIOL 41 (6) + VT 51 (2)
 
@@ -39,7 +39,7 @@ Winter: BIOL 41 (6) + VT 51 (2)
 
 1 - English composition / critical thinking x2 (ENGL 1A - 5 units; CS 3A - 4.5 units)
 
-2 ‐ Mathematical concepts and quantitative reasoning x1 ( STAT C1000 - 5 units)
+2 ‐ Mathematical concepts and quantitative reasoning x1 ( MATH 40A - 5 units)
 
 3 ‐ Arts and humanities x1 (PHOT 5 / Art 4A - 4 units)
 
