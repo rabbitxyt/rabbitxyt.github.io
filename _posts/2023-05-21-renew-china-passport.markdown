@@ -3,7 +3,7 @@ layout: post
 title: 申请中国护照换发
 date: 2023-05-21 10:00:00 -0400
 description: renew china passport
-img: passport.jpg
+img: passport.png
 tags: [攻略]
 ---
 
