@@ -14,13 +14,16 @@ tags: [学习]
 
 <a href="https://foothill.edu/vettech/prereq.html" target="_blank">Prerequisites </a>
 
-Summer: CHEM 30A (5) + ENGL 1A (5)
+Summer (6/30 - 8/8) CHEM 30A (5) + ENGL 1A (5)
 
-Fall: BIOL 10 (5) + MATH 40A (5) + Math 240A (2.5) + VT 51 (2)
 
-Winter: BIOL 41 (6)  + PSYC 1 (5) + CNSL 72 (3)
+Fall (9/22 - 12/12) BIOL 10 (5) + MATH 40A (5) + Math 240A (2.5) + VT 51 (2)
 
-Spring: CS 3A (4.5) + ETHN 1 (4) + PHOT 5 (4)
+
+Winter (1/5 - 3/27) BIOL 41 (6)  + PSYC 1 (5) + CNSL 72 (3)
+
+
+Spring (4/6 - 6/26) CS 3A (4.5) + ETHN 1 (4) + PHOT 5 (4)
 
 
 
