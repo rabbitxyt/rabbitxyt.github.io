@@ -33,15 +33,3 @@ Spring (4/6 - 6/26) CS 3A (4.5) + ETHN 1 (4) + PHOT 5 (4)
 
 <a href="https://foothill.edu/counseling/pdf/aa-advising-fall2025-summer2026.pdf" target="_blank">General Education Requirements for A.S. DEGREE</a>
 
-
-
-
-
-<!--
-
-<br>
-
-<a href="{{ site.url }}{{ site.baseurl }}/course/2023-06-26-khan-biology-note" target="_blank"> Khan Biology 笔记</a>
-
-
--->
